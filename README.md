@@ -4,9 +4,13 @@
 ```
 git clone https://github.com/martinoo31/Law-GPTOrder
 ```
-## Per usare
+## Per usare solo un file di domande all'interno di una cartella
 ```
-python3 claudia.py Nomedelfile.json
+python3 claudia.py Nomecartella/Nomedelfile.json
+```
+## Per usare tutte le domande di una cartella
+```
+python3 claudia.py Nomecartella
 ```
 
 ## Formato JSON delle domande
