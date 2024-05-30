@@ -1,6 +1,7 @@
 # Law&GPTOrder
 
-Questo programma permette di allenarti al meglio per l'esame di Diritto di Ingegneria Innformatica.
+Questo programma permette di allenarti al meglio per l'esame di Diritto di Ingegneria Informatica.
+
 Si premette che le domande sono state generate automaticamente in base alla teoria del corso. Nessuna domanda è stata reperita da qualche prova di esame.
 
 Ci sono due metodi di invocazione del programma che permettono di esercitarsi in maniera differente:
@@ -11,13 +12,13 @@ Ci sono due metodi di invocazione del programma che permettono di esercitarsi in
 ```
 git clone https://github.com/martinoo31/Law-GPTOrder
 ```
-## Per usare solo un file di domande all'interno di una cartella
+## Per allenarti su un argomento specifico
 ```
-python3 claudia.py Nomecartella/Nomedelfile.json
+python3 claudia.py NomeCartellaCapitolo/NomeFileArgomento.json
 ```
-## Per usare tutte le domande di una cartella
+## Per allenarti su tutte le domande di una cartella
 ```
-python3 claudia.py Nomecartella
+python3 claudia.py NomeCartellaCapitolo
 ```
 
 ## Formato JSON delle domande
