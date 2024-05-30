@@ -1,0 +1,123 @@
+[
+  {
+    "domanda": "Quali sono i principali criteri di interpretazione della legge?",
+    "scelte": [
+      "Letterale e analogica",
+      "Letterale e teleologica",
+      "Teleologica e giurisprudenziale",
+      "Dottrinale e giurisprudenziale",
+      "Teleologica e dottrinale"
+    ],
+    "corretta": 1,
+    "spiegazione": "I principali criteri di interpretazione della legge sono l'interpretazione letterale e l'interpretazione teleologica."
+  },
+  {
+    "domanda": "Che cosa si intende per interpretazione letterale della legge?",
+    "scelte": [
+      "Interpretazione basata sul significato letterale delle parole",
+      "Interpretazione basata sulle intenzioni del legislatore",
+      "Interpretazione basata su precedenti giudiziari",
+      "Interpretazione basata su principi generali dell'ordinamento",
+      "Interpretazione basata su norme simili"
+    ],
+    "corretta": 0,
+    "spiegazione": "L'interpretazione letterale della legge si basa sul significato letterale delle parole."
+  },
+  {
+    "domanda": "Quale tipo di interpretazione della legge si basa sulle intenzioni del legislatore?",
+    "scelte": [
+      "Interpretazione letterale",
+      "Interpretazione teleologica",
+      "Interpretazione analogica",
+      "Interpretazione dottrinale",
+      "Interpretazione giudiziale"
+    ],
+    "corretta": 1,
+    "spiegazione": "L'interpretazione teleologica si basa sulle intenzioni del legislatore."
+  },
+  {
+    "domanda": "Cos'è l'interpretazione estensiva?",
+    "scelte": [
+      "Interpretazione che limita il significato di una norma",
+      "Interpretazione che amplia il significato di una norma",
+      "Interpretazione basata su casi simili",
+      "Interpretazione che segue il significato letterale delle parole",
+      "Interpretazione che si basa su trattati e manuali"
+    ],
+    "corretta": 1,
+    "spiegazione": "L'interpretazione estensiva amplia il significato di una norma rispetto a quello letterale."
+  },
+  {
+    "domanda": "In quale ambito non è applicabile l'analogia?",
+    "scelte": [
+      "Norme civili",
+      "Norme amministrative",
+      "Norme penali",
+      "Norme fiscali",
+      "Norme costituzionali"
+    ],
+    "corretta": 2,
+    "spiegazione": "L'analogia non è applicabile nel caso del codice penale."
+  },
+  {
+    "domanda": "Cosa accade se non vi sono né norme specifiche né norme relative a casi analoghi?",
+    "scelte": [
+      "Si ricorre all'interpretazione dottrinale",
+      "Si ricorre ai principi generali dell'ordinamento giuridico dello Stato",
+      "Si ricorre all'interpretazione giudiziale",
+      "Si ricorre all'interpretazione letterale",
+      "Si ricorre all'interpretazione teleologica"
+    ],
+    "corretta": 1,
+    "spiegazione": "Se non vi sono norme specifiche né norme relative a casi analoghi, si ricorre ai principi generali dell'ordinamento giuridico dello Stato."
+  },
+  {
+    "domanda": "Che tipo di interpretazione delle norme è fornita dai giuristi?",
+    "scelte": [
+      "Interpretazione teleologica",
+      "Interpretazione dottrinale",
+      "Interpretazione analogica",
+      "Interpretazione letterale",
+      "Interpretazione giurisprudenziale"
+    ],
+    "corretta": 1,
+    "spiegazione": "L'interpretazione dottrinale è fornita dai giuristi attraverso trattati, commentari, manuali e articoli di diritto."
+  },
+  {
+    "domanda": "Qual è la funzione principale di una norma giuridica?",
+    "scelte": [
+      "Imporre o proibire un certo comportamento",
+      "Descrivere eventi storici",
+      "Fornire interpretazioni giuridiche",
+      "Commentare decisioni giudiziarie",
+      "Fornire opinioni su questioni legali"
+    ],
+    "corretta": 0,
+    "spiegazione": "La funzione principale di una norma giuridica è imporre o proibire un certo comportamento, stabilendo obblighi, diritti e oneri."
+  },
+  {
+    "domanda": "Qual è il compito del giudice quando decide su una controversia?",
+    "scelte": [
+      "Applicare le norme senza interpretarle",
+      "Interpretare le norme su cui si fonda la decisione",
+      "Seguire sempre le decisioni di altri giudici",
+      "Consultare esperti di diritto per la decisione",
+      "Seguire solo l'interpretazione letterale delle norme"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il giudice deve interpretare le norme su cui si fonda la decisione quando decide su una controversia."
+  },
+  {
+    "domanda": "Cosa distingue il sistema di common law dal civil law in termini di interpretazione giudiziaria?",
+    "scelte": [
+      "Il sistema di common law non ha precedenti vincolanti",
+      "Il sistema di civil law ha precedenti vincolanti",
+      "Il sistema di common law si basa su precedenti giudiziari vincolanti",
+      "Il sistema di civil law non richiede l'interpretazione delle norme",
+      "Il sistema di common law non prevede l'interpretazione delle norme"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il sistema di common law si basa su precedenti giudiziari vincolanti, mentre nel sistema di civil law un giudice non è obbligato a conformarsi alle interpretazioni precedenti."
+  }
+]
+

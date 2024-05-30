@@ -1,0 +1,112 @@
+[
+  {
+    "domanda": "Quale giudice esamina la causa nel merito per la prima volta?",
+    "scelte": [
+      "Giudice di Pace",
+      "Corte d'Appello",
+      "Corte di Cassazione",
+      "Giudice del Lavoro",
+      "Giudidice di Pace o Tribunale"
+    ],
+    "corretta": 4,
+    "spiegazione": "Il giudice di primo grado, che esamina la causa nel merito per la prima volta, può essere il Giudice di Pace o il Tribunale."
+  },
+  {
+    "domanda": "Quale giudice riesamina e si pronuncia su una causa già esaminata la prima volta?",
+    "scelte": [
+      "Giudice di Pace",
+      "Corte d'Appello",
+      "Corte di Cassazione",
+      "Tribunale",
+      "Consiglio di Stato"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il giudice di secondo grado, che riesamina e si pronuncia su una causa già esaminata la prima volta, è la Corte d'Appello."
+  },
+  {
+    "domanda": "Quale corte effettua un controllo sulla legalità dei precedenti gradi di giudizio?",
+    "scelte": [
+      "Corte d'Appello",
+      "Tribunale",
+      "Giudice di Pace",
+      "Corte di Cassazione",
+      "Consiglio di Stato"
+    ],
+    "corretta": 3,
+    "spiegazione": "La Corte di Cassazione effettua un controllo sulla legalità dei precedenti gradi di giudizio."
+  },
+  {
+    "domanda": "In quale caso un giudice deve riesaminare la controversia?",
+    "scelte": [
+      "Se la Corte d'Appello conferma la sentenza di primo grado",
+      "Se la Corte di Cassazione giudica negativamente la legalità dei precedenti gradi di giudizio",
+      "Se il Giudice di Pace lo richiede",
+      "Se la parte vincitrice lo richiede",
+      "Se la Corte d'Appello annulla la sentenza di primo grado"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un giudice deve riesaminare la controversia se la Corte di Cassazione giudica negativamente la legalità dei precedenti gradi di giudizio."
+  },
+  {
+    "domanda": "Qual è la principale differenza tra una norma giuridica e una sentenza?",
+    "scelte": [
+      "La norma giuridica è concreta, mentre la sentenza è astratta",
+      "La norma giuridica è un comando generale ed astratto, mentre la sentenza è un comando individuale e concreto",
+      "La sentenza è vincolante per tutti, mentre la norma giuridica no",
+      "La norma giuridica si applica solo in ambito penale, mentre la sentenza è universale",
+      "La sentenza è redatta dal legislatore, mentre la norma giuridica è decisa dal giudice"
+    ],
+    "corretta": 1,
+    "spiegazione": "La norma giuridica è un comando generale ed astratto, mentre la sentenza è un comando individuale e concreto rivolto solo alle parti della controversia."
+  },
+  {
+    "domanda": "In che modo la sentenza di un giudice influisce su casi futuri in Italia?",
+    "scelte": [
+      "È sempre vincolante per tutti i giudici futuri",
+      "Non è vincolante per altri giudici, ma può costituire un riferimento importante",
+      "È vincolante solo per i giudici di primo grado",
+      "Non ha alcun valore per i giudici futuri",
+      "È vincolante solo per casi simili"
+    ],
+    "corretta": 1,
+    "spiegazione": "In Italia, la sentenza di un giudice non è vincolante per altri giudici, ma può costituire un riferimento importante."
+  },
+  {
+    "domanda": "Qual è la funzione di una norma giuridica?",
+    "scelte": [
+      "Stabilire obblighi, diritti e oneri",
+      "Risolvere controversie specifiche",
+      "Interpretare altre norme",
+      "Commentare decisioni giudiziarie",
+      "Fornire opinioni su questioni legali"
+    ],
+    "corretta": 0,
+    "spiegazione": "La funzione di una norma giuridica è stabilire obblighi, diritti e oneri."
+  },
+  {
+    "domanda": "Qual è il ruolo del giudice nel giudizio di legittimità?",
+    "scelte": [
+      "Esaminare il merito della causa",
+      "Riesaminare e pronunciarsi nuovamente sulla causa",
+      "Controllare la legalità dei precedenti gradi di giudizio",
+      "Interpretare nuove norme giuridiche",
+      "Redigere nuove norme giuridiche"
+    ],
+    "corretta": 2,
+    "spiegazione": "Nel giudizio di legittimità, il ruolo del giudice è controllare la legalità dei precedenti gradi di giudizio."
+  },
+  {
+    "domanda": "Che cosa distingue un giudice di primo grado da un giudice di secondo grado?",
+    "scelte": [
+      "Il giudice di primo grado esamina la causa per la prima volta, mentre il giudice di secondo grado riesamina la causa già esaminata",
+      "Il giudice di primo grado si occupa solo di cause civili, mentre il giudice di secondo grado si occupa di cause penali",
+      "Il giudice di primo grado è sempre un Giudice di Pace, mentre il giudice di secondo grado è sempre un Tribunale",
+      "Il giudice di primo grado decide solo sulla legalità delle norme, mentre il giudice di secondo grado decide sul merito",
+      "Il giudice di primo grado si basa solo su norme giuridiche, mentre il giudice di secondo grado si basa su sentenze"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il giudice di primo grado esamina la causa nel merito per la prima volta, mentre il giudice di secondo grado riesamina la causa già esaminata in primo grado."
+  } 
+  
+]
+
