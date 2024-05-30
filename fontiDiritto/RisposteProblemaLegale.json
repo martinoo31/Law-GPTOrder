@@ -1,0 +1,87 @@
+[
+  {
+    "domanda": "Quali sono i passaggi per l'applicazione del diritto in un caso concreto?",
+    "scelte": [
+      "Reperimento del diritto pertinente, interpretazione del diritto, sviluppo di un ragionamento per arrivare ad una soluzione",
+      "Consultazione delle fonti terziarie, interpretazione delle norme, sviluppo di un ragionamento per arrivare ad una soluzione",
+      "Ricerca delle opinioni dottrinali, analisi giurisprudenziale, applicazione pratica",
+      "Reperimento della normativa, sviluppo di un ragionamento, discussione in tribunale",
+      "Consultazione delle leggi, interpretazione giurisprudenziale, soluzione del caso"
+    ],
+    "corretta": 0,
+    "spiegazione": "I passaggi per l'applicazione del diritto in un caso concreto sono: reperimento del diritto pertinente, interpretazione del diritto, sviluppo di un ragionamento per arrivare ad una soluzione."
+  },
+  {
+    "domanda": "Cosa si cerca durante il reperimento del diritto?",
+    "scelte": [
+      "Normativa, Orientamento della Giurisprudenza, Interpretazione Dottrinale e Fonti Terziarie",
+      "Solo le leggi vigenti e i regolamenti comunali",
+      "Esclusivamente le sentenze dei tribunali superiori",
+      "Le opinioni dei giuristi e le interpretazioni accademiche",
+      "Unicamente i decreti legge e le direttive europee"
+    ],
+    "corretta": 0,
+    "spiegazione": "Durante il reperimento del diritto, si cerca la normativa, l'orientamento della giurisprudenza, l'interpretazione dottrinale e le fonti terziarie."
+  },
+  {
+    "domanda": "Perché vanno consultate le fonti terziarie?",
+    "scelte": [
+      "Perché le fonti terziarie come pronunce di autorità indipendenti contribuiscono a garantire l'osservanza e l'interpretazione uniforme della legge",
+      "Per ottenere un'interpretazione alternativa della normativa",
+      "Per consultare opinioni pubblicate su riviste giuridiche",
+      "Per verificare la validità delle leggi rispetto alle sentenze internazionali",
+      "Per confrontare le leggi con le direttive comunitarie"
+    ],
+    "corretta": 0,
+    "spiegazione": "Le fonti terziarie come pronunce di autorità indipendenti contribuiscono a garantire l'osservanza e l'interpretazione uniforme della legge."
+  },
+  {
+    "domanda": "Quale versione di leggi, decreti, regolamenti fa fede?",
+    "scelte": [
+      "Fa fede solo la versione pubblicata in Gazzetta Ufficiale",
+      "Fa fede la versione più recente disponibile online",
+      "Fa fede la versione presentata nei manuali di diritto",
+      "Fa fede la versione tradotta in più lingue",
+      "Fa fede la versione approvata dai tribunali"
+    ],
+    "corretta": 0,
+    "spiegazione": "Fa fede solo la versione pubblicata in Gazzetta Ufficiale."
+  },
+  {
+    "domanda": "Che cos'è il testo storico?",
+    "scelte": [
+      "La prima versione di una legge si trova nella Gazzetta Ufficiale",
+      "Una versione antica della legge non più in vigore",
+      "Un documento storico conservato negli archivi di stato",
+      "Una raccolta di leggi obsolete ma ancora rilevanti",
+      "Una versione della legge commentata dai giuristi"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il testo storico è la prima versione di una legge che si trova nella Gazzetta Ufficiale."
+  },
+  {
+    "domanda": "Che cos'è il testo consolidato?",
+    "scelte": [
+      "La stessa legge che è stata modificata da versioni successive, nella gazzetta ufficiale si trovano solo i riferimenti alle modifiche, la versione completa si trova nelle banche dati giuridiche",
+      "Una legge che non è mai stata modificata",
+      "Una versione preliminare di una legge in fase di approvazione",
+      "Una raccolta di leggi con commenti giuridici",
+      "Una versione della legge con aggiunte non ufficiali"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il testo consolidato è la stessa legge che è stata modificata da versioni successive; nella gazzetta ufficiale si trovano solo i riferimenti alle modifiche, mentre la versione completa si trova nelle banche dati giuridiche."
+  },
+  {
+    "domanda": "Gli atti ufficiali dello stato sono coperti da diritto d'autore?",
+    "scelte": [
+      "No",
+      "Sì, ma solo per le leggi recenti",
+      "Sì, se pubblicati dopo il 2000",
+      "Sì, ma con alcune eccezioni",
+      "No, tranne per i regolamenti ministeriali"
+    ],
+    "corretta": 0,
+    "spiegazione": "Gli atti ufficiali dello stato non sono coperti da diritto d'autore."
+  }
+]
+
