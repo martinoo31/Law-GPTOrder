@@ -1,0 +1,124 @@
+[
+  {
+    "domanda": "che cos'è una banca dati?",
+    "scelte": [
+      "una raccolta di opere o dati sistematicamente disposti e accessibili",
+      "un insieme di software per la gestione di informazioni",
+      "una rete di computer collegati tra loro",
+      "un tipo di servizio di cloud computing",
+      "un server per l'archiviazione di siti web"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "quali banche dati sono tutelate dal diritto d'autore?",
+    "scelte": [
+      "solo quelle cartacee",
+      "solo quelle elettroniche",
+      "quelle che costituiscono una creazione intellettuale dell’autore",
+      "tutte le banche dati indipendentemente dalla loro originalità",
+      "solo quelle pubbliche"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "cosa è tutelato di una banca dati dal diritto d'autore?",
+    "scelte": [
+      "il contenuto della banca dati",
+      "la forma espressiva, la struttura e la disposizione dei contenuti",
+      "il software utilizzato per la gestione della banca dati",
+      "solo i dati originali",
+      "il nome della banca dati"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "quando sorge il diritto d’autore sulla banca dati?",
+    "scelte": [
+      "al momento della registrazione ufficiale",
+      "al momento della pubblicazione online",
+      "al momento della creazione dell’opera",
+      "al momento della vendita della prima copia",
+      "al momento della richiesta di brevetto"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "quali diritti esclusivi ha l'autore di una banca dati?",
+    "scelte": [
+      "diritto di eseguire o autorizzare la riproduzione permanente o temporanea",
+      "diritto di modificare il software della banca dati",
+      "diritto di vendere i dati contenuti nella banca dati",
+      "diritto di concedere licenze per l'uso della banca dati",
+      "diritto di pubblicare articoli scientifici basati sulla banca dati"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "chi è il costitutore di una banca dati e quali diritti ha?",
+    "scelte": [
+      "un utente che accede ai dati",
+      "il soggetto che ha effettuato un investimento rilevante per realizzare la banca dati",
+      "un programmatore che crea il software della banca dati",
+      "un amministratore di sistema che gestisce i dati",
+      "un consulente legale che protegge i diritti d'autore"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "qual è la durata del diritto del costitutore su una banca dati?",
+    "scelte": [
+      "5 anni dal completamento",
+      "10 anni dal completamento",
+      "15 anni dal completamento",
+      "20 anni dal completamento",
+      "30 anni dal completamento"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "quale eccezione si applica al diritto del costitutore di una banca dati?",
+    "scelte": [
+      "uso per scopi di sicurezza pubblica o procedure giuridiche",
+      "uso commerciale senza restrizioni",
+      "riproduzione permanente senza citare la fonte",
+      "distribuzione gratuita online",
+      "modifica del contenuto senza permesso"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "quando decorre un nuovo termine di tutela del diritto del costitutore?",
+    "scelte": [
+      "quando la banca dati viene venduta a un nuovo proprietario",
+      "quando vengono apportate modifiche o integrazioni sostanziali",
+      "quando viene registrato un nuovo brevetto",
+      "quando la banca dati viene pubblicata su un nuovo sito web",
+      "quando il costitutore cambia il nome della banca dati"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "quale diritto ha l'utente legittimo di una banca dati senza autorizzazione del titolare?",
+    "scelte": [
+      "riproduzione permanente per uso personale",
+      "distribuzione commerciale dei dati",
+      "modifica dei contenuti per scopi didattici",
+      "riproduzione temporanea per accesso al contenuto",
+      "pubblicazione su riviste scientifiche"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "quali aspetti legali devono essere considerati nella costruzione di un sito web?",
+    "scelte": [
+      "la scelta del nome a dominio",
+      "le regole sul trattamento di dati personali",
+      "le informazioni obbligatorie per le imprese",
+      "tutti gli aspetti elencati",
+      "nessuno degli aspetti elencati"
+    ],
+    "corretta": 3
+  }
+]
+

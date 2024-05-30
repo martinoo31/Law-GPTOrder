@@ -1,0 +1,135 @@
+[
+  {
+    "domanda": "Quale delle seguenti affermazioni sui trattati dell'Unione Europea è corretta?",
+    "scelte": [
+      "Definiscono esclusivamente le regole di funzionamento delle istituzioni europee",
+      "Sono accordi vincolanti che stabiliscono anche le relazioni tra l'UE e i suoi paesi membri",
+      "Hanno valore inferiore rispetto alle leggi nazionali degli Stati membri",
+      "Sono vincolanti solo per alcuni paesi membri",
+      "Non influenzano le procedure per l’adozione delle decisioni nell'UE"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Qual è la differenza principale tra regolamenti e direttive comunitarie?",
+    "scelte": [
+      "I regolamenti sono immediatamente vincolanti per tutti gli Stati membri, mentre le direttive richiedono attuazione tramite leggi nazionali",
+      "Le direttive sono immediatamente vincolanti per tutti gli Stati membri, mentre i regolamenti richiedono attuazione tramite leggi nazionali",
+      "I regolamenti riguardano solo aspetti economici, mentre le direttive riguardano aspetti sociali",
+      "Le direttive sono vincolanti solo per alcuni Stati membri, mentre i regolamenti lo sono per tutti",
+      "I regolamenti devono essere approvati dai parlamenti nazionali, mentre le direttive no"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni è vera riguardo alle leggi costituzionali italiane?",
+    "scelte": [
+      "Possono essere modificate con un procedimento legislativo ordinario",
+      "Regolano solo le relazioni internazionali dell'Italia",
+      "Richiedono un procedimento speciale di revisione costituzionale per essere modificate",
+      "Sono inferiori alle leggi ordinarie dello Stato",
+      "Possono essere emanate dal Governo senza l'intervento del Parlamento"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Qual è il ruolo della Corte costituzionale in Italia?",
+    "scelte": [
+      "Redigere nuove leggi costituzionali",
+      "Decidere sull'illegittimità costituzionale delle leggi",
+      "Approvare i decreti legge",
+      "Promulgare le leggi ordinarie",
+      "Dettare i principi fondamentali nelle materie di competenza regionale"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Quale delle seguenti non è una fase del procedimento legislativo ordinario in Italia?",
+    "scelte": [
+      "Iniziativa",
+      "Approvazione",
+      "Promulgazione",
+      "Ratifica",
+      "Pubblicazione"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "In quale caso un decreto legge perde efficacia in Italia?",
+    "scelte": [
+      "Se il Governo non lo approva entro 60 giorni",
+      "Se il Parlamento non lo converte in legge entro 60 giorni",
+      "Se il Presidente della Repubblica non lo promulga entro 30 giorni",
+      "Se non viene pubblicato sulla Gazzetta Ufficiale entro 15 giorni",
+      "Se la Corte costituzionale ne dichiara l'illegittimità"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni descrive correttamente le riserve di legge relative?",
+    "scelte": [
+      "La materia deve essere regolata integralmente dalla legge",
+      "La legge detta i principi e il Governo può disciplinare i dettagli con regolamenti",
+      "Sono riservate esclusivamente al Parlamento europeo",
+      "La loro attuazione è demandata alle regioni",
+      "Sono utilizzate solo per le leggi costituzionali"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Quale potere ha il costitutore di una banca dati secondo il diritto sui generis?",
+    "scelte": [
+      "Può modificare i trattati dell'Unione Europea",
+      "Può vietare l'estrazione e il reimpiego della totalità o di una parte sostanziale della banca dati",
+      "Può emanare regolamenti nazionali",
+      "Può modificare la Costituzione italiana",
+      "Può approvare leggi regionali"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Quali materie sono disciplinate dalle leggi regionali in Italia?",
+    "scelte": [
+      "Solo le materie non regolate dalla Costituzione",
+      "Solo le materie economiche",
+      "Le materie indicate dall'art. 117 della Costituzione o altre indicate da leggi costituzionali",
+      "Solo le materie sociali",
+      "Le materie regolate dai trattati internazionali"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni è corretta riguardo agli usi e consuetudini?",
+    "scelte": [
+      "Sono deliberati da soggetti istituzionali",
+      "Hanno efficacia solo se richiamati da leggi o regolamenti nelle materie da essi regolate",
+      "Non possono influenzare le decisioni dei giudici",
+      "Hanno sempre piena efficacia giuridica",
+      "Sono sempre superiori ai regolamenti"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Qual è la principale differenza tra regolamenti di esecuzione e regolamenti indipendenti?",
+    "scelte": [
+      "I regolamenti di esecuzione regolano materie non regolate da alcuna legge",
+      "I regolamenti indipendenti regolano nei particolari materie già disciplinate dalla legge",
+      "I regolamenti di esecuzione regolano nei particolari materie già disciplinate dalla legge",
+      "I regolamenti indipendenti devono essere approvati dal Parlamento",
+      "I regolamenti di esecuzione non sono vincolanti"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Quale dei seguenti principi è sancito dalla Costituzione italiana riguardo ai trattati internazionali?",
+    "scelte": [
+      "Devono essere approvati dal Parlamento con legge ordinaria",
+      "Non possono mai prevalere sulle leggi nazionali",
+      "Possono essere modificati senza l'intervento del Parlamento",
+      "Non richiedono alcuna forma di ratifica",
+      "Possono essere approvati solo con legge costituzionale"
+    ],
+    "corretta": 0
+  }
+]
+
