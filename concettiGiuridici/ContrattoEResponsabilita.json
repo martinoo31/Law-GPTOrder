@@ -1,0 +1,201 @@
+[
+  {
+    "domanda": "Quali sono i requisiti del contratto?",
+    "scelte": [
+      "Accordo delle parti, Oggetto",
+      "Accordo delle parti, Causa, Oggetto, Forma, Obbligazione",
+      "Oggetto, Motivo, Forma e Accordo delle Parti",
+      "Accordo delle parti, Causa, Oggetto, Forma",
+      "Forma, Motivo e Accordo delle Parti"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "Un contratto può essere in forma verbale?",
+    "scelte": [
+      "Sì, solo però quei contratti che non hanno forme specificate dalla legge",
+      "No, i contratti devono essere sempre scritti",
+      "Sì, qualsiasi contratto può essere verbale",
+      "No, i contratti verbali non sono mai validi",
+      "Sì, ma solo se tutte le parti sono d'accordo"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Un contratto di compravendita di un immobile può essere in forma verbale?",
+    "scelte": [
+      "No, visto che la legge specifica una forma del contratto precisa",
+      "Sì, ma solo se il valore dell'immobile è basso",
+      "Sì, ma solo se le parti si conoscono",
+      "No, ma solo per immobili residenziali",
+      "Sì, se ci sono testimoni"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Chi può far valere la nullità e dopo quanto si prescrive?",
+    "scelte": [
+      "La nullità può essere fatta valere da chiunque, può essere rilevata d'ufficio dal giudice e non si prescrive",
+      "Solo le parti interessate possono farla valere entro 10 anni",
+      "Chiunque entro 5 anni",
+      "Solo il giudice entro 3 anni",
+      "Le parti interessate entro 20 anni"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Quali di questi motivi non rende nullo il contratto? (parte 1)",
+    "scelte": [
+      "Contrario a norme imperative",
+      "Manca un requisito essenziale",
+      "Motivo lecito ma nascosto",
+      "Illiceità della causa o dei motivi",
+      "Oggetto non ha i requisiti previsti"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Quali di questi motivi non rende nullo il contratto? (parte 2)",
+    "scelte": [
+      "Contrario a norme imperative",
+      "Manca un requisito essenziale",
+      "Illiceità della causa o dei motivi",
+      "Oggetto ha requisiti eccedenti",
+      "Nei casi stabiliti dalla legge"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "Definizione di annullabilità del contratto",
+    "scelte": [
+      "Un contratto si definisce annullabile quando una parte era incapace di contrattare, se il consenso è stato ottenuto per errore o con violenza o dolo",
+      "Quando una parte non è d'accordo dopo la firma",
+      "Se il contratto è contrario a norme imperative",
+      "Quando manca uno dei requisiti essenziali",
+      "Quando le parti non hanno rispettato la forma scritta"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Chi può richiedere l'annullabilità?",
+    "scelte": [
+      "L'annullabilità può essere richiesta solo dalla parte nel cui interesse è previsto, si prescrive in 5 anni",
+      "Qualsiasi parte del contratto entro 10 anni",
+      "Solo il giudice entro 5 anni",
+      "Chiunque entro 3 anni",
+      "Solo le parti interessate entro 1 anno"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Differenza fra contratti tipici e atipici",
+    "scelte": [
+      "I contratti tipici hanno una causa ‘tipica’, ossia sono previsti e regolati dalla legge. I contratti atipici non hanno una causa ‘tipica’. Significa che di volta in volta occorre accertare la ricorrenza o meno di una causa",
+      "I contratti tipici sono sempre scritti, quelli atipici sono verbali",
+      "I contratti tipici sono legali, quelli atipici no",
+      "I contratti tipici sono internazionali, quelli atipici sono locali",
+      "I contratti tipici sono standardizzati, quelli atipici sono personalizzati"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Quali di questi non è un tipo di responsabilità?",
+    "scelte": [
+      "Diretta",
+      "Contrattuale",
+      "Extracontrattuale",
+      "Indiretta",
+      "Oggettiva"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Come si può liberarsi dalla responsabilità oggettiva?",
+    "scelte": [
+      "Ci si libera con la prova di aver fatto tutto il possibile per evitare il danno",
+      "Non ci si può mai liberare",
+      "Solo con l'accordo della parte danneggiata",
+      "Con il pagamento di una penale",
+      "Con l'assicurazione obbligatoria"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Che cos'è una persona giuridica?",
+    "scelte": [
+      "Organizzazione collettiva, che compie atti giuridici mediante i suoi organi (esempio S.r.l o S.p.A)",
+      "Un individuo che agisce per conto di altri",
+      "Una persona che rappresenta un'azienda",
+      "Un gruppo di persone senza scopo di lucro",
+      "Un'associazione temporanea di imprese"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Che cos'è una persona fisica?",
+    "scelte": [
+      "Singolo individuo",
+      "Gruppo di persone",
+      "Un'azienda",
+      "Una società",
+      "Un ente pubblico"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Che cosa sono i diritti reali?",
+    "scelte": [
+      "Diritti sulle cose, cioè le facoltà che il titolare può esercitare sulle cose",
+      "Diritti relativi ad accordi commerciali",
+      "Diritti di proprietà intellettuale",
+      "Diritti legati ai rapporti familiari",
+      "Diritti derivanti da contratti di lavoro"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Che cos'è la capacità di agire?",
+    "scelte": [
+      "Attitudine a compiere atti giuridici con i quali acquistare diritti o assumere doveri. Si acquista con la maggiore età. I minori acquistano diritti e assumono doveri tramite i propri legali rappresentanti (ossia genitori o tutori)",
+      "Attitudine a essere titolari di diritti e doveri",
+      "Capacità di stipulare contratti internazionali",
+      "Facoltà di rappresentare legalmente un'altra persona",
+      "Abilità a risolvere controversie giuridiche"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Che cos'è la capacità giuridica?",
+    "scelte": [
+      "Attitudine ad essere titolari di diritti e di doveri. Si acquista alla nascita e dura fin alla morte. Ad esempio il bambino appena nato ha diritto alla successione",
+      "Capacità di agire legalmente",
+      "Facoltà di rappresentare un'azienda",
+      "Attitudine a stipulare contratti commerciali",
+      "Capacità di assumere obbligazioni"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Cosa sono le obbligazioni?",
+    "scelte": [
+      "Le obbligazioni sono vincoli legali tra due o più parti per una prestazione personale (ad esempio dare o non dare, fare, consegnare)",
+      "Contratti di acquisto di titoli di debito",
+      "Accordi tra soci di un'impresa",
+      "Promesse di pagamento tra privati",
+      "Garanzie fornite da una banca"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "È possibile essere sia creditori che debitori in un contratto?",
+    "scelte": [
+      "In molti casi entrambe le parti sono sia creditori che debitori, questo perché spesso in un contratto si prevede uno scambio",
+      "No, le parti devono avere ruoli distinti",
+      "Solo nei contratti di mutuo",
+      "Solo in contratti di compravendita",
+      "Solo in accordi informali"
+    ],
+    "corretta": 0
+  }
+]
+
