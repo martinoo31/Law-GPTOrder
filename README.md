@@ -1,5 +1,12 @@
 # Law&GPTOrder
 
+Questo programma permette di allenarti al meglio per l'esame di Diritto di Ingegneria Innformatica.
+Si premette che le domande sono state generate automaticamente in base alla teoria del corso. Nessuna domanda è stata reperita da qualche prova di esame.
+
+Ci sono due metodi di invocazione del programma che permettono di esercitarsi in maniera differente:
+- generazione delle domande di un intero capitolo
+- generazione delle domande su un argomento specifico di un capitolo
+
 ## Per scaricare
 ```
 git clone https://github.com/martinoo31/Law-GPTOrder
