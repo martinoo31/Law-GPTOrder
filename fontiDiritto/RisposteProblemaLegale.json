@@ -14,25 +14,25 @@
   {
     "domanda": "Cosa si cerca durante il reperimento del diritto?",
     "scelte": [
-      "Normativa, Orientamento della Giurisprudenza, Interpretazione Dottrinale e Fonti Terziarie",
       "Solo le leggi vigenti e i regolamenti comunali",
+      "Normativa, Orientamento della Giurisprudenza, Interpretazione Dottrinale e Fonti Terziarie",
       "Esclusivamente le sentenze dei tribunali superiori",
       "Le opinioni dei giuristi e le interpretazioni accademiche",
       "Unicamente i decreti legge e le direttive europee"
     ],
-    "corretta": 0,
+    "corretta": 1,
     "spiegazione": "Durante il reperimento del diritto, si cerca la normativa, l'orientamento della giurisprudenza, l'interpretazione dottrinale e le fonti terziarie."
   },
   {
     "domanda": "Perché vanno consultate le fonti terziarie?",
     "scelte": [
-      "Perché le fonti terziarie come pronunce di autorità indipendenti contribuiscono a garantire l'osservanza e l'interpretazione uniforme della legge",
       "Per ottenere un'interpretazione alternativa della normativa",
       "Per consultare opinioni pubblicate su riviste giuridiche",
+      "Perché le fonti terziarie come pronunce di autorità indipendenti contribuiscono a garantire l'osservanza e l'interpretazione uniforme della legge",
       "Per verificare la validità delle leggi rispetto alle sentenze internazionali",
       "Per confrontare le leggi con le direttive comunitarie"
     ],
-    "corretta": 0,
+    "corretta": 2,
     "spiegazione": "Le fonti terziarie come pronunce di autorità indipendenti contribuiscono a garantire l'osservanza e l'interpretazione uniforme della legge."
   },
   {
@@ -50,13 +50,13 @@
   {
     "domanda": "Che cos'è il testo storico?",
     "scelte": [
-      "La prima versione di una legge si trova nella Gazzetta Ufficiale",
       "Una versione antica della legge non più in vigore",
       "Un documento storico conservato negli archivi di stato",
+      "La prima versione di una legge si trova nella Gazzetta Ufficiale",
       "Una raccolta di leggi obsolete ma ancora rilevanti",
       "Una versione della legge commentata dai giuristi"
     ],
-    "corretta": 0,
+    "corretta": 2,
     "spiegazione": "Il testo storico è la prima versione di una legge che si trova nella Gazzetta Ufficiale."
   },
   {
