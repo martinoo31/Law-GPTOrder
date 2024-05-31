@@ -8,8 +8,7 @@ BLUE = '\033[94m'
 GREEN = '\033[92m'
 RED = '\033[91m'
 ENDC = '\033[0m'
-#GOLD = '\033[33m'
-GOLD = '\033[38;5;136m'
+GOLD = '\033[38;5;136m'  # Codice per un colore oro scuro
 
 def carica_domande(file_path):
     domande = []
@@ -25,23 +24,33 @@ def carica_domande(file_path):
     return domande
 
 def porre_domanda(domanda, numero_domanda, totale_domande):
+    # Mescola le opzioni di risposta mantenendo traccia della risposta corretta
+    scelte = domanda['scelte']
+    corretta = domanda['corretta']
+    
+    opzioni = list(enumerate(scelte))
+    random.shuffle(opzioni)
+    
+    # Trova il nuovo indice della risposta corretta
+    nuova_corretta = [idx for idx, (original_idx, _) in enumerate(opzioni) if original_idx == corretta][0]
+    
     print(f"\nDomanda {GOLD}{numero_domanda}{ENDC} di {GOLD}{totale_domande}{ENDC}")
     print(f"{BLUE}{domanda['domanda']}{ENDC}")
-    for idx, scelta in enumerate(domanda['scelte']):
+    for idx, (original_idx, scelta) in enumerate(opzioni):
         print(f"{idx + 1}. {scelta}")
     
     while True:
         try:
             risposta = int(input("Inserisci il numero della tua risposta: ")) - 1
-            if 0 <= risposta < len(domanda['scelte']):
-                return risposta
+            if 0 <= risposta < len(scelte):
+                return risposta, nuova_corretta
             else:
                 print("Per favore, inserisci un numero valido.")
         except ValueError:
             print("Per favore, inserisci un numero valido.")
 
-def verifica_risposta(domanda, risposta):
-    if risposta == domanda['corretta']:
+def verifica_risposta(domanda, risposta, corretta):
+    if risposta == corretta:
         print(f"{GREEN}Risposta corretta!{ENDC}")
         if 'spiegazione' in domanda:
             print(f"Spiegazione: {domanda['spiegazione']}")
@@ -65,8 +74,8 @@ def main():
     counterTot = len(domande)
     
     for i, domanda in enumerate(domande):
-        risposta = porre_domanda(domanda, i + 1, counterTot)
-        res = verifica_risposta(domanda, risposta)
+        risposta, nuova_corretta = porre_domanda(domanda, i + 1, counterTot)
+        res = verifica_risposta(domanda, risposta, nuova_corretta)
         if res:
             counter += 1
 
