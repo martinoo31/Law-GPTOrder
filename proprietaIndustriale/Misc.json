@@ -57,13 +57,13 @@
     {
     "domanda": "Quali segni non possono essere registrati per mancanza di capacità distintiva?",
     "scelte": [
-        "Segni di uso comune nel linguaggio corrente",
-        "Segni costituiti da indicazioni descrittive",
-        "Segni che hanno acquistato carattere distintivo",
+        "Quelli che consistono esclusivamente in segni divenuti di uso comune nel linguaggio corrente o negli usi costanti del commercio",
+        "Quelli costituiti esclusivamente dalle denominazioni generiche di prodotti o servizi o da indicazioni descrittive",
+        "Quelli che hanno acquistato carattere distintivo dopo la domanda di registrazione",
         "Tutte le risposte sono corrette",
         "Nessuna delle risposte è corretta"
     ],
-    "corretta": 3
+    "corretta": 1
     },
     {
     "domanda": "Chi può registrare un marchio?",
