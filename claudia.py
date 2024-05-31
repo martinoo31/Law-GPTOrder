@@ -40,8 +40,12 @@ def porre_domanda(domanda, numero_domanda, totale_domande):
         print(f"    {idx + 1}. {scelta}")
     
     while True:
+        risposta = input("Inserisci il numero della tua risposta (o 'fine' per terminare): ")
+        if risposta.lower() == 'fine':
+            return 'fine', nuova_corretta
+        
         try:
-            risposta = int(input("Inserisci il numero della tua risposta: ")) - 1
+            risposta = int(risposta) - 1
             if 0 <= risposta < len(scelte):
                 return risposta, nuova_corretta
             else:
@@ -62,6 +66,18 @@ def verifica_risposta(domanda, risposta, corretta):
             print(f"Spiegazione: {domanda['spiegazione']}")
         return False
 
+def mostra_risultati(counter, counterSottoposte):
+    voto = int(counter * 33 / counterSottoposte)
+    if voto > 30:
+        voto = "30L"
+    
+    print(f"\n-----------------------------------------------")
+    print(f"\nHai risposto correttamente a {GOLD}{counter} domande su {counterSottoposte}.{ENDC}")
+    print(f"Il tuo punteggio è del{GOLD} {counter / counterSottoposte * 100:.2f}%.{ENDC}")
+    print(f"All'esame il tuo voto sarebbe: {GOLD}{voto}{ENDC}")
+    print(f"Grazie per aver partecipato al quiz!")
+    print(f"\n-----------------------------------------------\n")
+
 def main():
     parser = argparse.ArgumentParser(description="Applicazione di quiz a scelta multipla.")
     parser.add_argument('file_domande', type=str, help="Il percorso del file JSON o della cartella contenente i file JSON con le domande.")
@@ -72,23 +88,18 @@ def main():
 
     counter = 0
     counterTot = len(domande)
+    counterSottoposte = 0
     
     for i, domanda in enumerate(domande):
         risposta, nuova_corretta = porre_domanda(domanda, i + 1, counterTot)
+        if risposta == 'fine':
+            break
+        counterSottoposte += 1
         res = verifica_risposta(domanda, risposta, nuova_corretta)
         if res:
             counter += 1
 
-    voto = int(counter * 33 / counterTot)
-    if voto > 30:
-        voto = "30L"
-    
-    print(f"\n-----------------------------------------------")
-    print(f"\nHai risposto correttamente a {GOLD}{counter} domande su {counterTot}.{ENDC}")
-    print(f"Il tuo punteggio è del{GOLD} {counter / counterTot * 100:.2f}%.{ENDC}")
-    print(f"All'esame il tuo voto sarebbe: {GOLD}{voto}{ENDC}")
-    print(f"Grazie per aver partecipato al quiz!")
-    print(f"\n-----------------------------------------------\n")
+    mostra_risultati(counter, counterSottoposte)
 
 if __name__ == "__main__":
     main()
