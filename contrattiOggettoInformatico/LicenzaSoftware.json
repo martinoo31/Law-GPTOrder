@@ -1,0 +1,168 @@
+[
+  {
+    "domanda": "La licenza software è un contratto atipico:",
+    "scelte": [
+      "no, perché le cause non sono regolate dalla legge",
+      "si, perché è un contratto regolato dal codice penale",
+      "si, perchè le cause non sono regolate dalla legge",
+      "no, perché segue le stesse norme dei contratti di vendita",
+      "si, perché è un contratto di lavoro"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "La licenza software cede il diritto di sfruttamento economico:",
+    "scelte": [
+      "si",
+      "solo in alcuni casi specifici",
+      "solo per le licenze open source",
+      "no",
+      "solo per le licenze di tipo commerciale"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "Possono essere applicate le norme del codice civile sulla locazione alle licenze software:",
+    "scelte": [
+      "no, mai",
+      "si salvo accordi contrari",
+      "si, sempre",
+      "solo se il software è di tipo commerciale",
+      "no, tranne in casi eccezionali"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Che cos'è la licenza software:",
+    "scelte": [
+      "Un contratto per l'acquisto del software",
+      "Un contratto di manutenzione del software",
+      "Un contratto che cede i diritti d'autore del software",
+      "La licenza software è un contrattato dove si cede il diritto di godimento di un software e la documentazione accessorie per il tempo stabilito",
+      "Un accordo per l'uso temporaneo del software senza diritto di sfruttamento economico"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "Chi è il licenziante di un software:",
+    "scelte": [
+      "Il compratore del software",
+      "Il titolare dei diritti di utilizzazione economica",
+      "Chi usa il software",
+      "Il distributore del software",
+      "L'utente finale del software"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Chi è il licenziante di un software:",
+    "scelte": [
+      "colui che detiene i diritti esclusivi di riprodurre il programma, di modificarlo, tradurlo, adattarlo e trasformarlo",
+      "Il venditore del software",
+      "Chi sviluppa il software",
+      "Chi acquista il software",
+      "L'amministratore del sistema"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Chi è il licenziatario di un software:",
+    "scelte": [
+      "Chi distribuisce il software",
+      "Il proprietario del software",
+      "Chi concede la licenza",
+      "Il creatore del software",
+      "colui che acquista il diritto di utilizzare il programma nei limiti previsti dal DA"
+    ],
+    "corretta": 4
+  },
+  {
+    "domanda": "Che cos'è la licenza a strappo:",
+    "scelte": [
+      "Una licenza per l'uso temporaneo del software",
+      "Una licenza per la distribuzione limitata del software",
+      "Una licenza per uso esclusivamente commerciale",
+      "una licenza per il software destinato ad ampia diffusione, mediante distribuzione di massa",
+      "Una licenza per il software di nicchia"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "Come funziona la licenza a strappo:",
+    "scelte": [
+      "Include un periodo di test senza obblighi contrattuali",
+      "Prevede un periodo di prova gratuito",
+      "Richiede l'approvazione scritta del contratto",
+      "Prevede il pagamento anticipato",
+      "la sua clausola principale prevede che l'apertura della condizione comporti l'accettazione del contratto"
+    ],
+    "corretta": 4
+  },
+  {
+    "domanda": "Nella licenza a strappo chi predispone le condizioni del contratto:",
+    "scelte": [
+      "Il licenziatario",
+      "Un ente indipendente",
+      "sono predisposte unilateralmente dalla software house",
+      "Un organo governativo",
+      "Il distributore del software"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Visto che è impossibile approvare per iscritto le clausole vessatorie nelle Licenze a 'strappo', esso sono valide?:",
+    "scelte": [
+      "Sono sempre valide",
+      "Non hanno alcun effetto legale",
+      "Possono essere considerate valide con l'accordo delle parti",
+      "Potrebbero essere ritenute inefficaci",
+      "Sono parzialmente valide"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "Che cos'è la licenza Shareware:",
+    "scelte": [
+      "Una licenza che consente l'uso gratuito del software senza limiti",
+      "Una licenza per il software open source",
+      "Una licenza che permette solo l'uso personale del software",
+      "Una licenza che prevede un periodo di prova iniziale gratuito",
+      "Una licenza che richiede un pagamento immediato"
+    ],
+    "corretta": 3
+  },
+  {
+    "domanda": "In una licenza Shareware la versione di prova è uguale a quella a pagamento?:",
+    "scelte": [
+      "Si, sempre",
+      "No la versione di prova può avere delle limitazioni",
+      "Dipende dal produttore del software",
+      "Si, ma con funzionalità aggiuntive nella versione a pagamento",
+      "Solo se specificato nel contratto"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Che cosa prevede la licenza di Software libero - Open Source:",
+    "scelte": [
+      "La licenza prevede l'uso commerciale senza restrizioni",
+      "La licenza prevede il pagamento di una tassa annuale",
+      "Licenza che prevede la messa a disposizione del codice sorgente",
+      "La licenza prevede l'uso del software per fini educativi",
+      "La licenza prevede l'uso del software solo in ambito aziendale"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Cosa succede nella licenza di Software Libero:",
+    "scelte": [
+      "Il titolare dei diritti cede il software in cambio di una donazione",
+      "Il titolare dei diritti concede a titolo gratuito facoltà che gli spettano in base alla DA",
+      "Il titolare dei diritti può vendere il software ad altri utenti",
+      "Il titolare dei diritti può revocare la licenza in qualsiasi momento",
+      "Il titolare dei diritti concede l'uso del software solo a determinate condizioni"
+    ],
+    "corretta": 1
+  }
+]
+

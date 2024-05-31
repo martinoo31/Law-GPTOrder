@@ -1,0 +1,267 @@
+[
+  {
+    "domanda": "(GPT)Il concetto di contratto a oggetto informatico.",
+    "scelte": [
+      "Un accordo scritto tra due parti per l'acquisto di beni fisici",
+      "Un contratto che regola l'uso di software e servizi digitali",
+      "Una convenzione per la compravendita di immobili",
+      "Un patto tra due nazioni per lo scambio culturale",
+      "Un contratto per il noleggio di veicoli"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un contratto a oggetto informatico è un accordo che regola l'uso di software e servizi digitali."
+  },
+  {
+    "domanda": "(GPT)Che cos’è un contratto?",
+    "scelte": [
+      "Un documento legale che stabilisce i termini di una vendita",
+      "Un accordo tra due o più parti che crea obblighi reciproci",
+      "Una dichiarazione unilaterale di volontà",
+      "Un atto notarile per la donazione di beni",
+      "Un documento contabile per la gestione delle finanze aziendali"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un contratto è un accordo tra due o più parti che crea obblighi reciproci."
+  },
+  {
+    "domanda": "(GPT)Il principio di autonomia contrattuale.",
+    "scelte": [
+      "La libertà di scegliere la forma del contratto",
+      "La possibilità di stipulare contratti solo con enti pubblici",
+      "Il diritto delle parti di determinare liberamente il contenuto del contratto",
+      "L'obbligo di seguire modelli contrattuali predefiniti",
+      "La facoltà di rescindere un contratto senza conseguenze"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il principio di autonomia contrattuale è il diritto delle parti di determinare liberamente il contenuto del contratto."
+  },
+  {
+    "domanda": "(GPT)Quali sono i requisiti del contratto?",
+    "scelte": [
+      "La registrazione presso un notaio",
+      "La capacità delle parti, l'accordo, l'oggetto e la causa",
+      "La firma di almeno tre testimoni",
+      "L'approvazione da parte di un giudice",
+      "La presentazione di garanzie finanziarie"
+    ],
+    "corretta": 1,
+    "spiegazione": "I requisiti del contratto sono la capacità delle parti, l'accordo, l'oggetto e la causa."
+  },
+    {
+    "domanda": "(GPT)I contratti devono essere stipulati per iscritto/firmati per la loro validità?",
+    "scelte": [
+      "Solo i contratti di lavoro",
+      "Solo i contratti immobiliari",
+      "No, molti contratti possono essere validi anche verbalmente",
+      "Sì, sempre",
+      "Solo i contratti di grande valore economico"
+    ],
+    "corretta": 2,
+    "spiegazione": "Molti contratti possono essere validi anche verbalmente, anche se alcuni tipi specifici richiedono la forma scritta."
+  },
+  {
+    "domanda": "(GPT)Quali sono le potenziali criticità di un contratto concluso solo verbalmente?",
+    "scelte": [
+      "Maggiore difficoltà nella prova dell'esistenza del contratto",
+      "Rischio di errori di trascrizione",
+      "Possibilità di violazione dei diritti d'autore",
+      "Necessità di approvazione notarile",
+      "Obbligo di archiviazione digitale"
+    ],
+    "corretta": 0,
+    "spiegazione": "Un contratto concluso solo verbalmente può presentare maggiori difficoltà nella prova della sua esistenza e dei termini concordati."
+  },
+  {
+    "domanda": "(GPT)Cosa sono le condizioni generali di contratto?",
+    "scelte": [
+      "Le clausole accessorie che si aggiungono ai contratti di lavoro",
+      "Le norme che regolano i contratti tra privati e la Pubblica Amministrazione",
+      "Le disposizioni standardizzate predisposte unilateralmente da una delle parti",
+      "Le regole che disciplinano i contratti internazionali",
+      "I termini contrattuali utilizzati nelle compravendite immobiliari"
+    ],
+    "corretta": 2,
+    "spiegazione": "Le condizioni generali di contratto sono le disposizioni standardizzate predisposte unilateralmente da una delle parti e accettate dall'altra parte."
+  },
+  {
+    "domanda": "Alcune clausole delle condizioni generali di contratto devono essere specificamente approvate per iscritto? Perché?",
+    "scelte": [
+      "Sì, per garantire la trasparenza e la consapevolezza delle parti",
+      "No, non è mai necessario",
+      "Sì, solo per i contratti internazionali",
+      "No, basta una firma digitale",
+      "Sì, solo se il contratto supera una certa somma di denaro"
+    ],
+    "corretta": 0,
+    "spiegazione": "Alcune clausole devono essere specificamente approvate per iscritto per garantire la trasparenza e la consapevolezza delle parti riguardo alle condizioni più onerose."
+  },
+  {
+    "domanda": "Può farmi qualche esempio di clausola c.d. vessatoria?",
+    "scelte": [
+      "Clausole che limitano la responsabilità del venditore",
+      "Clausole che prevedono sconti per il cliente",
+      "Clausole che estendono la garanzia del prodotto",
+      "Clausole che consentono la risoluzione anticipata del contratto senza penali",
+      "Clausole che prevedono l'assistenza gratuita"
+    ],
+    "corretta": 0,
+    "spiegazione": "Un esempio di clausola vessatoria è quella che limita la responsabilità del venditore, rendendo più gravosa la posizione del consumatore."
+  },
+  {
+    "domanda": "Per quale motivo è necessaria una doppia sottoscrizione?",
+    "scelte": [
+      "Per convalidare le firme dei testimoni",
+      "Per garantire l'autenticità del documento",
+      "Per assicurare che il contraente abbia letto e accettato le clausole vessatorie",
+      "Per rispettare le normative fiscali",
+      "Per facilitare la gestione del contratto"
+    ],
+    "corretta": 2,
+    "spiegazione": "La doppia sottoscrizione è necessaria per assicurare che il contraente abbia letto e accettato le clausole vessatorie, rendendo più chiara la loro consapevolezza."
+  },
+  {
+    "domanda": "Come si può gestire la doppia sottoscrizione nei contratti on line?",
+    "scelte": [
+      "Attraverso l'uso di firme elettroniche avanzate",
+      "Richiedendo la presenza fisica delle parti per la firma",
+      "Inviando copie cartacee via posta",
+      "Attraverso l'approvazione via email",
+      "Utilizzando un sistema di conferma vocale"
+    ],
+    "corretta": 0,
+    "spiegazione": "Nei contratti online, la doppia sottoscrizione può essere gestita attraverso l'uso di firme elettroniche avanzate che garantiscono l'accettazione consapevole delle clausole vessatorie."
+  },
+  {
+    "domanda": "Contratti conclusi mediante moduli o formulari.",
+    "scelte": [
+      "Sono considerati nulli in molti ordinamenti",
+      "Richiedono sempre la presenza di un notaio",
+      "Devono essere redatti in doppia copia",
+      "Possono contenere clausole standard predisposte unilateralmente",
+      "Devono essere registrati presso un'autorità competente"
+    ],
+    "corretta": 3,
+    "spiegazione": "I contratti conclusi mediante moduli o formulari possono contenere clausole standard predisposte unilateralmente da una delle parti, spesso l'azienda."
+  },
+  {
+    "domanda": "Clausole vessatorie nei contratti con i consumatori.",
+    "scelte": [
+      "Sono sempre illegali",
+      "Possono essere incluse solo con l'approvazione di un giudice",
+      "Devono essere specificamente approvate per iscritto dal consumatore",
+      "Non sono regolamentate dalla legge",
+      "Possono essere imposte solo per contratti di valore superiore a 1000 euro"
+    ],
+    "corretta": 2,
+    "spiegazione": "Nei contratti con i consumatori, le clausole vessatorie devono essere specificamente approvate per iscritto dal consumatore per essere considerate valide."
+  },
+  {
+    "domanda": "Contratto di licenza d’uso di software.",
+    "scelte": [
+      "È un accordo per la vendita di hardware",
+      "Regola l'uso e la distribuzione del software da parte dell'utente",
+      "È sempre a tempo indeterminato",
+      "Non può includere clausole di limitazione della responsabilità",
+      "Richiede l'approvazione di un ente governativo"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un contratto di licenza d'uso di software regola l'uso e la distribuzione del software da parte dell'utente, stabilendo i termini e le condizioni di utilizzo."
+  },
+  {
+    "domanda": "Se per sviluppare un software Le occorre utilizzare un altro software/libreria scaricato da Internet mediante licenza, a quali clausole della licenza deve prestare attenzione?",
+    "scelte": [
+      "Clausole sulla proprietà intellettuale e sull'uso consentito",
+      "Clausole sul colore dell'interfaccia utente",
+      "Clausole sui requisiti di sistema hardware",
+      "Clausole sulla velocità di connessione Internet",
+      "Clausole sull'installazione di driver specifici"
+    ],
+    "corretta": 0,
+    "spiegazione": "È importante prestare attenzione alle clausole sulla proprietà intellettuale e sull'uso consentito per evitare violazioni legali e assicurarsi che l'uso del software sia conforme ai termini di licenza."
+  },
+  {
+    "domanda": "Garanzie e responsabilità per vizi. Rimedi per l’utilizzatore.",
+    "scelte": [
+      "L'utilizzatore non ha alcun rimedio in caso di vizi",
+      "L'utilizzatore può richiedere la restituzione del prezzo o la riparazione del software",
+      "L'utilizzatore deve pagare una penale per i vizi",
+      "L'utilizzatore può solo segnalare i vizi senza ottenere compensazione",
+      "L'utilizzatore deve accettare i vizi senza alcun rimedio"
+    ],
+    "corretta": 1,
+    "spiegazione": "In caso di vizi, l'utilizzatore può richiedere la restituzione del prezzo, la riparazione o la sostituzione del software difettoso, come previsto dalle clausole di garanzia."
+  },
+  {
+    "domanda": "Licenza ‘a strappo’.",
+    "scelte": [
+      "Una licenza che richiede la firma di un documento cartaceo",
+      "Una licenza che si attiva aprendo una confezione sigillata",
+      "Una licenza che richiede la presenza di un notaio",
+      "Una licenza valida solo per un periodo di prova",
+      "Una licenza che non richiede alcuna accettazione formale"
+    ],
+    "corretta": 1,
+    "spiegazione": "La licenza 'a strappo' si attiva quando l'utente apre la confezione sigillata del software, accettando così implicitamente i termini del contratto."
+  },
+  {
+    "domanda": "Contratto di sviluppo software.",
+    "scelte": [
+      "Un contratto per la manutenzione di hardware",
+      "Un contratto per l'acquisto di licenze software",
+      "Un contratto in cui una parte si obbliga a sviluppare software secondo le specifiche del committente",
+      "Un contratto per la formazione del personale IT",
+      "Un contratto per la fornitura di servizi di rete"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il contratto di sviluppo software prevede che una parte, come una software house, si impegni a sviluppare un software in base alle specifiche richieste dall'altra parte, il committente."
+  },
+  {
+    "domanda": "Se dovessero proporLe un contratto di sviluppo software, a quali clausole presterebbe particolare attenzione e perché?",
+    "scelte": [
+      "Clausole sulla tempistica di consegna e sulle penalità per ritardi",
+      "Clausole sulla scelta dei colori dell'interfaccia",
+      "Clausole sul numero di pagine della documentazione",
+      "Clausole sull'obbligo di usare un certo tipo di computer",
+      "Clausole sull'ubicazione fisica dei server"
+    ],
+    "corretta": 0,
+    "spiegazione": "È fondamentale prestare attenzione alle clausole sulla tempistica di consegna e sulle penalità per ritardi per garantire che il progetto venga completato nei tempi previsti e che eventuali ritardi siano gestiti correttamente."
+  },
+  {
+    "domanda": "Appalto e contratto d’opera intellettuale.",
+    "scelte": [
+      "L'appalto si applica solo ai lavori manuali",
+      "Il contratto d'opera intellettuale è utilizzato solo per i lavori di costruzione",
+      "L'appalto è un contratto per la realizzazione di opere o servizi con obbligo di risultato, mentre il contratto d'opera intellettuale si basa su un'obbligazione di mezzi",
+      "Il contratto d'opera intellettuale non prevede alcun tipo di responsabilità",
+      "L'appalto può essere utilizzato solo nel settore pubblico"
+    ],
+    "corretta": 2,
+    "spiegazione": "L'appalto è un contratto per la realizzazione di opere o servizi con obbligo di risultato, mentre il contratto d'opera intellettuale si basa su un'obbligazione di mezzi, quindi il professionista si impegna a svolgere un'attività con diligenza, ma senza garantire un risultato specifico."
+  },
+  {
+    "domanda": "Licenza di software libero/open source.",
+    "scelte": [
+      "Una licenza che limita l'uso del software a scopi non commerciali",
+      "Una licenza che richiede il pagamento di royalties",
+      "Una licenza che permette l'uso, la modifica e la distribuzione del software, mantenendo il codice sorgente aperto",
+      "Una licenza che proibisce la modifica del software",
+      "Una licenza valida solo per software commerciale"
+    ],
+    "corretta": 2,
+    "spiegazione": "Una licenza di software libero/open source permette l'uso, la modifica e la distribuzione del software, mantenendo il codice sorgente aperto e accessibile a tutti."
+  },
+  {
+    "domanda": "Licenze Creative Commons Italia.",
+    "scelte": [
+      "Licenze che riguardano solo il software",
+      "Licenze che si applicano solo a opere letterarie",
+      "Licenze che permettono agli autori di concedere diritti specifici sulle loro opere creative, come la condivisione o la modifica, con diverse restrizioni a seconda del tipo di licenza",
+      "Licenze che non permettono alcuna distribuzione",
+      "Licenze valide solo per uso personale"
+    ],
+    "corretta": 2,
+    "spiegazione": "Le licenze Creative Commons permettono agli autori di concedere diritti specifici sulle loro opere creative, come la condivisione o la modifica, con diverse restrizioni a seconda del tipo di licenza scelta."
+  }
+]
+

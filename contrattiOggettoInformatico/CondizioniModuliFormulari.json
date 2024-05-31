@@ -1,0 +1,68 @@
+[
+  {
+    "domanda": "Chi predispone le condizioni generali del contratto?",
+    "scelte": [
+      "Entrambi i contraenti",
+      "Un giudice designato",
+      "Uno dei contraenti",
+      "Un mediatore neutrale",
+      "Un consulente legale esterno"
+    ],
+    "corretta": 2,
+    "spiegazione": "Le condizioni generali del contratto sono predisposte da uno dei contraenti.",
+    "fonte": "Art. 1341 c.c. Condizioni generali del contratto"
+  },
+  {
+    "domanda": "In che caso le condizioni del contratto sono valide?",
+    "scelte": [
+      "Se alla fine del contratto l'altra parte le ha conosciute o avrebbe dovuto conoscerle.",
+      "Se entrambe le parti le firmano",
+      "Se sono state discusse dettagliatamente tra le parti.",
+      "Se sono registrate presso un'autorità competente.",
+      "Se entrambe le parti sono d'accordo su di esse verbalmente."
+    ],
+    "corretta": 0,
+    "spiegazione": "Le condizioni del contratto sono valide se alla fine del contratto l'altra parte le ha conosciute o avrebbe dovuto conoscerle.",
+    "fonte": "Art. 1341 c.c. Condizioni generali del contratto"
+  },
+  {
+    "domanda": "Nonostante la libertà delle forme, non hanno effetto le condizioni se non approvate per iscritto che stabiliscono (scegli opzione sbagliata):",
+    "scelte": [
+      "Limitazioni di responsabilità",
+      "Clausole di buona fede",
+      "Facoltà di recedere dal contratto",
+      "Facoltà di sospenderne l'esecuzione",
+      "Tutte esclusa la buona fede del proponente"
+    ],
+    "corretta": 0,
+    "spiegazione": "Nonostante la libertà delle forme, non hanno effetto le condizioni se non approvate per iscritto che stabiliscono limitazioni di responsabilità, facoltà di recedere dal contratto e facoltà di sospenderne l'esecuzione.",
+    "fonte": "Art. 1341 c.c. Condizioni generali del contratto"
+  },
+  {
+    "domanda": "Nonostante la libertà delle forme, non hanno effetto le condizioni se non approvate per iscritto che sanciscono a carico del contraente (scegli risposta sbagliata):",
+    "scelte": [
+      "Decadenza",
+      "Clausole di buon comportamento",
+      "Limitazioni alla facoltà di opporre eccezioni",
+      "Restrizioni alla libertà contrattuale dei rapporti coi terzi",
+      "Tacita proroga o rinnovazione del contratto"
+    ],
+    "corretta": 1,
+    "spiegazione": "Nonostante la libertà delle forme, non hanno effetto le condizioni se non approvate per iscritto che sanciscono a carico del contraente decadenza, limitazioni alla facoltà di opporre eccezioni, restrizioni alla libertà contrattuale dei rapporti coi terzi, tacita proroga o rinnovazione del contratto.",
+    "fonte": "Art. 1341 c.c. Condizioni generali del contratto"
+  },
+  {
+    "domanda": "Nonostante la libertà delle forme, non hanno effetto le condizioni se non approvate per iscritto che sanciscono a carico del contraente (scegli risposta sbagliata):",
+    "scelte": [
+      "Decadenza",
+      "Facoltà di recedere dal contratto",
+      "Clausole compromissorie",
+      "Deroghe alla competenza giudiziaria",
+      "Restrizioni alla libertà contrattuale dei rapporti coi terzi"
+    ],
+    "corretta": 1,
+    "spiegazione": "Nonostante la libertà delle forme, non hanno effetto le condizioni se non approvate per iscritto che sanciscono a carico del contraente decadenza, clausole compromissorie, deroghe alla competenza giudiziaria, restrizioni alla libertà contrattuale dei rapporti coi terzi.",
+    "fonte": "Art. 1341 c.c. Condizioni generali del contratto"
+  }
+]
+

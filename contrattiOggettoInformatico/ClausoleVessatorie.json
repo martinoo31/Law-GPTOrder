@@ -1,0 +1,75 @@
+[
+  {
+    "domanda": "Quale è la definizione di clausole vessatorie?",
+    "scelte": [
+      "Clausole che garantiscono vantaggi al consumatore",
+      "Clausole che proteggono entrambe le parti in modo equo",
+      "Clausole che determinano uno squilibrio significativo di carico verso il consumatore",
+      "Clausole che sono sempre accettate dal consumatore senza riserve",
+      "Clausole che migliorano la trasparenza del contratto"
+    ],
+    "corretta": 2,
+    "spiegazione": ""
+  },
+  {
+    "domanda": "Quale forma speciale richiedono le clausole vessatorie?",
+    "scelte": [
+      "Firma per iscritto",
+      "Firma del consumatore con testimone",
+      "Doppia firma, una del contratto, l'altra specifica per le clausole vessatorie.",
+      "Firma notarile",
+      "Firma digitale certificata"
+    ],
+    "corretta": 2,
+    "spiegazione": ""
+  },
+  {
+    "domanda": "Escludere o limitare la responsabilità del professionista è una clausola vessatoria?",
+    "scelte": [
+      "No, se il consumatore è d'accordo",
+      "Sì",
+      "Solo se la limitazione non è specificata",
+      "No, se il contratto è chiaro e trasparente",
+      "Solo se il professionista lo richiede"
+    ],
+    "corretta": 1,
+    "spiegazione": ""
+  },
+  {
+    "domanda": "È possibile escludere o limitare le azioni o i diritti del consumatore?",
+    "scelte": [
+      "Sì, con delle clausole vessatorie",
+      "No, mai",
+      "Sì, se il consumatore è informato",
+      "Solo in contratti tra aziende",
+      "No, solo con il consenso del consumatore"
+    ],
+    "corretta": 0,
+    "spiegazione": ""
+  },
+  {
+    "domanda": "Consentire al professionista di trattenere una somma di denaro versata dal consumatore è una clausola vessatoria?",
+    "scelte": [
+      "Solo se il consumatore lo richiede",
+      "No, se è specificato nel contratto",
+      "Sì",
+      "Solo in caso di inadempimento",
+      "No, se il professionista lo giustifica"
+    ],
+    "corretta": 2,
+    "spiegazione": ""
+  },
+  {
+    "domanda": "Riconoscere al solo professionista e non anche al consumatore la facoltà di recedere al contratto non è vessatorio?",
+    "scelte": [
+      "Sì, non è vessatorio",
+      "No, è vessatorio",
+      "Dipende dalle circostanze del contratto",
+      "Sì, se il consumatore è d'accordo",
+      "No, solo se specificato chiaramente"
+    ],
+    "corretta": 1,
+    "spiegazione": ""
+  }
+]
+

@@ -1,0 +1,102 @@
+[
+  {
+    "domanda": "Che cos'è lo sviluppo software:",
+    "scelte": [
+      "Oggetto di un contratto in cui una parte si obbliga a studiare, sviluppare e realizzare un software in base alla richiesta dell'altra parte",
+      "Un accordo per la manutenzione periodica di un software esistente",
+      "Un'attività di formazione per imparare a usare un software specifico",
+      "Una procedura standardizzata per la distribuzione di software sul mercato",
+      "Un insieme di pratiche per la protezione dei dati del software"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "In un contratto di sviluppo software come si chiama la parte che sviluppa il software:",
+    "scelte": [
+      "Cliente o utilizzatore",
+      "Proprietario del software",
+      "software house o libero professionista",
+      "Amministratore di sistema",
+      "Fornitore di licenze"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Qual è la qualificazione giuridica che regola il contratto di sviluppo software se si incarica un libero professionista:",
+    "scelte": [
+      "Contratto di vendita",
+      "Contratto di consulenza",
+      "Prestazione d'opera intellettuale",
+      "Contratto di licenza",
+      "Contratto di manutenzione"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Qual è la qualificazione giuridica che regola il contratto di sviluppo software se si incarica un libero professionista:",
+    "scelte": [
+      "Appalto di servizi",
+      "Contratto di distribuzione",
+      "Contratto di noleggio",
+      "Contratto di subappalto",
+      "Contratto di formazione"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Che cos'è un appalto:",
+    "scelte": [
+      "Contratto con cui una parte assume a proprio rischio il compimento di un'opera o servizio verso un corrispettivo economico",
+      "Accordo per la vendita di un software a un cliente finale",
+      "Contratto per la fornitura di licenze software a lungo termine",
+      "Un accordo per il noleggio di hardware necessario allo sviluppo software",
+      "Contratto per la consulenza tecnica e gestionale di un progetto"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Il subappalto è illegale:",
+    "scelte": [
+      "No, se c'è l'autorizzazione del committente",
+      "Si, in ogni circostanza",
+      "No, mai",
+      "Si, tranne per i contratti pubblici",
+      "Si, se non comunicato per iscritto"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Nel caso di sviluppo software con appalto chi è il titolare dei diritti:",
+    "scelte": [
+      "Il software house",
+      "Il committente",
+      "L'opera diventa del committente",
+      "Il libero professionista",
+      "Entrambe le parti"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Nella prestazione professionale per sviluppo software c'è l'obbligo di risultato:",
+    "scelte": [
+      "Si, sempre",
+      "No, mai",
+      "No, ma c'è l'obbligo di mezzi",
+      "Si, in casi specifici",
+      "Solo su richiesta del cliente"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Chi è il titolare del programma in un contratto d'opera intellettuale:",
+    "scelte": [
+      "Il cliente finale",
+      "Mancano le indicazioni chiare da parte della legge",
+      "Il committente iniziale",
+      "Il proprietario del software",
+      "L'utente che ha commissionato lo sviluppo"
+    ],
+    "corretta": 1
+  }
+]
+

@@ -1,0 +1,81 @@
+[
+  {
+    "domanda": "Quando si conclude il contratto?",
+    "scelte": [
+      "Il contratto si conclude quando il proponente accetta le condizioni.",
+      "Il contratto si conclude quando l'accettante comunica la sua approvazione.",
+      "Il contratto si conclude quando il proponente viene a conoscenza dell'accettazione dell'altra parte.",
+      "Il contratto si conclude alla firma di entrambe le parti.",
+      "Il contratto si conclude quando entrambe le parti sono d'accordo verbalmente."
+    ],
+    "corretta": 2,
+    "spiegazione": "Il contratto si conclude quando il proponente viene a conoscenza dell'accettazione dell'altra parte.",
+    "fonte": "Art. 1326 c.c. Conclusione del contratto"
+  },
+  {
+    "domanda": "Cosa succede se l'accettazione non è conforme alla proposta?",
+    "scelte": [
+      "L'accettazione non conforme equivale a una controfferta.",
+      "L'accettazione non conforme rende nullo il contratto.",
+      "L'accettazione non conforme equivale a nuova proposta.",
+      "L'accettazione non conforme deve essere rifiutata.",
+      "L'accettazione non conforme deve essere accettata dal proponente."
+    ],
+    "corretta": 2,
+    "spiegazione": "Un'accettazione non conforme alla proposta equivale a nuova proposta.",
+    "fonte": "Art. 1326 c.c. Conclusione del contratto"
+  },
+  {
+    "domanda": "È possibile che l'esecuzione del contratto avvenga prima della risposta dell'accettante?",
+    "scelte": [
+      "No, l'esecuzione deve sempre seguire l'accettazione.",
+      "Sì, è possibile qualora sia richiesto dal proponente o per la natura dell'affare.",
+      "Sì, è possibile se entrambe le parti lo concordano.",
+      "No, l'esecuzione prima dell'accettazione è vietata.",
+      "Sì, è possibile solo se specificato nel contratto."
+    ],
+    "corretta": 1,
+    "spiegazione": "L'esecuzione del contratto può avvenire prima della risposta dell'accettante se richiesto dal proponente o per la natura dell'affare.",
+    "fonte": "Art. 1327 c.c. Esecuzione prima della risposta dell'accettante"
+  },
+  {
+    "domanda": "Cosa succede se in esecuzione preventiva del contratto l'accettante non avvisa prontamente dell'inizio dell'esecuzione?",
+    "scelte": [
+      "L'accettante non ha obblighi ulteriori.",
+      "L'accettante deve interrompere immediatamente l'esecuzione.",
+      "L'accettante è tenuto al risarcimento del danno.",
+      "Il contratto diventa nullo.",
+      "L'accettante può continuare l'esecuzione senza conseguenze."
+    ],
+    "corretta": 2,
+    "spiegazione": "In mancanza di avviso, l'accettante è tenuto al risarcimento del danno.",
+    "fonte": "Art. 1327 c.c. Esecuzione prima della risposta dell'accettante"
+  },
+  {
+    "domanda": "Quando si può revocare la proposta del contratto?",
+    "scelte": [
+      "La proposta può essere revocata solo prima della firma del contratto.",
+      "La proposta può essere revocata finché il contratto non sia concluso e l'accettante non abbia intrapreso in buona fede l'esecuzione.",
+      "La proposta può essere revocata solo entro 24 ore dall'invio.",
+      "La proposta non può essere revocata una volta inviata.",
+      "La proposta può essere revocata solo se il proponente trova un'altra parte interessata."
+    ],
+    "corretta": 1,
+    "spiegazione": "La proposta può essere revocata finché il contratto non sia concluso e l'accettante non abbia intrapreso in buona fede l'esecuzione. In tal caso, il proponente indennizza le perdite.",
+    "fonte": "Art. 1328 c.c. Revoca della proposta e dell'accettazione"
+  },
+  {
+    "domanda": "Quando si può revocare l'accettazione del contratto?",
+    "scelte": [
+      "L'accettazione può essere revocata solo prima della firma del contratto.",
+      "L'accettazione può essere revocata purché la revoca giunga a conoscenza del proponente prima dell'accettazione.",
+      "L'accettazione può essere revocata entro 24 ore dall'invio.",
+      "L'accettazione non può essere revocata una volta inviata.",
+      "L'accettazione può essere revocata solo con il consenso del proponente."
+    ],
+    "corretta": 1,
+    "spiegazione": "L'accettazione può essere revocata, purché la revoca giunga a conoscenza del proponente prima dell'accettazione.",
+    "fonte": "Art. 1328 c.c. Revoca della proposta e dell'accettazione"
+  }
+]
+

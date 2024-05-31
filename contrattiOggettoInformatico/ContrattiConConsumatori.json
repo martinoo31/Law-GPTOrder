@@ -1,0 +1,39 @@
+[
+  {
+    "domanda": "Quale di queste è la definizione di consumatore?",
+    "scelte": [
+      "Persona giuridica che agisce per scopi commerciali",
+      "Persona fisica che agisce per scopi estranei all'attività lavorativa svolta",
+      "Impresa che acquista beni per la produzione",
+      "Organizzazione non profit che acquista beni per i propri scopi",
+      "Società che acquista beni per la rivendita"
+    ],
+    "corretta": 1,
+    "spiegazione": ""
+  },
+  {
+    "domanda": "Quale di queste è la definizione di professionista?",
+    "scelte": [
+      "Persona fisica che acquista beni per uso personale",
+      "Persona giuridica che non utilizza il contratto nella sua attività lavorativa",
+      "Persona fisica o giuridica, pubblica o privata che utilizza il contratto nella sua attività lavorativa",
+      "Società che vende beni senza fini di lucro",
+      "Impresa che acquista beni per la rivendita"
+    ],
+    "corretta": 2,
+    "spiegazione": ""
+  },
+  {
+    "domanda": "Chi è tutelato dalla legge?",
+    "scelte": [
+      "Il consumatore in quanto ritenuto soggetto 'debole' del contratto",
+      "Il professionista perché ha maggiori responsabilità",
+      "Solo le persone giuridiche",
+      "Solo le organizzazioni non profit",
+      "Solo le imprese di grandi dimensioni"
+    ],
+    "corretta": 0,
+    "spiegazione": ""
+  }
+]
+

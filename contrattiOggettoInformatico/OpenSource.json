@@ -1,0 +1,58 @@
+[
+  {
+    "domanda": "Che cos'è la licenza copyleft:",
+    "scelte": [
+      "Una licenza che permette l'uso commerciale senza restrizioni",
+      "Una licenza open source che prevede che tutte le distribuzioni del software e di opere derivate operino alle stesse condizioni della licenza originaria",
+      "Una licenza che richiede il pagamento di royalties per ogni distribuzione",
+      "Una licenza che limita l'uso del software solo per fini educativi",
+      "Una licenza che consente modifiche solo con autorizzazione scritta"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Quante sono le licenze Creative Commons:",
+    "scelte": [
+      "Le licenze CC sono molteplici e permettono al licenziante di scegliere quali diritti cedere",
+      "Le licenze CC sono sei e non possono essere modificate",
+      "Le licenze CC sono tre e coprono tutti i tipi di opere",
+      "Le licenze CC sono due e sono standardizzate",
+      "Le licenze CC sono limitate e solo per uso non commerciale"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Le licenze CC hanno effetto sui diritti morali dell'autore, i diritti che altre persone possono avere sull'opera stessa o su come viene utilizzata, le eccezioni del DA:",
+    "scelte": [
+      "Si, sempre",
+      "Si, tranne per i diritti morali",
+      "No",
+      "Si, ma solo con autorizzazione scritta",
+      "No, tranne in casi di opere collettive"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Cosa sono le clausole di esclusione di garanzia e responsabilità:",
+    "scelte": [
+      "Clausole che estendono la garanzia di corretto funzionamento",
+      "Clausole che limitano la responsabilità per danni causati a terzi",
+      "Clausole che escludono la garanzia di corretto funzionamento e limitano la responsabilità per danni",
+      "Clausole che garantiscono il risarcimento per danni patrimoniali",
+      "Clausole che aumentano le garanzie offerte dal produttore"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Le clausole di esclusione di responsabilità sono sempre valide:",
+    "scelte": [
+      "Si, senza eccezioni",
+      "No si annullano nel caso di danni alla persona, e sono ammissibili con riferimento ai danni patrimoniali",
+      "Si, tranne in caso di dolo o colpa grave",
+      "No, mai",
+      "Si, ma solo con il consenso del danneggiato"
+    ],
+    "corretta": 1
+  }
+]
+
