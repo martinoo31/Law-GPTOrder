@@ -8,7 +8,8 @@ BLUE = '\033[94m'
 GREEN = '\033[92m'
 RED = '\033[91m'
 ENDC = '\033[0m'
-GOLD = '\033[33m'
+#GOLD = '\033[33m'
+GOLD = '\033[38;5;136m'
 
 def carica_domande(file_path):
     domande = []
@@ -23,8 +24,9 @@ def carica_domande(file_path):
             domande = json.load(file)
     return domande
 
-def porre_domanda(domanda):
-    print(f"\n{BLUE}{domanda['domanda']}{ENDC}")
+def porre_domanda(domanda, numero_domanda, totale_domande):
+    print(f"\nDomanda {GOLD}{numero_domanda}{ENDC} di {GOLD}{totale_domande}{ENDC}")
+    print(f"{BLUE}{domanda['domanda']}{ENDC}")
     for idx, scelta in enumerate(domanda['scelte']):
         print(f"{idx + 1}. {scelta}")
     
@@ -59,22 +61,22 @@ def main():
     domande = carica_domande(args.file_domande)
     random.shuffle(domande)
 
-    counter=0
-    counterTot=len(domande)
+    counter = 0
+    counterTot = len(domande)
     
-    for domanda in domande:
-        risposta = porre_domanda(domanda)
-        res=verifica_risposta(domanda, risposta)
+    for i, domanda in enumerate(domande):
+        risposta = porre_domanda(domanda, i + 1, counterTot)
+        res = verifica_risposta(domanda, risposta)
         if res:
-            counter+=1
+            counter += 1
 
-    voto=int(counter*33/counterTot)
-    if voto>30:
-        voto="30L"
+    voto = int(counter * 33 / counterTot)
+    if voto > 30:
+        voto = "30L"
     
     print(f"\n-----------------------------------------------")
     print(f"\nHai risposto correttamente a {GOLD}{counter} domande su {counterTot}.{ENDC}")
-    print(f"Il tuo punteggio è del{GOLD} {counter/counterTot*100:.2f}%.{ENDC}")
+    print(f"Il tuo punteggio è del{GOLD} {counter / counterTot * 100:.2f}%.{ENDC}")
     print(f"All'esame il tuo voto sarebbe: {GOLD}{voto}{ENDC}")
     print(f"Grazie per aver partecipato al quiz!")
     print(f"\n-----------------------------------------------\n")
