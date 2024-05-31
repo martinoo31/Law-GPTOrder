@@ -196,6 +196,16 @@
       "Solo in accordi informali"
     ],
     "corretta": 0
+  },{
+    "domanda": "La licenza software è un esempio di contratto atipico",
+    "scelte": [
+      "No perchè non sussiste un accordo tra le parti, vedi caso UsedsSoft",
+	  "Si, perchè la causa non è prevista dalla legge",
+      "No, perchè è regolamentato dalle legge",
+      "No, perchè non vige la libertà delle forme",
+      "No, perchè è discipliato dal regolamento AGCOM"
+    ],
+    "corretta": 0
   }
 ]
 
