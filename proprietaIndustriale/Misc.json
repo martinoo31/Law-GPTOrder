@@ -110,15 +110,15 @@
     "corretta": 2
     },
     {
-      "domanda": "Quando/come sorgono i diritti esclusivi su di un'invenzione industriale?",
-      "scelte": [
+    "domanda": "Quando sorgono gli effetti della brevettazione?",
+    "scelte": [
+        "Dalla data di concessione del brevetto",
+        "Dalla data di pubblicazione della domanda di brevetto",
         "Dalla data di presentazione della domanda di brevetto",
-        "Dalla data di approvazione del brevetto",
-        "Dalla data di invenzione",
-        "Dalla data di commercializzazione dell'invenzione",
-        "Dalla data di registrazione dell'invenzione"
-      ],
-      "corretta": 0
+        "Dalla data di notifica della domanda alle persone interessate",
+        "Dalla data di commercializzazione dell'invenzione"
+    ],
+    "corretta": 1
     },
     {
       "domanda": "Qual è il requisito di novità delle invenzioni?",
