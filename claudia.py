@@ -37,7 +37,7 @@ def porre_domanda(domanda, numero_domanda, totale_domande):
     print(f"\nDomanda {GOLD}{numero_domanda}{ENDC} di {GOLD}{totale_domande}{ENDC}")
     print(f"{BLUE}{domanda['domanda']}{ENDC}")
     for idx, (original_idx, scelta) in enumerate(opzioni):
-        print(f"{idx + 1}. {scelta}")
+        print(f"    {idx + 1}. {scelta}")
     
     while True:
         try:
