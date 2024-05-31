@@ -1,0 +1,223 @@
+[
+    {
+    "domanda": "Cosa tutela la proprietà industriale?",
+    "scelte": [
+        "I marchi e altri segni distintivi",
+        "Indicazioni geografiche",
+        "Invenzioni e modelli di utilità",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+    ],
+    "corretta": 3
+    },
+    {
+    "domanda": "Quando e come si acquistano i diritti di proprietà industriale?",
+    "scelte": [
+        "Mediante brevettazione e registrazione",
+        "Esclusivamente tramite brevettazione",
+        "Solo con la registrazione",
+        "Solo tramite negoziazione diretta",
+        "Attraverso l'uso dei prodotti o servizi"
+    ],
+    "corretta": 0
+    },
+    {
+    "domanda": "Quali sono oggetto di registrazione come marchio d'impresa?",
+    "scelte": [
+        "Segni distintivi come parole, disegni, cifre, suoni",
+        "Solo le parole",
+        "Solo i disegni",
+        "Solo i nomi di persone",
+        "Solo le cifre"
+    ],
+    "corretta": 0
+    },
+    {
+    "domanda": "Cosa non può essere registrato come marchio?",
+    "scelte": [
+        "Segni contrari alla legge o al buon costume",
+        "Segni idonei ad ingannare il pubblico",
+        "Segni già noti come marchi",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+    ],
+    "corretta": 3
+    },
+    {
+    "domanda": "Qual è il requisito di novità per la registrazione di un marchio?",
+    "scelte": [
+        "Deve essere identico ad altri marchi già noti",
+        "Non deve essere utilizzato precedentemente da altri",
+        "Deve essere diverso dai marchi già noti",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+    ],
+    "corretta": 2
+    },
+    {
+    "domanda": "Quali segni non possono essere registrati per mancanza di capacità distintiva?",
+    "scelte": [
+        "Segni di uso comune nel linguaggio corrente",
+        "Segni costituiti da indicazioni descrittive",
+        "Segni che hanno acquistato carattere distintivo",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+    ],
+    "corretta": 3
+    },
+    {
+    "domanda": "Chi può registrare un marchio?",
+    "scelte": [
+        "Solo chi fabbrica o commercializza prodotti",
+        "Chiunque utilizzi o si proponga di utilizzare il marchio",
+        "Solo le amministrazioni dello Stato",
+        "Solo le grandi imprese",
+        "Solo i privati cittadini"
+    ],
+    "corretta": 1
+    },
+    {
+    "domanda": "Quali sono i diritti del titolare di un marchio registrato?",
+    "scelte": [
+        "Diritto esclusivo all'uso del marchio e di vietare a terzi di usarlo",
+        "Diritto di utilizzare il marchio solo in un determinato territorio",
+        "Diritto di utilizzare il marchio solo per determinati prodotti o servizi",
+        "Solo diritto di sfruttamento economico del marchio",
+        "Diritto di cessione del marchio a terzi"
+    ],
+    "corretta": 0
+    },
+    {
+    "domanda": "Quali sono le limitazioni al diritto di marchio?",
+    "scelte": [
+        "Uso del proprio nome o indirizzo",
+        "Uso di segni relativi a qualità e provenienza",
+        "Uso necessario per indicare la destinazione di un prodotto",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+    ],
+    "corretta": 3
+    },
+    {
+    "domanda": "Qual è la durata di un marchio registrato?",
+    "scelte": [
+        "5 anni dalla data di registrazione",
+        "20 anni dalla data di registrazione",
+        "10 anni dalla data di deposito della domanda",
+        "30 anni dalla data di registrazione",
+        "15 anni dalla data di registrazione"
+    ],
+    "corretta": 2
+    },
+    {
+      "domanda": "Quando/come sorgono i diritti esclusivi su di un'invenzione industriale?",
+      "scelte": [
+        "Dalla data di presentazione della domanda di brevetto",
+        "Dalla data di approvazione del brevetto",
+        "Dalla data di invenzione",
+        "Dalla data di commercializzazione dell'invenzione",
+        "Dalla data di registrazione dell'invenzione"
+      ],
+      "corretta": 0
+    },
+    {
+      "domanda": "Qual è il requisito di novità delle invenzioni?",
+      "scelte": [
+        "Non devono essere state commercializzate",
+        "Non devono essere già state brevettate",
+        "Deve essere provata la loro originalità",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+      ],
+      "corretta": 1
+    },
+    {
+      "domanda": "Il brevetto per invenzione industriale:",
+      "scelte": [
+        "Concede diritti esclusivi sull'invenzione",
+        "Protegge solo le invenzioni di carattere artistico",
+        "È valido solo in determinate regioni",
+        "Conferisce diritti solo a chi ha una grande impresa",
+        "Concede diritti solo per un breve periodo di tempo"
+      ],
+      "corretta": 0
+    },
+    {
+      "domanda": "Come si fa domanda di brevetto?",
+      "scelte": [
+        "Presso un tribunale",
+        "Presso un ufficio brevetti nazionale o internazionale",
+        "Presso un'associazione di inventori",
+        "Presso il ministero dell'industria",
+        "Presso un'agenzia di protezione della proprietà intellettuale"
+      ],
+      "corretta": 1
+    },
+    {
+      "domanda": "Cosa sono le rivendicazioni?",
+      "scelte": [
+        "Una dichiarazione pubblica dell'invenzione",
+        "Una richiesta di divulgazione dell'invenzione",
+        "Una specifica descrizione dell'invenzione",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+      ],
+      "corretta": 2
+    },
+    {
+      "domanda": "Qual è la durata di un brevetto?",
+      "scelte": [
+        "5 anni dalla data di deposito della domanda",
+        "20 anni dalla data di deposito della domanda",
+        "10 anni dalla data di deposito della domanda",
+        "30 anni dalla data di deposito della domanda",
+        "15 anni dalla data di deposito della domanda"
+      ],
+      "corretta": 1
+    },
+    {
+      "domanda": "Quali sono gli effetti della brevettazione?",
+      "scelte": [
+        "Protezione legale dell'invenzione",
+        "Esclusione di terzi dall'utilizzo dell'invenzione",
+        "Diritto di sfruttamento economico dell'invenzione",
+        "Tutte le risposte sono corrette",
+        "Nessuna delle risposte è corretta"
+      ],
+      "corretta": 3
+    },
+    {
+      "domanda": "Qual è il concetto di priorità in relazione ai brevetti?",
+      "scelte": [
+        "La sequenza temporale in cui sono presentate le domande di brevetto",
+        "Il diritto prioritario degli inventori più anziani",
+        "La precedenza data ai brevetti nazionali rispetto a quelli internazionali",
+        "Il privilegio accordato ai grandi marchi",
+        "L'ordine di registrazione degli uffici brevetti"
+      ],
+      "corretta": 0
+    },
+    {
+      "domanda": "Qual è il concetto di industrialità in relazione ai brevetti?",
+      "scelte": [
+        "L'invenzione deve essere applicabile nell'industria manifatturiera",
+        "L'invenzione deve riguardare solo prodotti altamente tecnologici",
+        "L'invenzione deve essere sviluppata da un'azienda industriale",
+        "L'invenzione deve essere utilizzata in molteplici settori industriali",
+        "L'invenzione deve essere brevettata da un ufficio industriale"
+      ],
+      "corretta": 0
+    },
+    {
+      "domanda": "Qual è il concetto di attività inventiva in relazione ai brevetti?",
+      "scelte": [
+        "L'invenzione deve essere unica e originale",
+        "L'invenzione deve essere stata inventata da un inventore attivo",
+        "L'invenzione deve essere brevettata prima di qualsiasi altra simile",
+        "L'invenzione deve essere in grado di migliorare la vita umana",
+        "L'invenzione deve essere creata con lo scopo di lucro"
+      ],
+      "corretta": 0
+    }
+  ]
+  

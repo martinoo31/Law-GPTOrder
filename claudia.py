@@ -66,8 +66,14 @@ def verifica_risposta(domanda, risposta, corretta):
             print(f"Spiegazione: {domanda['spiegazione']}")
         return False
 
+def arrotonda(x):
+    if x-int(x)>=0.5:
+        return int(x)+1
+    else:
+        return int(x)
+
 def mostra_risultati(counter, counterSottoposte):
-    voto = int(counter * 33 / counterSottoposte)
+    voto = arrotonda(counter * 33 / counterSottoposte)
     if voto > 30:
         voto = "30L"
     
