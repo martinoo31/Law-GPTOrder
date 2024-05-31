@@ -67,10 +67,15 @@ def main():
         res=verifica_risposta(domanda, risposta)
         if res:
             counter+=1
+
+    voto=int(counter*33/counterTot)
+    if voto>30:
+        voto="30L"
     
     print(f"\n-----------------------------------------------")
     print(f"\nHai risposto correttamente a {GOLD}{counter} domande su {counterTot}.{ENDC}")
     print(f"Il tuo punteggio è del{GOLD} {counter/counterTot*100:.2f}%.{ENDC}")
+    print(f"All'esame il tuo voto sarebbe: {GOLD}{voto}{ENDC}")
     print(f"Grazie per aver partecipato al quiz!")
     print(f"\n-----------------------------------------------\n")
 
