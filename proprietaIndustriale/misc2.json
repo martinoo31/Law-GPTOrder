@@ -1,0 +1,303 @@
+[
+  {
+    "domanda": "Che cosa tutela la proprietà industriale?",
+    "scelte": [
+      "Esclusivamente i marchi e i brevetti",
+      "Solo i disegni e i modelli",
+      "Marchi, indicazioni geografiche, disegni, invenzioni e altro",
+      "Unicamente i segreti commerciali",
+      "Solo le nuove varietà vegetali"
+    ],
+    "corretta": 2,
+    "spiegazione": "La proprietà industriale tutela marchi, altri segni distintivi, indicazioni geografiche, denominazioni di origine, disegni, modelli, invenzioni, modelli di utilità, topografie dei prodotti a semiconduttori, segreti commerciali e nuove varietà vegetali."
+  },
+  {
+    "domanda": "Quando sorgono e come si acquisiscono i diritti di proprietà industriale?",
+    "scelte": [
+      "Sorgono con l'uso del bene e si acquisiscono con l'uso continuativo",
+      "Sorgono con la registrazione o brevettazione e si acquisiscono con queste formalità",
+      "Sorgono alla nascita e si acquisiscono automaticamente",
+      "Sorgono con un atto notarile e si acquisiscono con la firma",
+      "Sorgono con la pubblicità e si acquisiscono con la diffusione"
+    ],
+    "corretta": 1,
+    "spiegazione": "I diritti di proprietà industriale sorgono mediante la registrazione o la brevettazione e si acquisiscono attraverso queste formalità."
+  },
+  {
+    "domanda": "Quali segni non possono essere registrati come marchi?",
+    "scelte": [
+      "Segni contrari alla legge, ingannevoli o che violano diritti altrui",
+      "Segni che sono troppo creativi e fantasiosi",
+      "Segni che contengono solo lettere o cifre",
+      "Segni che non hanno colori vivaci",
+      "Segni che sono registrati in un altro paese"
+    ],
+    "corretta": 0,
+    "spiegazione": "Non possono essere registrati come marchi i segni contrari alla legge, all'ordine pubblico o al buon costume, i segni idonei ad ingannare il pubblico e quelli che violano diritti d’autore o altri diritti esclusivi di terzi."
+  },
+  {
+    "domanda": "Qual è il requisito di novità per un marchio?",
+    "scelte": [
+      "Il marchio deve essere nuovo rispetto ai segni già noti come distintivi",
+      "Il marchio deve essere stato usato almeno una volta in commercio",
+      "Il marchio deve essere stato registrato in un altro paese",
+      "Il marchio deve avere almeno tre anni di uso commerciale",
+      "Il marchio deve essere identico a uno già registrato"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il requisito di novità richiede che il marchio non sia identico o simile a un segno già noto come marchio o segno distintivo di prodotti o servizi."
+  },
+  {
+    "domanda": "Quali segni non possono essere oggetto di tutela per mancanza di capacità distintiva?",
+    "scelte": [
+      "Segni divenuti di uso comune o costituiti da denominazioni generiche",
+      "Segni che hanno colori scuri",
+      "Segni che sono troppo distintivi",
+      "Segni che contengono numeri e simboli",
+      "Segni che sono stati usati per meno di un anno"
+    ],
+    "corretta": 0,
+    "spiegazione": "Non possono costituire oggetto di registrazione come marchio i segni privi di carattere distintivo, come quelli divenuti di uso comune nel linguaggio corrente o costituiti esclusivamente da denominazioni generiche."
+  },
+  {
+    "domanda": "Chi può registrare un marchio?",
+    "scelte": [
+      "Chiunque lo desideri, senza limitazioni",
+      "Solo chi utilizzi o si proponga di utilizzare il marchio nella fabbricazione o commercio di prodotti o servizi",
+      "Solo aziende di grandi dimensioni",
+      "Solo cittadini italiani",
+      "Solo enti pubblici"
+    ],
+    "corretta": 1,
+    "spiegazione": "Può registrare un marchio chi lo utilizzi o si proponga di utilizzarlo nella fabbricazione o commercio di prodotti o nella prestazione di servizi della propria impresa o di imprese di cui abbia il controllo o che ne facciano uso con il suo consenso."
+  },
+  {
+    "domanda": "Quali sono i diritti del titolare di un marchio registrato?",
+    "scelte": [
+      "Diritto di vietare l'uso del marchio in ambito non commerciale",
+      "Diritto di vietare l'uso di segni simili per prodotti non affini",
+      "Diritto di vietare l'uso del marchio per prodotti o servizi identici o affini",
+      "Diritto di trasferire automaticamente il marchio a terzi",
+      "Diritto di registrare il marchio in qualsiasi paese"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il titolare di un marchio registrato ha il diritto di vietare l'uso di segni identici o simili per prodotti o servizi identici o affini, per evitare rischi di confusione per il pubblico."
+  },
+  {
+    "domanda": "Quali sono le limitazioni al diritto di marchio?",
+    "scelte": [
+      "Non può vietare l'uso del marchio in ambito commerciale",
+      "Non può vietare l'uso di segni simili per prodotti identici",
+      "Non può vietare l'uso del marchio in modo conforme ai principi della correttezza professionale",
+      "Non può vietare l'uso del marchio in ambito privato",
+      "Non può vietare l'uso del marchio per scopi sperimentali"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il titolare del marchio non può vietare ai terzi l'uso del marchio se questo avviene in modo conforme ai principi della correttezza professionale."
+  },
+  {
+    "domanda": "Come può essere trasferito un marchio?",
+    "scelte": [
+      "Solo attraverso un atto notarile pubblico",
+      "Per la totalità o per una parte dei prodotti o servizi per i quali è stato registrato",
+      "Unicamente per la totalità dei prodotti o servizi",
+      "Solo tra aziende dello stesso settore",
+      "Non può essere trasferito"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il marchio può essere trasferito per la totalità o per una parte dei prodotti o servizi per i quali è stato registrato."
+  },
+  {
+    "domanda": "Quando sorgono i diritti esclusivi su un'invenzione industriale?",
+    "scelte": [
+      "Alla pubblicazione del brevetto",
+      "Alla data di deposito della domanda di brevetto",
+      "Alla data di approvazione del brevetto",
+      "Alla data di completamento dell'invenzione",
+      "Alla data di pagamento della tassa di registrazione"
+    ],
+    "corretta": 1,
+    "spiegazione": "I diritti esclusivi su un'invenzione industriale sorgono alla data di deposito della domanda di brevetto, ovviamente se la domando viene accettata."
+  },
+  {
+    "domanda": "Quali sono i requisiti per ottenere un brevetto per invenzione industriale?",
+    "scelte": [
+      "Novità, attività creativa, semplicità",
+      "Novità, attività inventiva, applicazione industriale",
+      "Novità, economicità, applicazione industriale",
+      "Creatività, economicità, semplicità",
+      "Attività creativa, economicità, applicazione industriale"
+    ],
+    "corretta": 1,
+    "spiegazione": "Per ottenere un brevetto per invenzione industriale, l'invenzione deve essere nuova, implicare un'attività inventiva e essere atta ad avere un'applicazione industriale."
+  },
+  {
+    "domanda": "Qual è il requisito di novità delle invenzioni?",
+    "scelte": [
+      "L'invenzione deve essere completamente originale e mai pensata prima",
+      "L'invenzione non deve essere stata resa accessibile al pubblico prima della data di deposito della domanda",
+      "L'invenzione deve essere stata registrata in almeno tre paesi",
+      "L'invenzione deve essere conosciuta solo a livello locale",
+      "L'invenzione deve essere stata usata in commercio per almeno un anno"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il requisito di novità implica che l'invenzione non deve essere stata resa accessibile al pubblico prima della data di deposito della domanda di brevetto."
+  },
+  {
+    "domanda": "Che cosa si intende per 'concetto di priorità' nel contesto dei brevetti?",
+    "scelte": [
+      "Il diritto di essere il primo a utilizzare l'invenzione",
+      "La possibilità di presentare la domanda di brevetto in vari paesi entro 12 mesi",
+      "Il diritto di ottenere il brevetto senza pagare tasse aggiuntive",
+      "La necessità di avere l'approvazione da parte di un'autorità internazionale",
+      "La priorità di registrare il marchio prima della brevettazione"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il concetto di priorità consente a chi deposita una domanda di brevetto in uno Stato di presentare domande di brevetto in altri paesi entro 12 mesi senza perdere il diritto di priorità dalla data del primo deposito."
+  },
+  {
+    "domanda": "Cosa si intende per 'attività inventiva'?",
+    "scelte": [
+      "L'invenzione deve essere complicata e complessa",
+      "L'invenzione non deve risultare ovvia per una persona esperta del settore",
+      "L'invenzione deve essere stata pensata da più persone",
+      "L'invenzione deve essere registrata in più paesi",
+      "L'invenzione deve essere economicamente vantaggiosa"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un'invenzione è considerata come implicante un'attività inventiva se, per una persona esperta del ramo, essa non risulta in modo evidente dallo stato della tecnica."
+  },
+  {
+    "domanda": "Che cosa si intende per 'industrialità'?",
+    "scelte": [
+      "L'invenzione deve essere facile da utilizzare",
+      "L'invenzione deve poter essere fabbricata o utilizzata in qualsiasi genere di industria",
+      "L'invenzione deve essere economicamente vantaggiosa",
+      "L'invenzione deve essere usata solo nel settore agricolo",
+      "L'invenzione deve essere semplice da replicare"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un'invenzione è considerata atta ad avere un'applicazione industriale se il suo oggetto può essere fabbricato o utilizzato in qualsiasi genere di industria, compresa quella agricola."
+  },
+  {
+    "domanda": "Come si fa domanda di brevetto?",
+    "scelte": [
+      "Compilando un modulo online sul sito dell'Ufficio Italiano Brevetti e Marchi",
+      "Inviare una lettera semplice all'Ufficio Italiano Brevetti e Marchi",
+      "Contattare un avvocato specializzato in proprietà intellettuale",
+      "Pubblicare l'invenzione su una rivista scientifica",
+      "Registrarsi su un sito di crowdfunding"
+    ],
+    "corretta": 0,
+    "spiegazione": "La domanda di brevetto può essere depositata online sul sito dell'Ufficio Italiano Brevetti e Marchi, compilando l'apposito modulo."
+  },
+  {
+    "domanda": "Cosa sono le rivendicazioni in una domanda di brevetto?",
+    "scelte": [
+      "Una descrizione generale dell'invenzione",
+      "Un elenco dei potenziali mercati dell'invenzione",
+      "Le specifiche tecniche che determinano i limiti della protezione del brevetto",
+      "Una lista di possibili nomi commerciali per l'invenzione",
+      "Una previsione dei costi di produzione"
+    ],
+    "corretta": 2,
+    "spiegazione": "Le rivendicazioni determinano i limiti della protezione prevista dal brevetto e devono essere interpretate alla luce della descrizione e dei disegni."
+  },
+  {
+    "domanda": "Quali sono gli effetti della brevettazione?",
+    "scelte": [
+      "Conferisce il diritto di vietare ai terzi di produrre, usare o vendere l'invenzione",
+      "Permette di utilizzare l'invenzione senza alcuna restrizione",
+      "Obbliga a condividere l'invenzione con il pubblico",
+      "Rende l'invenzione di pubblico dominio",
+      "Limita l'uso dell'invenzione solo al titolare del brevetto"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il brevetto conferisce al titolare il diritto esclusivo di vietare ai terzi di produrre, usare, mettere in commercio, vendere o importare l'invenzione senza il suo consenso."
+  },
+  {
+    "domanda": "Qual è la durata di un brevetto per invenzione industriale?",
+    "scelte": [
+      "10 anni dalla data di concessione",
+      "15 anni dalla data di deposito della domanda",
+      "20 anni dalla data di deposito della domanda",
+      "25 anni dalla data di concessione",
+      "30 anni dalla data di deposito della domanda"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il brevetto per invenzione industriale dura 20 anni a decorrere dalla data di deposito della domanda."
+  },
+  {
+    "domanda": "Quando sorgono i diritti esclusivi su un'invenzione industriale?",
+    "scelte": [
+      "Alla pubblicazione del brevetto",
+      "Alla data di deposito della domanda di brevetto",
+      "Alla data di approvazione del brevetto",
+      "Alla data di completamento dell'invenzione",
+      "Alla data di pagamento della tassa di registrazione"
+    ],
+    "corretta": 1,
+    "spiegazione": "I diritti esclusivi su un'invenzione industriale sorgono alla data di deposito della domanda di brevetto."
+  },
+  {
+    "domanda": "Qual è il concetto di priorità nel contesto dei brevetti?",
+    "scelte": [
+      "Il diritto di essere il primo a utilizzare l'invenzione",
+      "La possibilità di presentare la domanda di brevetto in vari paesi entro 12 mesi",
+      "Il diritto di ottenere il brevetto senza pagare tasse aggiuntive",
+      "La necessità di avere l'approvazione da parte di un'autorità internazionale",
+      "La priorità di registrare il marchio prima della brevettazione"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il concetto di priorità consente a chi deposita una domanda di brevetto in uno Stato di presentare domande di brevetto in altri paesi entro 12 mesi senza perdere il diritto di priorità dalla data del primo deposito."
+  },
+  {
+    "domanda": "Che cosa si intende per 'attività inventiva'?",
+    "scelte": [
+      "L'invenzione deve essere complicata e complessa",
+      "L'invenzione non deve risultare ovvia per una persona esperta del settore",
+      "L'invenzione deve essere stata pensata da più persone",
+      "L'invenzione deve essere registrata in più paesi",
+      "L'invenzione deve essere economicamente vantaggiosa"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un'invenzione è considerata come implicante un'attività inventiva se, per una persona esperta del ramo, essa non risulta in modo evidente dallo stato della tecnica."
+  },
+  {
+    "domanda": "Che cosa si intende per 'industrialità'?",
+    "scelte": [
+      "L'invenzione deve essere facile da utilizzare",
+      "L'invenzione deve poter essere fabbricata o utilizzata in qualsiasi genere di industria",
+      "L'invenzione deve essere economicamente vantaggiosa",
+      "L'invenzione deve essere usata solo nel settore agricolo",
+      "L'invenzione deve essere semplice da replicare"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un'invenzione è considerata atta ad avere un'applicazione industriale se il suo oggetto può essere fabbricato o utilizzato in qualsiasi genere di industria, compresa quella agricola."
+  },
+  {
+    "domanda": "Quali sono le disposizioni sulle invenzioni dei dipendenti?",
+    "scelte": [
+      "Le invenzioni fatte durante l'orario di lavoro appartengono sempre al datore di lavoro",
+      "Il dipendente ha sempre il diritto esclusivo sull'invenzione",
+      "Le invenzioni fatte nell'esecuzione di un contratto di lavoro in cui l'attività inventiva è prevista appartengono al datore di lavoro",
+      "Le invenzioni fatte fuori dall'orario di lavoro appartengono al datore di lavoro",
+      "Il datore di lavoro può sempre richiedere il brevetto per le invenzioni dei dipendenti"
+    ],
+    "corretta": 2,
+    "spiegazione": "Quando l'invenzione industriale è fatta nell'esecuzione di un contratto o rapporto di lavoro in cui l'attività inventiva è prevista e retribuita, i diritti derivanti dall'invenzione appartengono al datore di lavoro."
+  },
+  {
+    "domanda": "Quali sono le cause di nullità di un brevetto?",
+    "scelte": [
+      "L'invenzione non è stata commercializzata entro un anno",
+      "L'invenzione non è stata usata in ambito agricolo",
+      "L'invenzione non è brevettabile secondo le normative specifiche",
+      "L'inventore non è cittadino italiano",
+      "L'invenzione è stata usata senza l'autorizzazione del titolare"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il brevetto è nullo se l'invenzione non è brevettabile ai sensi delle normative specifiche, come articoli 45, 46, 48, 49 e 50 del Codice della proprietà industriale."
+  }
+]
+
