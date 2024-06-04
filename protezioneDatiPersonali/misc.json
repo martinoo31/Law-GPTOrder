@@ -1,0 +1,436 @@
+[
+  {
+    "domanda": "Chi ha diritto alla protezione dei dati personali?",
+    "scelte": [
+      "Solo i cittadini dell'Unione Europea",
+      "Qualsiasi persona fisica, indipendentemente dalla nazionalità",
+      "Solo le persone giuridiche",
+      "Solo i residenti permanenti dell'Unione Europea",
+      "Solo i cittadini italiani"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il diritto alla protezione dei dati personali deve essere garantito a chiunque, indipendentemente dalla nazionalità."
+  },
+  {
+    "domanda": "A quali trattamenti di dati si applica il Regolamento sulla protezione dei dati personali?",
+    "scelte": [
+      "A tutti i trattamenti di dati personali automatizzati e non automatizzati contenuti in un archivio",
+      "Solo ai trattamenti automatizzati di dati personali",
+      "Solo ai trattamenti non automatizzati di dati personali",
+      "Solo ai trattamenti di dati personali effettuati da autorità pubbliche",
+      "Solo ai trattamenti di dati anonimi"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il Regolamento si applica a tutti i trattamenti di dati personali, sia automatizzati che non automatizzati, contenuti in un archivio."
+  },
+  {
+    "domanda": "Quale è l'ambito di applicazione territoriale del GDPR?",
+    "scelte": [
+      "Solo all'interno dei confini dell'Unione Europea",
+      "Solo per i trattamenti di dati effettuati da titolari o responsabili stabiliti nell'UE",
+      "Anche per i trattamenti di dati effettuati da titolari o responsabili non stabiliti nell'UE che riguardano dati di interessati che si trovano nell'UE",
+      "Solo per i dati trattati a fini di ricerca scientifica",
+      "Solo per i dati trattati dalle autorità pubbliche"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il GDPR si applica anche ai trattamenti di dati effettuati da titolari o responsabili non stabiliti nell'UE se riguardano dati di interessati che si trovano nell'UE."
+  },
+  {
+    "domanda": "Qual è l'ambito di applicazione materiale del GDPR?",
+    "scelte": [
+      "Solo i dati raccolti per finalità di marketing",
+      "Tutti i dati personali, indipendentemente dal loro utilizzo",
+      "Solo i dati personali trattati in modo automatizzato",
+      "Solo i dati personali non contenuti in un archivio",
+      "Dati personali contenuti in un archivio o destinati a figurarvi, trattati in modo automatizzato e non"
+    ],
+    "corretta": 4,
+    "spiegazione": "Il Regolamento si applica ai dati personali contenuti in un archivio o destinati a figurarvi, trattati in modo automatizzato e non."
+  },
+  {
+    "domanda": "Se tratto dati personali per scopi esclusivamente personali, sono soggetto al Regolamento?",
+    "scelte": [
+      "Sì, sempre",
+      "No, mai",
+      "Sì, solo se condivido i dati con terzi",
+      "No, se il trattamento è per scopi esclusivamente personali o domestici",
+      "Sì, se il trattamento riguarda dati sensibili"
+    ],
+    "corretta": 3,
+    "spiegazione": "Il Regolamento non si applica ai trattamenti di dati personali effettuati da persone fisiche per l'esercizio di attività esclusivamente personali o domestiche."
+  },
+  {
+    "domanda": "Che cos’è un dato personale?",
+    "scelte": [
+      "Qualsiasi informazione riguardante una persona fisica identificata o identificabile",
+      "Solo i dati sensibili",
+      "Solo le informazioni di contatto come email e numero di telefono",
+      "Solo le informazioni finanziarie",
+      "Solo i dati biometrici"
+    ],
+    "corretta": 0,
+    "spiegazione": "Un dato personale è qualsiasi informazione riguardante una persona fisica identificata o identificabile."
+  },
+  {
+    "domanda": "Quali sono gli esempi di attività che costituiscono un trattamento di dati personali?",
+    "scelte": [
+      "Raccolta, registrazione, organizzazione, conservazione",
+      "Consultazione, utilizzo, comunicazione mediante trasmissione, diffusione",
+      "Adattamento o modifica, estrazione, raffronto o interconnessione",
+      "Cancellazione o distruzione",
+      "Tutte le precedenti"
+    ],
+    "corretta": 4,
+    "spiegazione": "Il trattamento di dati personali comprende tutte queste attività: raccolta, registrazione, organizzazione, conservazione, consultazione, utilizzo, comunicazione mediante trasmissione, diffusione, adattamento o modifica, estrazione, raffronto o interconnessione, cancellazione o distruzione."
+  },
+  {
+    "domanda": "Quali attività specifiche costituiscono un trattamento di dati personali?",
+    "scelte": [
+      "Profilazione",
+      "Pseudonimizzazione",
+      "Conservazione",
+      "Consultazione",
+      "Tutte le precedenti"
+    ],
+    "corretta": 4,
+    "spiegazione": "Le attività di trattamento dei dati personali includono profilazione, pseudonimizzazione, conservazione e consultazione."
+  },
+  {
+    "domanda": "Il Regolamento si applica ai dati anonimi?",
+    "scelte": [
+      "Sì, sempre",
+      "No, mai",
+      "Sì, se i dati anonimi sono trattati in modo automatizzato",
+      "No, se i dati anonimi non possono essere riconvertiti in dati personali",
+      "Sì, solo se i dati anonimi sono utilizzati per scopi commerciali"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il Regolamento non si applica ai dati anonimi, da cui sia impossibile identificare una persona&#8203;:citation[【oaicite:8】]&#8203;."
+  },
+  {
+    "domanda": "Quand’è che un dato è anonimo?",
+    "scelte": [
+      "Quando non è possibile identificare direttamente una persona",
+      "Quando non è possibile identificare una persona né direttamente né indirettamente",
+      "Quando il dato è criptato",
+      "Quando il dato è pseudonimizzato",
+      "Quando il dato è condiviso solo con terzi autorizzati"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un dato è anonimo quando non è possibile identificare una persona né direttamente né indirettamente&#8203;:citation[【oaicite:7】]&#8203;."
+  },
+  {
+    "domanda": "Cosa significa anonimizzare e pseudonimizzare un dato?",
+    "scelte": [
+      "Anonimizzare significa rendere un dato non riconducibile a una persona; pseudonimizzare significa sostituire l'identificativo del dato con un codice",
+      "Anonimizzare significa criptare un dato; pseudonimizzare significa cancellare il dato originale",
+      "Anonimizzare significa rendere il dato disponibile solo per l'interessato; pseudonimizzare significa condividere il dato solo con terzi autorizzati",
+      "Anonimizzare significa eliminare il dato originale; pseudonimizzare significa archiviare il dato in modo sicuro",
+      "Anonimizzare significa rendere il dato pubblico; pseudonimizzare significa nascondere il dato"
+    ],
+    "corretta": 0,
+    "spiegazione": "Anonimizzare significa rendere un dato non riconducibile a una persona; pseudonimizzare significa sostituire l'identificativo del dato con un codice&#8203;:citation[【oaicite:6】]&#8203;."
+  },
+  {
+    "domanda": "Chi sono i soggetti coinvolti nel trattamento dei dati personali?",
+    "scelte": [
+      "Titolare, Responsabile, Interessato, Soggetto designato, DPO",
+      "Titolare, Responsabile, Interessato, Amministratore, DPO",
+      "Titolare, Responsabile, Cliente, Soggetto designato, DPO",
+      "Titolare, Fornitore, Interessato, Soggetto designato, DPO",
+      "Titolare, Responsabile, Interessato, Consulente, DPO"
+    ],
+    "corretta": 0,
+    "spiegazione": "I soggetti coinvolti nel trattamento dei dati personali sono Titolare, Responsabile, Interessato, Soggetto designato, DPO&#8203;:citation[【oaicite:5】]&#8203;."
+  },
+  {
+    "domanda": "Quali sono i ruoli del Titolare del trattamento?",
+    "scelte": [
+      "Determinare le finalità e i mezzi del trattamento dei dati personali",
+      "Gestire direttamente i dati dei clienti",
+      "Eseguire il trattamento dei dati per conto del Responsabile",
+      "Verificare la correttezza dei dati",
+      "Determinare il periodo di conservazione dei dati"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il Titolare del trattamento determina le finalità e i mezzi del trattamento dei dati personali&#8203;:citation[【oaicite:4】]&#8203;."
+  },
+  {
+    "domanda": "Come si fa a nominare un responsabile del trattamento?",
+    "scelte": [
+      "Con un accordo verbale",
+      "Tramite un contratto o altro atto giuridico",
+      "Attraverso una email di conferma",
+      "Con una dichiarazione scritta",
+      "Non è necessario un documento specifico"
+    ],
+    "corretta": 1,
+    "spiegazione": "La nomina di un responsabile del trattamento avviene tramite un contratto o altro atto giuridico che vincola il responsabile al titolare&#8203;:citation[【oaicite:3】]&#8203;."
+  },
+  {
+    "domanda": "Quali principi fondamentali devono essere rispettati nel trattamento dei dati personali?",
+    "scelte": [
+      "Liceità, correttezza, trasparenza, limitazione della finalità, minimizzazione dei dati, esattezza, limitazione della conservazione, integrità e riservatezza, responsabilizzazione",
+      "Sicurezza, segretezza, trasparenza, limitazione della finalità, minimizzazione dei dati, esattezza, limitazione della conservazione, integrità e riservatezza, responsabilizzazione",
+      "Liceità, correttezza, riservatezza, limitazione della finalità, minimizzazione dei dati, esattezza, limitazione della conservazione, integrità e sicurezza, responsabilizzazione",
+      "Liceità, correttezza, trasparenza, limitazione della finalità, minimizzazione dei dati, accuratezza, limitazione della conservazione, integrità e riservatezza, responsabilità",
+      "Liceità, correttezza, trasparenza, limitazione della finalità, minimizzazione dei dati, esattezza, limitazione della conservazione, integrità e riservatezza, sicurezza"
+    ],
+    "corretta": 0,
+    "spiegazione": "I principi fondamentali sono: liceità, correttezza, trasparenza, limitazione della finalità, minimizzazione dei dati, esattezza, limitazione della conservazione, integrità e riservatezza, responsabilizzazione&#8203;:citation[【oaicite:2】]&#8203;."
+  },
+  {
+    "domanda": "Cosa implica il principio di minimizzazione dei dati nel trattamento?",
+    "scelte": [
+      "Raccogliere solo i dati strettamente necessari per le finalità dichiarate",
+      "Ridurre i dati personali a informazioni anonime",
+      "Minimizzare i tempi di conservazione dei dati",
+      "Ridurre l'accesso ai dati solo agli interessati",
+      "Eliminare i dati non più necessari"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il principio di minimizzazione dei dati implica raccogliere solo i dati strettamente necessari per le finalità dichiarate&#8203;:citation[【oaicite:1】]&#8203;."
+  },
+  {
+    "domanda": "Quali sono le condizioni di liceità del trattamento dei dati personali?",
+    "scelte": [
+      "Consenso dell'interessato, esecuzione di un contratto, obbligo legale, interesse vitale, compito di interesse pubblico, legittimo interesse",
+      "Consenso dell'interessato, autorizzazione del garante, contratto verbale, interesse aziendale, obbligo legale, compito amministrativo",
+      "Consenso dell'interessato, esecuzione di un contratto, approvazione governativa, compito di interesse sociale, obbligo morale, legittimo interesse",
+      "Autorizzazione del garante, esecuzione di un contratto, interesse aziendale, obbligo morale, interesse pubblico, legittimo interesse",
+      "Consenso dell'interessato, esecuzione di un contratto, obbligo legale, interesse aziendale, compito di interesse pubblico, legittimo interesse"
+    ],
+    "corretta": 0,
+    "spiegazione": "Le condizioni di liceità del trattamento dei dati personali sono: consenso dell'interessato, esecuzione di un contratto, obbligo legale, interesse vitale, compito di interesse pubblico, legittimo interesse&#8203;:citation[【oaicite:7】]&#8203;."
+  },
+  {
+    "domanda": "Quali dati personali appartengono alle categorie particolari?",
+    "scelte": [
+      "Origine razziale o etnica, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, dati genetici, dati biometrici, dati relativi alla salute, vita sessuale o orientamento sessuale",
+      "Nome, cognome, indirizzo email, numero di telefono, dati finanziari",
+      "Dati di localizzazione, indirizzo IP, dati di navigazione web",
+      "Informazioni relative all'istruzione, stato civile, hobby, preferenze di acquisto",
+      "Numero di passaporto, patente di guida, codice fiscale"
+    ],
+    "corretta": 0,
+    "spiegazione": "Le categorie particolari di dati personali includono: origine razziale o etnica, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, dati genetici, dati biometrici, dati relativi alla salute, vita sessuale o orientamento sessuale&#8203;:citation[【oaicite:6】]&#8203;."
+  },
+  {
+    "domanda": "Quali adempimenti sono necessari per trattare dati personali?",
+    "scelte": [
+      "Fornire un'informativa chiara e dettagliata, ottenere il consenso dell'interessato quando richiesto, rispettare i principi di protezione dei dati, implementare misure di sicurezza adeguate",
+      "Ottenere l'autorizzazione del garante, fornire un'informativa generica, rispettare i principi di riservatezza, conservare i dati per sempre",
+      "Fornire un'informativa solo su richiesta, ottenere il consenso dell'interessato in tutti i casi, implementare misure di sicurezza minime, condividere i dati con terzi",
+      "Ottenere il consenso del garante, fornire un'informativa dettagliata solo ai dipendenti, rispettare i principi di sicurezza informatica, conservare i dati solo per un anno",
+      "Fornire un'informativa dettagliata, ottenere il consenso del garante, rispettare i principi di trasparenza, implementare misure di sicurezza minime"
+    ],
+    "corretta": 0,
+    "spiegazione": "Per trattare dati personali è necessario fornire un'informativa chiara e dettagliata, ottenere il consenso dell'interessato quando richiesto, rispettare i principi di protezione dei dati e implementare misure di sicurezza adeguate&#8203;:citation[【oaicite:5】]&#8203;."
+  },
+  {
+    "domanda": "Per quanto tempo possono essere conservati i dati personali?",
+    "scelte": [
+      "Solo per il tempo necessario a conseguire le finalità per cui sono stati raccolti",
+      "Fino a quando l'interessato non ne richiede la cancellazione",
+      "Indefinitamente, se i dati sono di interesse storico",
+      "Fino a cinque anni, indipendentemente dalla finalità",
+      "Fino a quando il garante non ne ordina la cancellazione"
+    ],
+    "corretta": 0,
+    "spiegazione": "I dati personali possono essere conservati solo per il tempo necessario a conseguire le finalità per cui sono stati raccolti&#8203;:citation[【oaicite:4】]&#8203;."
+  },
+  {
+    "domanda": "Che cos'è l'informativa e chi la deve fornire?",
+    "scelte": [
+      "È una comunicazione che spiega come verranno trattati i dati personali; deve essere fornita dal titolare del trattamento",
+      "È un documento che spiega i diritti dell'interessato; deve essere fornita dall'interessato stesso",
+      "È una comunicazione che descrive i rischi del trattamento; deve essere fornita dal garante",
+      "È un documento che elenca i dati raccolti; deve essere fornita dai responsabili del trattamento",
+      "È una dichiarazione di consenso; deve essere fornita dagli utenti"
+    ],
+    "corretta": 0,
+    "spiegazione": "L'informativa è una comunicazione che spiega come verranno trattati i dati personali e deve essere fornita dal titolare del trattamento&#8203;:citation[【oaicite:3】]&#8203;."
+  },
+  {
+    "domanda": "Quali contenuti deve avere l'informativa?",
+    "scelte": [
+      "Identità e contatti del titolare del trattamento, finalità del trattamento, diritti dell'interessato, periodo di conservazione dei dati",
+      "Nome del responsabile, indirizzo del garante, modalità di raccolta dei dati, numero di telefono del titolare",
+      "Dettagli del contratto di lavoro, orari di trattamento, benefici per l'interessato, durata del contratto",
+      "Lista dei dipendenti coinvolti, budget del trattamento, risultati attesi, statistiche di raccolta dati",
+      "Contatti del garante, indirizzo dell'azienda, modalità di cancellazione dei dati, benefici per l'interessato"
+    ],
+    "corretta": 0,
+    "spiegazione": "L'informativa deve includere: identità e contatti del titolare del trattamento, finalità del trattamento, diritti dell'interessato e periodo di conservazione dei dati&#8203;:citation[【oaicite:2】]&#8203;."
+  },
+  {
+    "domanda": "Quali sono i diritti dell'interessato riguardo ai propri dati personali?",
+    "scelte": [
+      "Diritto di accesso, diritto di rettifica, diritto di cancellazione, diritto di limitazione del trattamento, diritto alla portabilità dei dati, diritto di opposizione",
+      "Diritto di accesso, diritto di modifica, diritto di copia, diritto di limitazione, diritto di trasferimento, diritto di cancellazione",
+      "Diritto di blocco, diritto di rettifica, diritto di trasparenza, diritto di limitazione del trattamento, diritto di portabilità, diritto di rimozione",
+      "Diritto di accesso, diritto di aggiornamento, diritto di anonimato, diritto di limitazione del trattamento, diritto di trasferimento, diritto di opposizione",
+      "Diritto di anonimato, diritto di rettifica, diritto di cancellazione, diritto di limitazione del trattamento, diritto di blocco, diritto di portabilità"
+    ],
+    "corretta": 0,
+    "spiegazione": "I diritti dell'interessato riguardo ai propri dati personali includono: diritto di accesso, diritto di rettifica, diritto di cancellazione, diritto di limitazione del trattamento, diritto alla portabilità dei dati, diritto di opposizione&#8203;:citation[【oaicite:1】]&#8203;."
+  },
+  {
+    "domanda": "Il consenso deve sempre essere richiesto per poter trattare dati personali a norma di legge?",
+    "scelte": [
+      "Sì, sempre",
+      "No, mai",
+      "Sì, ma solo per i dati sensibili",
+      "Solo se non esiste un'altra base giuridica per il trattamento",
+      "Solo se i dati sono raccolti online"
+    ],
+    "corretta": 3,
+    "spiegazione": "Il consenso deve essere richiesto solo se non esiste un'altra base giuridica per il trattamento dei dati personali【18:0†source】."
+  },
+  {
+    "domanda": "Quali caratteristiche deve avere il consenso per essere valido?",
+    "scelte": [
+      "Deve essere libero, specifico, informato e inequivocabile",
+      "Deve essere verbale, generico e condizionato",
+      "Deve essere forzato, specifico e scritto",
+      "Deve essere libero, informato e revocabile solo da un giudice",
+      "Deve essere obbligatorio, generico e scritto"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il consenso deve essere libero, specifico, informato e inequivocabile【18:0†source】."
+  },
+  {
+    "domanda": "Se l'interessato tace, vale come consenso?",
+    "scelte": [
+      "Sì, il silenzio vale come consenso",
+      "No, il silenzio non vale come consenso",
+      "Solo se precedentemente informato",
+      "Solo se confermato da un responsabile",
+      "Solo se previsto dalla legge"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il silenzio non vale come consenso. Il consenso deve essere esplicito【18:0†source】."
+  },
+  {
+    "domanda": "Vi sono casi in cui non occorre il consenso per trattare dati personali?",
+    "scelte": [
+      "Sì, per obblighi legali o contrattuali",
+      "No, il consenso è sempre necessario",
+      "Sì, per tutti i trattamenti automatizzati",
+      "No, tranne per i dati sensibili",
+      "Sì, solo per dati non identificabili"
+    ],
+    "corretta": 0,
+    "spiegazione": "Non occorre il consenso quando il trattamento è necessario per obblighi legali o contrattuali【18:0†source】."
+  },
+  {
+    "domanda": "Quali sono gli obblighi e le responsabilità del Titolare del trattamento?",
+    "scelte": [
+      "Implementare misure tecniche e organizzative adeguate",
+      "Solo monitorare il trattamento",
+      "Solo notificare violazioni",
+      "Soltanto archiviare i dati in sicurezza",
+      "Semplicemente raccogliere i consensi"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il Titolare del trattamento deve implementare misure tecniche e organizzative adeguate per proteggere i dati personali【18:0†source】."
+  },
+  {
+    "domanda": "Che cosa significa Privacy by Design e Privacy by Default?",
+    "scelte": [
+      "Incorporare la privacy fin dalla progettazione e impostare la privacy come impostazione predefinita",
+      "Progettare i sistemi senza considerare la privacy e impostare controlli minimi di sicurezza",
+      "Implementare la privacy solo dopo il trattamento e lasciare le impostazioni predefinite aperte",
+      "Progettare con massima trasparenza e nessuna restrizione predefinita",
+      "Implementare la privacy a livello amministrativo e con impostazioni manuali"
+    ],
+    "corretta": 0,
+    "spiegazione": "Privacy by Design significa incorporare la privacy fin dalla progettazione; Privacy by Default significa impostare la privacy come impostazione predefinita【18:0†source】."
+  },
+  {
+    "domanda": "Qual è il ruolo e le responsabilità del Responsabile del trattamento?",
+    "scelte": [
+      "Trattare dati per conto del Titolare, garantendo misure tecniche e organizzative adeguate",
+      "Solo supervisionare il trattamento",
+      "Autorizzare tutte le richieste di accesso ai dati",
+      "Archiviare e distruggere i dati a richiesta",
+      "Monitorare solo le violazioni di sicurezza"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il Responsabile del trattamento tratta dati per conto del Titolare e deve garantire misure tecniche e organizzative adeguate【18:0†source】."
+  },
+  {
+    "domanda": "Chi deve tenere i registri delle attività di trattamento e cosa devono contenere?",
+    "scelte": [
+      "Tutte le imprese con più di 250 dipendenti; devono contenere nome e dati di contatto, finalità del trattamento, categorie di interessati e dati",
+      "Solo le grandi imprese; devono contenere solo i dati di contatto del responsabile",
+      "Tutte le imprese, indipendentemente dalle dimensioni; devono contenere solo le finalità del trattamento",
+      "Solo le piccole imprese; devono contenere solo il tipo di dati trattati",
+      "Solo le organizzazioni non-profit; devono contenere solo le categorie di interessati"
+    ],
+    "corretta": 0,
+    "spiegazione": "Tutte le imprese con più di 250 dipendenti devono tenere i registri delle attività di trattamento, che devono contenere nome e dati di contatto, finalità del trattamento, categorie di interessati e dati personali【18:0†source】."
+  },
+  {
+    "domanda": "Quali misure di sicurezza tecniche e organizzative devono essere adottate per il trattamento?",
+    "scelte": [
+      "Protezione dei dati mediante cifratura, controllo degli accessi, formazione del personale",
+      "Solo controllo degli accessi",
+      "Solo formazione del personale",
+      "Solo protezione dei dati mediante cifratura",
+      "Solo protezione fisica dei server"
+    ],
+    "corretta": 0,
+    "spiegazione": "Devono essere adottate misure di sicurezza come protezione dei dati mediante cifratura, controllo degli accessi e formazione del personale【18:0†source】."
+  },
+  {
+    "domanda": "In cosa consiste la notifica delle violazioni dei dati (data breach) e cosa si deve fare?",
+    "scelte": [
+      "Consiste nell'informare l'autorità di controllo e gli interessati senza ritardo; si deve descrivere la natura della violazione e le misure adottate",
+      "Consiste nel notificare solo gli interessati; si deve fornire una soluzione immediata",
+      "Consiste nel notificare solo l'autorità di controllo; si deve attendere istruzioni",
+      "Consiste nel risolvere internamente la violazione; si deve informare solo i responsabili",
+      "Consiste nel monitorare la situazione; si deve attendere che l'autorità intervenga"
+    ],
+    "corretta": 0,
+    "spiegazione": "La notifica delle violazioni dei dati consiste nell'informare l'autorità di controllo e gli interessati senza ritardo, descrivendo la natura della violazione e le misure adottate【18:0†source】."
+  },
+  {
+    "domanda": "Che cos'è la valutazione d'impatto sulla protezione dei dati (DPIA) e quando è necessaria?",
+    "scelte": [
+      "È un processo per valutare i rischi per i diritti e le libertà delle persone; è necessaria per trattamenti ad alto rischio",
+      "È una revisione dei dati raccolti; è necessaria solo per i dati finanziari",
+      "È una verifica della conformità legale; è necessaria solo per i dati sensibili",
+      "È un controllo periodico dei sistemi; è necessaria solo per i dati anonimi",
+      "È un'analisi dei costi di trattamento; è necessaria solo per i dati sanitari"
+    ],
+    "corretta": 0,
+    "spiegazione": "La valutazione d'impatto sulla protezione dei dati (DPIA) è un processo per valutare i rischi per i diritti e le libertà delle persone ed è necessaria per trattamenti ad alto rischio【18:0†source】."
+  },
+  {
+    "domanda": "Quando deve essere nominato un Responsabile della Protezione dei Dati (DPO) e quali sono i suoi compiti?",
+    "scelte": [
+      "Quando il trattamento è svolto da un'autorità pubblica o comporta monitoraggio sistematico su larga scala; i suoi compiti includono informare e consigliare il titolare e monitorare la conformità",
+      "Solo quando il trattamento riguarda dati sensibili; i suoi compiti includono solo informare il titolare",
+      "Solo quando richiesto dal garante; i suoi compiti includono solo monitorare la conformità",
+      "Quando il trattamento è svolto da qualsiasi azienda; i suoi compiti includono consigliare il titolare su ogni aspetto",
+      "Quando richiesto dal responsabile del trattamento; i suoi compiti includono monitorare solo la sicurezza"
+    ],
+    "corretta": 0,
+    "spiegazione": "Un DPO deve essere nominato quando il trattamento è svolto da un'autorità pubblica o comporta monitoraggio sistematico su larga scala; i suoi compiti includono informare e consigliare il titolare e monitorare la conformità【18:0†source】."
+  },
+  {
+    "domanda": "A quali condizioni sono consentiti i trasferimenti di dati extra UE?",
+    "scelte": [
+      "Decisione di adeguatezza della Commissione Europea, garanzie adeguate come clausole contrattuali tipo, consenso esplicito dell'interessato",
+      "Solo con il consenso esplicito dell'interessato",
+      "Solo con garanzie adeguate come norme vincolanti d'impresa",
+      "Decisione di adeguatezza della Commissione Europea o approvazione del garante",
+      "Solo con l'autorizzazione dell'autorità nazionale"
+    ],
+    "corretta": 0,
+    "spiegazione": "I trasferimenti di dati extra UE sono consentiti con una decisione di adeguatezza della Commissione Europea, garanzie adeguate come clausole contrattuali tipo o con il consenso esplicito dell'interessato【18:0†source】."
+  }
+]
+
+
