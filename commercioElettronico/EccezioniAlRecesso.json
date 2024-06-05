@@ -1,0 +1,205 @@
+[
+  {
+    "domanda": "In quale caso il diritto di recesso è escluso per i contratti di servizi?",
+    "scelte": [
+      "Dopo la completa prestazione del servizio",
+      "Dopo la prima prestazione del servizio",
+      "Quando il servizio è offerto a prezzo scontato",
+      "Quando il servizio è offerto da un professionista locale",
+      "Dopo il pagamento della prima rata"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il diritto di recesso è escluso per i contratti di servizi dopo la completa prestazione del servizio."
+  },
+  {
+    "domanda": "Per quale tipo di beni il diritto di recesso è escluso a causa del rischio di deterioramento o scadenza rapida?",
+    "scelte": [
+      "Beni confezionati su misura",
+      "Beni sigillati per motivi igienici",
+      "Beni che scadono rapidamente",
+      "Beni personalizzati",
+      "Beni digitali"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il diritto di recesso è escluso per la fornitura di beni che rischiano di deteriorarsi o scadere rapidamente."
+  },
+  {
+    "domanda": "Quale condizione rende i beni sigillati non restituibili per motivi igienici o connessi alla protezione della salute?",
+    "scelte": [
+      "Se sono stati aperti dopo la consegna",
+      "Se sono stati acquistati online",
+      "Se sono stati personalizzati",
+      "Se sono stati consegnati con ritardo",
+      "Se sono stati acquistati in saldo"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il diritto di recesso è escluso per la fornitura di beni sigillati che non si prestano ad essere restituiti per motivi igienici o connessi alla protezione della salute se sono stati aperti dopo la consegna."
+  },
+  {
+    "domanda": "Perché il diritto di recesso è escluso per la fornitura di registrazioni audio, video o software sigillati?",
+    "scelte": [
+      "Perché sono costosi",
+      "Perché non possono essere rivenduti",
+      "Perché potrebbero essere copiati",
+      "Perché sono personalizzati",
+      "Perché sono facilmente danneggiabili"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il diritto di recesso è escluso per la fornitura di registrazioni audio, video o software sigillati che sono stati aperti dopo la consegna, perché potrebbero essere copiati."
+  },
+  {
+    "domanda": "In quale situazione il diritto di recesso è escluso per la fornitura di contenuto digitale?",
+    "scelte": [
+      "Quando il contenuto è stato acquistato con uno sconto",
+      "Quando il contenuto è fornito su un supporto fisico",
+      "Quando l'esecuzione è iniziata con l'accordo espresso del consumatore e con la sua accettazione del fatto che avrebbe perso il diritto di recesso",
+      "Quando il contenuto è stato acquistato in un paese estero",
+      "Quando il contenuto è stato acquistato durante una promozione"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il diritto di recesso è escluso per la fornitura di contenuto digitale mediante un supporto non materiale se l'esecuzione è iniziata con l'accordo espresso del consumatore e con la sua accettazione del fatto che in tal caso avrebbe perso il diritto di recesso."
+  },
+  {
+    "domanda": "In quale situazione il diritto di recesso è escluso per i contratti di servizi?",
+    "scelte": [
+      "Dopo la prima prestazione del servizio",
+      "Dopo la completa prestazione del servizio",
+      "Dopo il pagamento della prima rata",
+      "Dopo l'accettazione del contratto",
+      "Dopo la firma del contratto"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Per quali beni o servizi il diritto di recesso è escluso a causa del prezzo legato a fluttuazioni nel mercato finanziario?",
+    "scelte": [
+      "Beni confezionati su misura",
+      "Servizi di consulenza finanziaria",
+      "Beni o servizi il cui prezzo è legato a fluttuazioni nel mercato finanziario",
+      "Beni acquistati all'estero",
+      "Servizi di trasporto"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Quali beni sono esclusi dal diritto di recesso perché confezionati su misura?",
+    "scelte": [
+      "Beni acquistati in saldo",
+      "Beni non disponibili in magazzino",
+      "Beni confezionati su misura o chiaramente personalizzati",
+      "Beni venduti all'asta",
+      "Beni di lusso"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Quali beni sono esclusi dal diritto di recesso a causa del rischio di deterioramento?",
+    "scelte": [
+      "Beni confezionati su misura",
+      "Beni sigillati",
+      "Beni che rischiano di deteriorarsi o scadere rapidamente",
+      "Beni di seconda mano",
+      "Beni digitali"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "In quale caso il diritto di recesso è escluso per i beni sigillati per motivi igienici?",
+    "scelte": [
+      "Se sono stati spediti con ritardo",
+      "Se sono stati aperti dopo la consegna",
+      "Se sono stati acquistati con sconto",
+      "Se sono stati resi entro 14 giorni",
+      "Se sono stati danneggiati durante il trasporto"
+    ],
+    "corretta": 1
+  },
+  {
+    "domanda": "Perché il diritto di recesso è escluso per i beni che risultano inscindibilmente mescolati con altri beni?",
+    "scelte": [
+      "Perché sono difficili da separare",
+      "Perché sono venduti in saldo",
+      "Perché sono beni digitali",
+      "Perché sono beni personalizzati",
+      "Perché sono beni deperibili"
+    ],
+    "corretta": 0
+  },
+  {
+    "domanda": "Per quale motivo il diritto di recesso è escluso per le bevande alcoliche consegnate dopo 30 giorni?",
+    "scelte": [
+      "Perché sono costose",
+      "Perché possono essere rivendute facilmente",
+      "Perchè il loro prezzo dipende dal mercato",
+      "Perché sono personalizzate",
+      "Perché sono beni di lusso"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Quali contratti sono esclusi dal diritto di recesso in caso di richiesta specifica del consumatore per lavori urgenti?",
+    "scelte": [
+      "Contratti di servizi di consulenza",
+      "Contratti di fornitura di beni digitali",
+      "Contratti cui il consumatore ha specificamente richiesto una visita per lavori urgenti di riparazione o manutenzione",
+      "Contratti di abbonamento",
+      "Contratti di vendita all'asta"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Perché il diritto di recesso è escluso per le registrazioni audio, video o software sigillati?",
+    "scelte": [
+      "Perché sono costosi",
+      "Perché non possono essere rivenduti",
+      "Perché potrebbero essere copiati dopo essere stati aperti",
+      "Perché sono venduti online",
+      "Perché sono personalizzati"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "In quale caso il diritto di recesso non è escluso per la fornitura di giornali, periodici e riviste?",
+    "scelte": [
+      "Quando sono acquistati in edicola",
+      "Quando sono venduti con sconto",
+      "Quando sono acquistati in abbonamento",
+      "Quando sono venduti online",
+      "Quando non sono venduti in abbonamento"
+    ],
+    "corretta": 4
+  },
+  {
+    "domanda": "Quali contratti sono esclusi dal diritto di recesso quando conclusi in un certo modo?",
+    "scelte": [
+      "Contratti di vendita online",
+      "Contratti di vendita nei negozi",
+      "Contratti conclusi in occasione di un’asta pubblica",
+      "Contratti di vendita telefonica",
+      "Contratti di vendita tramite corrispondenza"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "Perché il diritto di recesso è escluso per i contratti di servizi di noleggio auto?",
+    "scelte": [
+      "Perché il costo è elevato",
+      "Perché il servizio è personalizzato",
+      "Perché il contratto prevede una data o un periodo di esecuzione specifici",
+      "Perché il servizio è offerto da terzi",
+      "Perché il servizio è a breve termine"
+    ],
+    "corretta": 2
+  },
+  {
+    "domanda": "In quale caso il diritto di recesso è escluso per la fornitura di contenuto digitale?",
+    "scelte": [
+      "Quando il contenuto è fornito su un supporto fisico",
+      "Quando il contenuto è stato scaricato più di una volta",
+      "Quando l'esecuzione è iniziata con l'accordo espresso del consumatore e con la sua accettazione del fatto che avrebbe perso il diritto di recesso",
+      "Quando il contenuto è stato acquistato con uno sconto",
+      "Quando il contenuto è stato acquistato da un fornitore estero"
+    ],
+    "corretta": 2
+  }
+]
