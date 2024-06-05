@@ -1,0 +1,122 @@
+[
+  {
+    "domanda": "Entro quanti giorni il consumatore può recedere dal contratto senza penali?",
+    "scelte": [
+      "7 giorni",
+      "10 giorni",
+      "14 giorni",
+      "30 giorni",
+      "60 giorni"
+    ],
+    "corretta": 2,
+    "spiegazione": "Il consumatore può recedere dal contratto senza penali entro 14 giorni."
+  },
+  {
+    "domanda": "Quando inizia il periodo di recesso per i beni acquistati online?",
+    "scelte": [
+      "Dal giorno della conclusione del contratto",
+      "Dal giorno in cui il consumatore acquisisce possesso fisico dei beni",
+      "Dal giorno in cui il pagamento viene effettuato",
+      "Dal giorno in cui il consumatore riceve la conferma dell'ordine",
+      "Dal giorno in cui il professionista spedisce i beni"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il periodo di recesso per i beni acquistati online inizia dal giorno in cui il consumatore acquisisce possesso fisico dei beni."
+  },
+  {
+    "domanda": "Cosa succede se il professionista non fornisce informazioni sul diritto di recesso?",
+    "scelte": [
+      "Il periodo di recesso non è valido",
+      "Il periodo di recesso si riduce a 7 giorni",
+      "Il periodo di recesso termina dodici mesi dopo la fine del periodo di recesso iniziale",
+      "Il consumatore perde il diritto di recesso",
+      "Il consumatore deve pagare una penale"
+    ],
+    "corretta": 2,
+    "spiegazione": "Se il professionista non fornisce informazioni sul diritto di recesso, il periodo termina dodici mesi dopo la fine del periodo di recesso iniziale."
+  },
+  {
+    "domanda": "Qual è l'obbligo del professionista in caso di esercizio del diritto di recesso da parte del consumatore?",
+    "scelte": [
+      "Rimborsare tutti i pagamenti ricevuti dal consumatore incluse le spese di consegna",
+      "Rimborsare solo il 50% dei pagamenti ricevuti",
+      "Rimborsare solo il costo dei beni senza le spese di consegna",
+      "Offrire un buono per un futuro acquisto",
+      "Non è obbligato a fare alcun rimborso"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il professionista deve rimborsare tutti i pagamenti ricevuti dal consumatore incluse le spese di consegna, senza indebito ritardo e comunque entro 14 giorni dalla ricezione della decisione di recesso."
+  },
+  {
+    "domanda": "Quali contratti sono esclusi dal diritto di recesso?",
+    "scelte": [
+      "La fornitura di beni confezionati su misura o chiaramente personalizzati",
+      "Contratti di servizi dopo la prima prestazione del servizio",
+      "La fornitura di beni con garanzia limitata",
+      "Contratti di servizi con durata superiore a 12 mesi",
+      "La fornitura di beni acquistati con sconto"
+    ],
+    "corretta": 0,
+    "spiegazione": "Il diritto di recesso è escluso per la fornitura di beni confezionati su misura o chiaramente personalizzati."
+  },
+  {
+"domanda": "Quale delle seguenti opzioni il consumatore può utilizzare per esercitare il diritto di recesso?",
+"scelte": [
+"Un modulo di reclamo",
+"Una chiamata telefonica",
+"Una qualsiasi dichiarazione esplicita della sua decisione di recedere dal contratto",
+"Un pagamento parziale del prodotto",
+"Una visita presso la sede del professionista"
+],
+"corretta": 2,
+"spiegazione": "Il consumatore può esercitare il diritto di recesso utilizzando il modulo tipo di recesso o presentando una qualsiasi dichiarazione esplicita della sua decisione di recedere dal contratto."
+},
+{
+"domanda": "Entro quanti giorni il professionista deve rimborsare il consumatore dopo aver ricevuto la decisione di recesso?",
+"scelte": [
+"7 giorni",
+"10 giorni",
+"14 giorni",
+"30 giorni",
+"60 giorni"
+],
+"corretta": 2,
+"spiegazione": "Il professionista deve rimborsare il consumatore senza indebito ritardo e comunque entro 14 giorni dalla ricezione della decisione di recesso."
+},
+{
+"domanda": "Quale tra i seguenti costi il professionista non è tenuto a rimborsare in caso di recesso?",
+"scelte": [
+"Il costo del prodotto",
+"Le spese di consegna",
+"I costi supplementari per una tipologia di consegna scelta dal consumatore",
+"Il costo della restituzione del prodotto",
+"Le spese di gestione dell'ordine"
+],
+"corretta": 2,
+"spiegazione": "Il professionista non è tenuto a rimborsare i costi supplementari, come ad esempio una tipologia di consegna prevista dal consumatore."
+},
+{
+"domanda": "Quando il consumatore deve rispedire i beni in caso di recesso?",
+"scelte": [
+"Entro 7 giorni dalla comunicazione di recesso",
+"Entro 14 giorni dalla data di comunicazione di recesso",
+"Entro 30 giorni dalla ricezione dei beni",
+"Entro 60 giorni dalla ricezione dei beni",
+"Non c'è un termine specifico"
+],
+"corretta": 1,
+"spiegazione": "Il consumatore deve rispedire i beni prima della scadenza dei 14 giorni dalla data di comunicazione di recesso del contratto."
+},
+{
+"domanda": "Quale delle seguenti situazioni rappresenta un'eccezione al diritto di recesso?",
+"scelte": [
+"La fornitura di beni confezionati su misura o chiaramente personalizzati",
+"La fornitura di beni generici",
+"La fornitura di servizi con durata superiore a 12 mesi",
+"La fornitura di beni con garanzia limitata",
+"La fornitura di beni acquistati online"
+],
+"corretta": 0,
+"spiegazione": "Il diritto di recesso è escluso relativamente alla fornitura di beni confezionati su misura o chiaramente personalizzati."
+}
+]
