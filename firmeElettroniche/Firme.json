@@ -1,0 +1,195 @@
+[
+  {
+    "domanda": "Quale delle seguenti affermazioni descrive una firma elettronica?",
+    "scelte": [
+      "È una firma basata esclusivamente su carta e inchiostro",
+      "È una firma digitale che utilizza chiavi crittografiche",
+      "È un dato elettronico connesso ad altri dati elettronici usato per firmare",
+      "È una firma basata su un certificato non qualificato",
+      "È una firma utilizzata esclusivamente nelle transazioni internazionali"
+    ],
+    "corretta": 2,
+    "spiegazione": "Una firma elettronica è un dato elettronico accluso o connesso tramite associazione logica ad altri dati elettronici e utilizzato dal firmatario per firmare."
+  },
+  {
+    "domanda": "Quale delle seguenti opzioni NON è un esempio di firma elettronica?",
+    "scelte": [
+      "Username e password",
+      "PIN della carta di credito",
+      "Firma grafometrica",
+      "Firma su un PDF tramite anteprima",
+      "Biglietto da visita digitale"
+    ],
+    "corretta": 4,
+    "spiegazione": "Un biglietto da visita digitale non è considerato un esempio di firma elettronica."
+  },
+  {
+    "domanda": "Quale affermazione è vera riguardo alla firma elettronica avanzata?",
+    "scelte": [
+      "Non è connessa unicamente al firmatario",
+      "Non è idonea a identificare il firmatario",
+      "È creata mediante dati che il firmatario può utilizzare con un elevato livello di sicurezza",
+      "Non è collegata ai dati sottoscritti",
+      "Non consente l'identificazione di modifiche successive ai dati"
+    ],
+    "corretta": 2,
+    "spiegazione": "Una firma elettronica avanzata è creata mediante dati per la creazione di una firma elettronica che il firmatario può, con un elevato livello di sicurezza, utilizzare sotto il proprio esclusivo controllo."
+  },
+  {
+    "domanda": "Quale delle seguenti è una caratteristica della firma elettronica qualificata?",
+    "scelte": [
+      "È sempre basata su un certificato non qualificato",
+      "Non ha effetti giuridici equivalenti a quelli di una firma autografa",
+      "Può essere creata senza dispositivi qualificati",
+      "È basata su un certificato qualificato per firme elettroniche",
+      "Non richiede un dispositivo per la creazione della firma"
+    ],
+    "corretta": 3,
+    "spiegazione": "Una firma elettronica qualificata è basata su un certificato qualificato per firme elettroniche."
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni descrive una firma digitale?",
+    "scelte": [
+      "Utilizza una sola chiave crittografica",
+      "Non può essere utilizzata per verificare l'integrità di un documento",
+      "Utilizza un sistema di chiavi crittografiche pubblica e privata",
+      "Non ha rilevanza giuridica",
+      "Non sostituisce timbri e sigilli"
+    ],
+    "corretta": 2,
+    "spiegazione": "Una firma digitale utilizza un sistema di chiavi crittografiche pubblica e privata per verificare la provenienza e l'integrità di un documento informatico."
+  },
+  {
+    "domanda": "Qual è una differenza tra firma elettronica qualificata e firma elettronica avanzata?",
+    "scelte": [
+      "La firma avanzata è più sicura della qualificata",
+      "La firma qualificata richiede un dispositivo specifico per la creazione",
+      "La firma qualificata non ha effetti giuridici",
+      "La firma avanzata deve essere dimostrata falsa dal querelante",
+      "La firma avanzata è basata su un certificato qualificato"
+    ],
+    "corretta": 1,
+    "spiegazione": "Una firma elettronica qualificata richiede un dispositivo specifico per la creazione di una firma elettronica qualificata."
+  },
+  {
+    "domanda": "Quale delle seguenti è una caratteristica della firma digitale?",
+    "scelte": [
+      "Non richiede un certificato qualificato",
+      "Non utilizza algoritmi di hash",
+      "Non ha bisogno di un dispositivo specifico",
+      "È basata su un sistema di chiavi crittografiche asimmetriche",
+      "Non garantisce l'integrità del documento"
+    ],
+    "corretta": 3,
+    "spiegazione": "La firma digitale è basata su un sistema di chiavi crittografiche asimmetriche, pubblica e privata."
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni è vera riguardo alla firma elettronica semplice?",
+    "scelte": [
+      "Ha lo stesso valore probatorio della firma qualificata",
+      "Dipende dalla decisione del giudice per il valore probatorio",
+      "Non può mai essere usata in procedimenti giudiziari",
+      "Identifica univocamente il firmatario",
+      "Richiede un dispositivo specifico per la creazione"
+    ],
+    "corretta": 1,
+    "spiegazione": "Il valore probatorio della firma elettronica semplice dipende dalla decisione del giudice."
+  },
+  {
+    "domanda": "Quale delle seguenti firme è riconosciuta in tutti gli Stati membri dell'Unione Europea?",
+    "scelte": [
+      "Firma elettronica semplice",
+      "Firma autografa",
+      "Firma elettronica qualificata basata su un certificato qualificato",
+      "Firma grafometrica",
+      "Firma con PIN della carta di credito"
+    ],
+    "corretta": 2,
+    "spiegazione": "Una firma elettronica qualificata basata su un certificato qualificato rilasciato in uno Stato membro è riconosciuta in tutti gli altri Stati membri."
+  },
+  {
+    "domanda": "Cosa si utilizza per creare una firma digitale?",
+    "scelte": [
+      "Solo una chiave pubblica",
+      "Solo una chiave privata",
+      "Un certificato non qualificato",
+      "Un sistema di chiavi crittografiche pubblica e privata",
+      "Una password"
+    ],
+    "corretta": 3,
+    "spiegazione": "Una firma digitale è creata utilizzando un sistema di chiavi crittografiche pubblica e privata."
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni descrive il meccanismo di verifica di una firma digitale?",
+    "scelte": [
+      "Il mittente verifica il documento con la propria chiave privata",
+      "Il destinatario firma il documento con la chiave pubblica del mittente",
+      "Il mittente verifica il documento con la chiave pubblica del destinatario",
+      "Il destinatario verifica il documento con la chiave pubblica del mittente",
+      "Il destinatario firma il documento con la propria chiave privata"
+    ],
+    "corretta": 3,
+    "spiegazione": "Il destinatario verifica il documento con la chiave pubblica del mittente."
+  },
+  {
+    "domanda": "Quale delle seguenti NON è una funzione della firma digitale?",
+    "scelte": [
+      "Verifica l'integrità di un documento",
+      "Identifica il mittente del documento",
+      "Sostituisce timbri e sigilli",
+      "Garantisce la confidenzialità del documento",
+      "Verifica la provenienza del documento"
+    ],
+    "corretta": 3,
+    "spiegazione": "La firma digitale non garantisce la confidenzialità del documento, ma ne verifica l'integrità e la provenienza."
+  },
+  {
+    "domanda": "Quale delle seguenti condizioni è necessaria per la validità di una firma digitale?",
+    "scelte": [
+      "Deve essere basata su un certificato non qualificato",
+      "Il certificato deve essere scaduto",
+      "Il certificato deve essere qualificato e valido",
+      "Non deve essere legata al documento",
+      "Non richiede un dispositivo specifico per la creazione"
+    ],
+    "corretta": 2,
+    "spiegazione": "Per la validità di una firma digitale, il certificato deve essere qualificato e valido."
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni descrive correttamente l'impronta digitale di un documento firmato digitalmente?",
+    "scelte": [
+      "È generata tramite funzioni di hash",
+      "È una copia esatta del documento",
+      "Non può essere utilizzata per verificare modifiche al documento",
+      "È generata solo per documenti cartacei",
+      "Non garantisce l'unicità del documento"
+    ],
+    "corretta": 0,
+    "spiegazione": "L'impronta digitale di un documento firmato digitalmente è generata tramite funzioni di hash che garantiscono l'unicità del documento."
+  },
+  {
+    "domanda": "In quale situazione l'apposizione di una firma digitale è considerata non valida?",
+    "scelte": [
+      "Quando il certificato è scaduto o revocato",
+      "Quando è basata su un certificato qualificato",
+      "Quando è creata con un dispositivo specifico",
+      "Quando è utilizzata in transazioni internazionali",
+      "Quando è riconosciuta da uno Stato membro dell'UE"
+    ],
+    "corretta": 0,
+    "spiegazione": "L'apposizione di una firma digitale è considerata non valida se il certificato è scaduto, revocato o sospeso al momento della firma."
+  },
+  {
+    "domanda": "Quale delle seguenti descrizioni si riferisce correttamente alla tecnologia di crittografia utilizzata per la firma digitale?",
+    "scelte": [
+      "Crittografia simmetrica",
+      "Crittografia asimmetrica",
+      "Crittografia a singola chiave",
+      "Crittografia a doppia firma",
+      "Crittografia non verificabile"
+    ],
+    "corretta": 1,
+    "spiegazione": "La firma digitale utilizza la crittografia asimmetrica, che si basa su una coppia di chiavi: una pubblica e una privata."
+  }
+]
+

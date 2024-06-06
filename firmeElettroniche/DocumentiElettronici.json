@@ -1,0 +1,74 @@
+[
+  {
+    "domanda": "Quale delle seguenti condizioni permette a un documento informatico di soddisfare il requisito della forma scritta?",
+    "scelte": [
+      "È inviato tramite posta elettronica certificata",
+      "Vi è apposta una firma elettronica qualificata o avanzata",
+      "È firmato da due testimoni",
+      "È conservato in un archivio sicuro",
+      "È creato utilizzando software di editing testuale"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un documento informatico soddisfa il requisito della forma scritta se vi è apposta una firma elettronica qualificata o avanzata."
+  },
+  {
+    "domanda": "In quali casi un certificato qualificato deve essere revocato o sospeso?",
+    "scelte": [
+      "Quando il certificatore cambia sede legale",
+      "In presenza di abusi o falsificazioni",
+      "Se il titolare perde il lavoro",
+      "Quando il certificato è stato emesso da meno di un anno",
+      "Se il documento è stato visualizzato da terze parti"
+    ],
+    "corretta": 1,
+    "spiegazione": "Un certificato qualificato deve essere revocato o sospeso in presenza di abusi o falsificazioni, tra altre cause specificate."
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni è vera riguardo alla data e ora di formazione di un documento informatico?",
+    "scelte": [
+      "Non hanno alcuna rilevanza legale",
+      "Sono opponibili ai terzi se apposte in conformità alle Linee guida",
+      "Possono essere modificate liberamente",
+      "Sono sempre affidabili se generate automaticamente",
+      "Devono essere sempre approvate da un giudice"
+    ],
+    "corretta": 1,
+    "spiegazione": "La data e l'ora di formazione di un documento informatico sono opponibili ai terzi se apposte in conformità alle Linee guida."
+  },
+  {
+    "domanda": "Quali caratteristiche di un documento informatico sono valutabili in giudizio per determinarne l'idoneità a soddisfare il requisito della forma scritta?",
+    "scelte": [
+      "Estetica e formato",
+      "Sicurezza, integrità e immodificabilità",
+      "Dimensione e peso",
+      "Velocità di trasmissione",
+      "Colore e risoluzione"
+    ],
+    "corretta": 1,
+    "spiegazione": "Le caratteristiche valutabili in giudizio per determinare l'idoneità di un documento informatico a soddisfare il requisito della forma scritta sono sicurezza, integrità e immodificabilità."
+  },
+  {
+    "domanda": "Quali copie di documenti analogici hanno la stessa efficacia probatoria degli originali?",
+    "scelte": [
+      "Copie su supporto cartaceo con firma autografa",
+      "Copie per immagine su supporto informatico conformi alle Linee Guida",
+      "Copie inviate tramite email non certificata",
+      "Fotocopie di alta qualità",
+      "Copie trascritte a mano"
+    ],
+    "corretta": 1,
+    "spiegazione": "Le copie per immagine su supporto informatico di documenti analogici hanno la stessa efficacia probatoria degli originali se conformi alle Linee Guida."
+  },
+  {
+    "domanda": "Quali duplicati hanno lo stesso valore giuridico del documento informatico originale?",
+    "scelte": [
+      "Quelli stampati su carta intestata",
+      "I duplicati informatici conformi alle Linee Guida",
+      "Quelli firmati digitalmente",
+      "Le copie fatte in presenza di un notaio",
+      "I documenti inviati tramite fax"
+    ],
+    "corretta": 1,
+    "spiegazione": "I duplicati informatici hanno lo stesso valore giuridico del documento informatico originale se prodotti in conformità alle Linee Guida."
+  }
+]

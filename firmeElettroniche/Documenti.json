@@ -1,0 +1,51 @@
+[
+  {
+    "domanda": "Quale delle seguenti affermazioni descrive correttamente la scrittura privata secondo il codice civile italiano?",
+    "scelte": [
+      "È un documento redatto da un notaio che attesta la validità delle dichiarazioni.",
+      "È un documento che fa piena prova della provenienza delle dichiarazioni da chi l’ha sottoscritta, se non disconosciuta.",
+      "È un documento elettronico riconosciuto solo in ambito commerciale.",
+      "È un documento pubblico che richiede l'autenticazione di un pubblico ufficiale.",
+      "È un atto pubblico redatto con le richieste formalità da un notaio."
+    ],
+    "corretta": 1,
+    "spiegazione": "La scrittura privata fa piena prova della provenienza delle dichiarazioni da chi l’ha sottoscritta, se non disconosciuta durante una causa."
+  },
+  {
+    "domanda": "Quale delle seguenti descrive un atto pubblico secondo l'articolo 2699 del codice civile?",
+    "scelte": [
+      "Un documento privato autenticato da un avvocato.",
+      "Un documento redatto da un notaio o altro pubblico ufficiale autorizzato, che dà certezza ufficiale su ciò che si è svolto davanti al pubblico ufficiale.",
+      "Una riproduzione meccanica di un documento originale.",
+      "Un contratto commerciale tra due privati.",
+      "Una scrittura privata riconosciuta legalmente."
+    ],
+    "corretta": 1,
+    "spiegazione": "L'atto pubblico è redatto da un notaio o da un pubblico ufficiale autorizzato e dà certezza ufficiale su tutto ciò che si è svolto davanti al pubblico ufficiale."
+  },
+  {
+    "domanda": "Cosa deve essere fatto se si vuole contestare la validità di una scrittura privata?",
+    "scelte": [
+      "Richiedere una perizia grafologica.",
+      "Impugnare il documento con la querela di falso.",
+      "Ottenere una seconda firma da un pubblico ufficiale.",
+      "Registrare il documento presso l'ufficio notarile.",
+      "Verificare l'autenticità del documento attraverso un registro elettronico."
+    ],
+    "corretta": 1,
+    "spiegazione": "Per contestare la validità di una scrittura privata, occorre impugnare il documento con la querela di falso."
+  },
+  {
+    "domanda": "Quale tra i seguenti è un esempio di atto pubblico?",
+    "scelte": [
+      "Una lettera privata tra due individui.",
+      "Un contratto di compravendita immobiliare redatto da un notaio.",
+      "Una copia autenticata di un documento aziendale.",
+      "Una dichiarazione firmata da un privato cittadino.",
+      "Una registrazione video di un incontro ufficiale."
+    ],
+    "corretta": 1,
+    "spiegazione": "Un contratto di compravendita immobiliare redatto da un notaio è un esempio di atto pubblico."
+  }
+]
+
