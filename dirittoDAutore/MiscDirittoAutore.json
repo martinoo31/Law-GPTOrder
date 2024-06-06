@@ -307,7 +307,7 @@
         "domanda": "Cosa include il diritto esclusivo di utilizzazione economica dell'opera per il titolare?",
         "scelte": [
           "Diritto di decidere liberamente se e quando pubblicare l'opera",
-          "Diritto esclusivo di utilizzazione economica dell'opera nel suo insieme e in ciascuna delle sue parti",
+          "Diritto esclusivo di utilizzare l'opera nel suo insieme e in ciascuna delle sue parti",
           "Diritto di rivendicare la paternità dell'opera",
           "Diritto di ritirare l'opera dal commercio in presenza di gravi ragioni morali"
         ],
@@ -517,12 +517,12 @@
       }
       ,
       {
-        "domanda": "Chi è il titolare dei diritti morali e patrimoniali sul software creato da un dipendente?",
+        "domanda": "Chi è il titolare dei diritti patrimoniali sul software creato da un dipendente?",
         "scelte": [
-          "Solo l'autore del software",
-          "Solo il datore di lavoro",
-          "Entrambi, salvo patto contrario",
-          "Solo i dipendenti"
+          "L'autore del software",
+          "Sempre il datore di lavoro",
+          "Il datore di lavoro, salvo patto contrario",
+          "Il dipendente"
         ],
         "corretta": 2,
         "spiegazione": "Il datore di lavoro è titolare del diritto esclusivo di utilizzazione economica sul software creato dal dipendente, salvo patto contrario, ma i diritti morali restano dell'autore, il dipendente, salvo diversamente stabilito."
@@ -573,17 +573,6 @@
       }
       ,
       {
-        "domanda": "Quali sono le restrizioni riguardanti l'utilizzo delle informazioni ottenute attraverso le eccezioni per l'interoperabilità del software?",
-        "scelte": [
-          "Le informazioni possono essere utilizzate per sviluppare, produrre o commercializzare un software simile.",
-          "Le informazioni possono essere comunicate a terzi solo se necessario per l'interoperabilità.",
-          "Le informazioni possono essere utilizzate a fini diversi dal conseguimento dell'interoperabilità."
-        ],
-        "corretta": 2,
-        "spiegazione": "Le restrizioni riguardanti l'utilizzo delle informazioni ottenute attraverso le eccezioni per l'interoperabilità del software includono il divieto di comunicare tali informazioni a terzi, tranne se necessario per l'interoperabilità."
-      }
-      ,
-      {
         "domanda": "Qual è lo scopo principale della registrazione di un software presso il Pubblico Registro Software della SIAE?",
         "scelte": [
           "Ottenere la tutela legale contro possibili plagi o illecite utilizzazioni del software.",
@@ -610,7 +599,7 @@
         "scelte": [
           "Il deposito fornisce automaticamente la tutela legale contro plagi o illecite utilizzazioni.",
           "Il deposito ha validità illimitata e non richiede rinnovo.",
-          "Il deposito è possibile solo per i software pubblicati e non richiede la copia del software su disco ottico."
+          "Il deposito del software presso il Pubblico Registro Software della SIAE ha validità quinquennale."
         ],
         "corretta": 2,
         "spiegazione": "Il deposito del software presso il Pubblico Registro Software della SIAE ha validità quinquennale e può essere rinnovato per la stessa durata. Inoltre, è necessario depositare una copia del software su disco ottico."
