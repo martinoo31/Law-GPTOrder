@@ -1,0 +1,646 @@
+[
+    {
+      "domanda": "Quali requisiti deve avere un'opera per essere considerata creativa?",
+      "scelte": [
+        "Deve essere completamente nuova rispetto a qualsiasi altra opera",
+        "Deve essere realizzata da un autore noto",
+        "Deve avere un apporto personale dell’autore e un minimo grado di originalità e novità",
+        "Deve essere pubblicata da una casa editrice riconosciuta"
+      ],
+      "corretta": 2,
+      "spiegazione": "Un'opera è considerata creativa se vi è un apporto personale dell’autore e un minimo grado di originalità e novità rispetto alle opere precedenti."
+    },
+    {
+      "domanda": "Quale aspetto dell'opera è tutelato dalla legge sul diritto d'autore?",
+      "scelte": [
+        "Il contenuto dell'opera",
+        "La forma espressiva dell'opera",
+        "Il prezzo dell'opera",
+        "La distribuzione dell'opera"
+      ],
+      "corretta": 1,
+      "spiegazione": "La legge sul diritto d'autore tutela la forma espressiva dell'opera, non il contenuto."
+    },
+    {
+      "domanda": "Quali opere sono escluse dalla tutela del diritto d'autore?",
+      "scelte": [
+        "Opere fotografiche",
+        "Opere del disegno industriale",
+        "Opere letterarie",
+        "Testi degli atti ufficiali dello Stato e delle Amministrazioni pubbliche"
+      ],
+      "corretta": 3,
+      "spiegazione": "Non sono tutelati i testi degli atti ufficiali dello Stato e delle Amministrazioni pubbliche, sia italiane che straniere."
+    },
+    {
+      "domanda": "In che modo la legge sul diritto d'autore protegge le elaborazioni di opere preesistenti?",
+      "scelte": [
+        "Proteggendo solo le traduzioni in altre lingue",
+        "Proteggendo solo le trasformazioni in altre forme artistiche",
+        "Proteggendo le elaborazioni di carattere creativo come traduzioni, adattamenti e trasformazioni senza pregiudicare i diritti sull'opera originale",
+        "Non proteggendo le modificazioni e aggiunte"
+      ],
+      "corretta": 2,
+      "spiegazione": "La legge sul diritto d'autore protegge le elaborazioni di carattere creativo dell'opera preesistente, come le traduzioni in altra lingua, le trasformazioni da una forma letteraria o artistica ad un'altra, e le modificazioni ed aggiunte che costituiscono un rifacimento sostanziale dell'opera originaria, senza pregiudicare i diritti esistenti sull'opera originale."
+    },
+    {
+      "domanda": "A quali opere si applica la legge sul diritto d'autore (LDA)?",
+      "scelte": [
+        "Solo alle opere di autori italiani pubblicate in Italia",
+        "Solo alle opere di autori stranieri pubblicate in Italia",
+        "A tutte le opere di autori italiani, dovunque pubblicate per la prima volta, e a opere di autori stranieri, domiciliati in Italia, pubblicate per la prima volta in Italia",
+        "Solo alle opere pubblicate dopo il 2000"
+      ],
+      "corretta": 2,
+      "spiegazione": "La LDA si applica a tutte le opere di autori italiani, dovunque pubblicate per la prima volta, e a opere di autori stranieri, domiciliati in Italia, pubblicate per la prima volta in Italia."
+    },
+    {
+      "domanda": "In quali circostanze la LDA può essere applicata a opere di autori stranieri?",
+      "scelte": [
+        "Solo se l'autore straniero ha doppia cittadinanza",
+        "Solo se l'opera è tradotta in italiano",
+        "In presenza di Convenzioni Internazionali per la protezione delle opere dell'ingegno o se lo Stato dell'autore straniero concede una protezione equivalente alle opere italiane",
+        "Solo se l'opera è pubblicata su un sito web italiano"
+      ],
+      "corretta": 2,
+      "spiegazione": "La LDA può essere applicata a opere di autori stranieri in presenza di Convenzioni Internazionali per la protezione delle opere dell'ingegno, o se lo Stato di cui sono cittadini concede alle opere di autori italiani una protezione effettivamente equivalente."
+    },
+    {
+      "domanda": "Chi detiene i diritti morali su un'opera?",
+      "scelte": [
+        "Sempre l'autore dell'opera",
+        "Il detentore dei diritti patrimoniali",
+        "L'editore dell'opera",
+        "Il traduttore dell'opera"
+      ],
+      "corretta": 0,
+      "spiegazione": "I diritti morali spettano sempre all’autore, indipendentemente da chi detiene i diritti patrimoniali."
+    },
+    {
+      "domanda": "Chi detiene i diritti patrimoniali su un'opera di elaborazione?",
+      "scelte": [
+        "Sempre l'autore dell'opera originale",
+        "L'editore dell'opera originale",
+        "L'elaboratore dell'opera",
+        "Il traduttore dell'opera originale"
+      ],
+      "corretta": 2,
+      "spiegazione": "Nel caso di una elaborazione, i diritti patrimoniali spettano all’elaboratore, considerato l’autore della nuova opera."
+    },
+    {
+      "domanda": "Come possono essere trasferiti i diritti patrimoniali di un'opera?",
+      "scelte": [
+        "Non possono essere trasferiti",
+        "Possono essere trasferiti solo tramite testamento",
+        "Possono essere trasferiti a terzi dall'autore",
+        "Possono essere trasferiti solo a familiari"
+      ],
+      "corretta": 2,
+      "spiegazione": "L’autore può trasferire i diritti patrimoniali a terzi."
+    },
+    {
+        "domanda": "Chi è considerato autore di un'opera, salvo prova contraria?",
+        "scelte": [
+          "Solo chi ha creato l'opera nella sua totalità",
+          "Solo chi ha eseguito l'opera in pubblico",
+          "Chi è indicato come autore nelle forme d'uso o è annunciato come tale nelle esecuzioni dell'opera, includendo pseudonimi o nomi d'arte notoriamente conosciuti come equivalenti al nome vero",
+          "Chiunque abbia acquistato i diritti sull'opera"
+        ],
+        "corretta": 2,
+        "spiegazione": "Autore dell'opera è chi è indicato come tale nelle forme d'uso o è annunciato come tale nelle esecuzioni dell'opera, includendo pseudonimi o nomi d'arte notoriamente conosciuti come equivalenti al nome vero, salvo prova contraria."
+      },
+      {
+        "domanda": "Qual è la caratteristica di un'opera collettiva?",
+        "scelte": [
+          "È un'opera creata da un solo autore",
+          "È un'opera composta da diverse parti aventi carattere di creazione autonoma, come un'enciclopedia o un'antologia",
+          "È un'opera in cui vari autori contribuiscono inscindibilmente e indistinguibilmente",
+          "È un'opera creata da una comunità di artisti"
+        ],
+        "corretta": 1,
+        "spiegazione": "Un'opera collettiva è una riunione di opere o parti di opere aventi carattere di creazione autonoma, come un'enciclopedia o un'antologia."
+      },
+      {
+        "domanda": "Quali sono le caratteristiche di un'opera in comunione?",
+        "scelte": [
+          "Ogni autore ha diritto esclusivo su tutta l'opera",
+          "Le parti indivise si presumono di valore uguale e i diritti morali sono esercitabili solo con l'accordo unanime dei coautori",
+          "Il diritto spetta in comune a tutti gli autori e le parti indivise si presumono di valore uguale, ma i diritti morali possono essere esercitati individualmente",
+          "Solo l'autore principale ha il diritto di pubblicare l'opera o di autorizzare modifiche"
+        ],
+        "corretta": 2,
+        "spiegazione": "Nel caso di un'opera in comunione, il diritto spetta in comune a tutti gli autori, le parti indivise si presumono di valore uguale, ma i diritti morali possono essere esercitati individualmente. È necessario l'accordo di tutti i coautori per pubblicazione dell'opera inedita, modifica, utilizzo in forma diversa da quella della prima pubblicazione."
+      },
+      {
+        "domanda": "Cosa comprende il diritto d'autore (D.A.)?",
+        "scelte": [
+          "Solo i diritti morali dell'autore",
+          "Solo i diritti patrimoniali dell'autore",
+          "I diritti morali e i diritti patrimoniali dell'autore",
+          "Solo i diritti di pubblicazione dell'opera"
+        ],
+        "corretta": 2,
+        "spiegazione": "Il diritto d'autore è composto dai diritti morali e dai diritti patrimoniali dell'autore."
+      },
+      {
+        "domanda": "Quando l'autore acquista il diritto sull'opera secondo l'art. 6 della Legge sul diritto d'autore (LDA)?",
+        "scelte": [
+          "Al momento della sua divulgazione",
+          "Al momento della registrazione presso un'apposita autorità",
+          "Al momento della vendita dell'opera",
+          "Al momento della sua creazione"
+        ],
+        "corretta": 3,
+        "spiegazione": "L'autore acquista il diritto sull'opera al momento della sua creazione, come specificato nell'art. 6 della Legge sul diritto d'autore (LDA)."
+      },
+      {
+        "domanda": "Qual è il requisito fondamentale affinché un'opera possa essere tutelata dal diritto d'autore?",
+        "scelte": [
+          "Deve essere registrata presso un'apposita autorità",
+          "Deve essere protetta da copyright",
+          "Deve essere realizzata, concretizzata, esteriorizzata",
+          "Deve essere brevettata"
+        ],
+        "corretta": 2,
+        "spiegazione": "Per essere tutelata dal diritto d'autore, un'opera deve essere realizzata, concretizzata, esteriorizzata, ovvero deve essere creata in una forma tangibile."
+      },
+      {
+        "domanda": "Cosa è tutelato dal diritto d'autore?",
+        "scelte": [
+          "Solo le opere di autori noti",
+          "Solo le opere pubblicate su supporto cartaceo",
+          "Solo le opere che hanno ottenuto una valutazione positiva da parte di critici",
+          "L'opera, qualunque siano la forma e il modo di espressione, escludendo le idee"
+        ],
+        "corretta": 3,
+        "spiegazione": "Il diritto d'autore tutela l'opera, qualunque siano la forma e il modo di espressione, ma non le semplici idee."
+      }
+      ,
+      {
+        "domanda": "Qual è la durata dei diritti morali dell'autore?",
+        "scelte": [
+          "10 anni dopo la morte dell'autore",
+          "50 anni dopo la morte dell'autore",
+          "Pressoché eterna, possono essere esercitati anche dopo la morte dell'autore da ascedenti, discendenti diretti e, in casi di interesse pubblico, dal Presidente del Consiglio",
+          "5 anni dopo la morte dell'autore"
+        ],
+        "corretta": 2,
+        "spiegazione": "I diritti morali dell'autore hanno una durata pressoché eterna. Possono essere esercitati anche dopo la morte dell'autore da ascedenti, discendenti diretti e, in casi di interesse pubblico, dal Presidente del Consiglio."
+      },
+      {
+        "domanda": "Quanto durano i diritti patrimoniali sull'opera?",
+        "scelte": [
+          "20 anni dopo la morte dell'autore",
+          "50 anni dopo la morte dell'autore",
+          "Perpetui, non hanno una scadenza",
+          "70 anni dopo la morte dell'autore"
+        ],
+        "corretta": 3,
+        "spiegazione": "I diritti patrimoniali sull'opera durano 70 anni dopo la morte dell'autore."
+      },
+      {
+        "domanda": "Quanto durano i diritti patrimoniali sull'opera per le amministrazioni?",
+        "scelte": [
+          "10 anni dopo la morte dell'autore",
+          "Perpetui, non hanno una scadenza",
+          "50 anni dopo la morte dell'autore",
+          "20 anni dopo la prima pubblicazione dell'opera"
+        ],
+        "corretta": 3,
+        "spiegazione": "I diritti patrimoniali sull'opera per le amministrazioni durano 20 anni dopo la prima pubblicazione dell'opera."
+      }
+      ,
+      {
+        "domanda": "Cosa sono i diritti morali dell'autore?",
+        "scelte": [
+          "Diritti che permettono all'autore di guadagnare denaro dalle sue opere",
+          "Diritti esclusivi riconosciuti dalla legge a tutela della personalità dell'autore",
+          "Diritti che permettono all'autore di pubblicare le sue opere sotto forma di edizioni speciali",
+          "Diritti che possono essere ceduti a terzi"
+        ],
+        "corretta": 1,
+        "spiegazione": "I diritti morali dell'autore sono diritti esclusivi riconosciuti dalla legge a tutela della personalità dell'autore."
+      },
+      {
+        "domanda": "Quali sono i diritti morali dell'autore?",
+        "scelte": [
+          "Diritto di vendere l'opera a un'altra persona",
+          "Diritto di integrità dell'opera, diritto di rivendicare la paternità dell'opera, diritto di inedito e diritto di 'pentimento'",
+          "Diritto di pubblicare l'opera senza limitazioni",
+          "Diritto di rinunciare ai diritti d'autore"
+        ],
+        "corretta": 1,
+        "spiegazione": "I diritti morali dell'autore includono il diritto di integrità dell'opera, il diritto di rivendicare la paternità dell'opera, il diritto di decidere se e quando pubblicare l'opera (diritto di inedito) e il diritto di ritirare l'opera dal mercato o di modificarla (diritto di 'pentimento')."
+      },
+      {
+        "domanda": "Cosa significa che i diritti morali sono irrinunciabili?",
+        "scelte": [
+          "L'autore può rinunciare a questi diritti se lo desidera",
+          "L'autore non può rinunciare a questi diritti",
+          "I diritti morali possono essere ceduti a terzi",
+          "I diritti morali possono essere venduti"
+        ],
+        "corretta": 1,
+        "spiegazione": "I diritti morali sono irrinunciabili, il che significa che l'autore non può rinunciare a questi diritti."
+      },
+      {
+        "domanda": "Chi può esercitare i diritti morali dopo la morte dell'autore?",
+        "scelte": [
+          "Solo gli eredi legali",
+          "Solo il coniuge",
+          "Coniuge, ascendenti e discendenti diretti, anche se non sono eredi",
+          "Solo il Presidente del Consiglio dei Ministri"
+        ],
+        "corretta": 2,
+        "spiegazione": "Dopo la morte dell'autore, i diritti morali possono essere esercitati da coniuge, ascendenti e discendenti diretti, anche se non sono eredi."
+      }
+      ,
+      {
+        "domanda": "Qual è il significato del diritto di paternità dell'opera?",
+        "scelte": [
+          "Diritto di modificare l'opera senza chiedere il permesso",
+          "Diritto di essere indicato e riconosciuto pubblicamente come creatore dell'opera, diritto di rivendicare in qualsiasi momento la paternità dell'opera, diritto di far circolare la propria opera in forma anonima o sotto pseudonimo",
+          "Diritto di vendere l'opera a un'altra persona",
+          "Diritto di rinunciare ai diritti d'autore"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il diritto di paternità dell'opera comprende il diritto di essere indicato e riconosciuto pubblicamente come creatore dell'opera, il diritto di rivendicare in qualsiasi momento la paternità dell'opera e il diritto di far circolare la propria opera in forma anonima o sotto pseudonimo."
+      }
+      ,
+      {
+        "domanda": "Cosa comprende il diritto all'integrità dell'opera?",
+        "scelte": [
+          "Diritto di modificare liberamente l'opera senza chiedere il permesso",
+          "Diritto di opporsi a qualsiasi deformazione, mutilazione o altra modificazione che possa essere di pregiudizio all'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione",
+          "Diritto di vendere l'opera a un'altra persona",
+          "Diritto di rinunciare ai diritti d'autore"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il diritto all'integrità dell'opera comprende il diritto di opporsi a qualsiasi deformazione, mutilazione o altra modificazione che possa essere di pregiudizio all'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione."
+      }
+      ,
+      {
+        "domanda": "Cosa comprende il diritto di inedito dell'autore?",
+        "scelte": [
+          "Diritto di modificare liberamente l'opera senza chiedere il permesso",
+          "Diritto esclusivo di decidere se e quando pubblicare l'opera, incluso il diritto di lasciarla inedita per sempre",
+          "Diritto di opporsi a qualsiasi deformazione, mutilazione o altra modificazione dell'opera",
+          "Diritto di rivendicare la paternità dell'opera"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il diritto di inedito dell'autore comprende il diritto esclusivo di decidere se e quando pubblicare l'opera, incluso il diritto di lasciarla inedita per sempre."
+      }
+      ,
+      {
+        "domanda": "Cosa include il diritto di pentimento dell'autore?",
+        "scelte": [
+          "Diritto di decidere liberamente se e quando pubblicare l'opera",
+          "Diritto di ritirare l'opera dal commercio in presenza di gravi ragioni morali, con l'obbligo di indennizzare coloro che hanno acquistato i diritti di utilizzazione economica",
+          "Diritto di rivendicare la paternità dell'opera",
+          "Diritto di opporsi a qualsiasi deformazione, mutilazione o altra modificazione dell'opera"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il diritto di pentimento dell'autore include il diritto di ritirare l'opera dal commercio in presenza di gravi ragioni morali, con l'obbligo di indennizzare coloro che hanno acquistato i diritti di utilizzazione economica."
+      }
+      ,
+      {
+        "domanda": "Cosa include il diritto esclusivo di utilizzazione economica dell'opera per il titolare?",
+        "scelte": [
+          "Diritto di decidere liberamente se e quando pubblicare l'opera",
+          "Diritto esclusivo di utilizzare l'opera nel suo insieme e in ciascuna delle sue parti",
+          "Diritto di rivendicare la paternità dell'opera",
+          "Diritto di ritirare l'opera dal commercio in presenza di gravi ragioni morali"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il diritto esclusivo di utilizzazione economica dell'opera per il titolare include il diritto esclusivo di utilizzare l'opera nel suo insieme e in ciascuna delle sue parti."
+      },
+      {
+        "domanda": "Quali sono alcune delle modalità di utilizzazione economica dell'opera per il titolare?",
+        "scelte": [
+          "Solo la pubblicazione e la riproduzione",
+          "Solo la distribuzione e l'elaborazione",
+          "Pubblicazione, riproduzione, distribuzione, elaborazione, noleggio, prestito",
+          "Solo il prestito e la distribuzione"
+        ],
+        "corretta": 2,
+        "spiegazione": "Alcune delle modalità di utilizzazione economica dell'opera per il titolare includono pubblicazione, riproduzione, distribuzione, elaborazione, noleggio e prestito."
+      },
+      {
+        "domanda": "Quale è la durata dei diritti patrimoniali per le opere collettive?",
+        "scelte": [
+          "70 anni dopo la morte dell'autore",
+          "70 anni dalla prima pubblicazione dell'opera collettiva",
+          "20 anni dalla prima pubblicazione dell'opera collettiva",
+          "20 anni dopo la morte dell'autore"
+        ],
+        "corretta": 1,
+        "spiegazione": "La durata dei diritti patrimoniali per le opere collettive è di 70 anni dalla prima pubblicazione dell'opera collettiva."
+      },
+      {
+        "domanda": "Qual è la durata dei diritti patrimoniali per le Amministrazioni dello Stato e amministrazioni locali?",
+        "scelte": [
+          "70 anni dopo la morte dell'autore",
+          "20 anni dalla prima pubblicazione",
+          "70 anni dalla prima pubblicazione",
+          "20 anni dopo la morte dell'autore"
+        ],
+        "corretta": 1,
+        "spiegazione": "La durata dei diritti patrimoniali per le Amministrazioni dello Stato e amministrazioni locali è di 20 anni dalla prima pubblicazione."
+      }
+      ,
+      {
+        "domanda": "Cosa include il diritto di riproduzione dell'opera per il titolare?",
+        "scelte": [
+          "Diritto di decidere liberamente se e quando pubblicare l'opera",
+          "Diritto esclusivo di effettuare o autorizzare la moltiplicazione in copie, diretta o indiretta, temporanea o permanente, totale o parziale dell'opera, in qualunque modo o forma",
+          "Diritto di opporsi a qualsiasi deformazione, mutilazione o altra modificazione dell'opera",
+          "Diritto di ritirare l'opera dal commercio in presenza di gravi ragioni morali"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il diritto di riproduzione dell'opera per il titolare include il diritto esclusivo di effettuare o autorizzare la moltiplicazione in copie, diretta o indiretta, temporanea o permanente, totale o parziale dell'opera, in qualunque modo o forma."
+      }
+      ,
+      {
+        "domanda": "Quali riproduzioni sono esentate dal diritto esclusivo dell'autore?",
+        "scelte": [
+          "Riproduzioni che hanno un valore economico proprio",
+          "Riproduzioni temporanee prive di rilievo economico proprio, parte integrante di un procedimento tecnologico",
+          "Riproduzioni transitorie accessorie",
+          "Riproduzioni effettuate per scopi commerciali"
+        ],
+        "corretta": 1,
+        "spiegazione": "Le riproduzioni esentate dal diritto esclusivo dell'autore sono quelle temporanee prive di rilievo economico proprio, parte integrante ed essenziale di un procedimento tecnologico."
+      }
+      ,
+      {
+        "domanda": "Cosa include il diritto esclusivo di traduzione e modificazione dell'opera per il titolare?",
+        "scelte": [
+          "Solo il diritto di tradurre l'opera in altra lingua o dialetto",
+          "Diritto di effettuare o autorizzare la traduzione in altra lingua o dialetto e tutte le forme di modificazione, elaborazione e trasformazione dell'opera che costituiscono un rifacimento sostanziale dell'opera",
+          "Solo il diritto di pubblicare l'opera in raccolta",
+          "Solo il diritto di apportare qualsiasi modifica all'opera"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il diritto esclusivo di traduzione e modificazione dell'opera per il titolare include il diritto di effettuare o autorizzare la traduzione in altra lingua o dialetto e tutte le forme di modificazione, elaborazione e trasformazione dell'opera che costituiscono un rifacimento sostanziale dell'opera."
+      }
+      ,
+      {
+        "domanda": "Cosa include il diritto esclusivo di distribuzione dell'opera per il titolare?",
+        "scelte": [
+          "Diritto di effettuare o autorizzare la messa in commercio, la circolazione o la disposizione del pubblico dell'originale dell'opera o di esemplari di essa",
+          "Diritto di vendita e noleggio dell'opera",
+          "Diritto di vendita, noleggio e pubblicazione dell'opera",
+          "Diritto di vendita e diffusione dell'opera"
+        ],
+        "corretta": 0,
+        "spiegazione": "Il diritto esclusivo di distribuzione dell'opera per il titolare include il diritto di effettuare o autorizzare la messa in commercio, la circolazione o la disposizione del pubblico dell'originale dell'opera o di esemplari di essa."
+      }
+      ,
+      {
+        "domanda": "Cosa prevede il principio di esaurimento comunitario del software?",
+        "scelte": [
+          "Il diritto di distribuzione dell'originale o di una copia si esaurisce nella Comunità europea solo se la prima vendita è effettuata dal titolare",
+          "Il diritto di distribuzione dell'originale o di una copia si esaurisce nella Comunità europea solo se la prima vendita è effettuata con il consenso del titolare",
+          "Il diritto di distribuzione dell'originale o di una copia si esaurisce nella Comunità europea se la prima vendita o il primo atto di trasferimento è effettuato dal titolare o con il suo consenso",
+          "Il diritto di distribuzione dell'originale o di una copia si esaurisce nella Comunità europea solo se la prima vendita è effettuata tramite messa a disposizione on demand"
+        ],
+        "corretta": 2,
+        "spiegazione": "Il principio di esaurimento comunitario del software prevede che il diritto di distribuzione dell'originale o di una copia si esaurisce nella Comunità europea se la prima vendita o il primo atto di trasferimento è effettuato dal titolare o con il suo consenso."
+      }
+      ,
+      {
+        "domanda": "Qual è l'età minima per compiere atti giuridici relativi alle opere create e di esercitare le azioni che ne derivano?",
+        "scelte": [
+          "18 anni",
+          "16 anni",
+          "21 anni",
+          "20 anni"
+        ],
+        "corretta": 1,
+        "spiegazione": "Secondo l'articolo 108 della Legge sul Diritto d'Autore, l'autore che ha compiuto 16 anni può compiere tutti gli atti giuridici relativi alle opere da lui create e di esercitare le azioni che ne derivano."
+      }
+      ,
+      {
+        "domanda": "Quale affermazione riguardante la trasmissione dei diritti di utilizzazione economica è vera secondo la Legge sul Diritto d'Autore?",
+        "scelte": [
+          "La trasmissione dei diritti di utilizzazione economica può essere provata verbalmente",
+          "La trasmissione dei diritti di utilizzazione economica deve essere provata per iscritto",
+          "La trasmissione dei diritti di utilizzazione economica può avvenire solo per mezzo di testamenti",
+          "La trasmissione dei diritti di utilizzazione economica è vietata"
+        ],
+        "corretta": 1,
+        "spiegazione": "Secondo l'articolo 110 della Legge sul Diritto d'Autore, la trasmissione dei diritti di utilizzazione economica DEVE ESSERE PROVATA PER ISCRITTO."
+      }
+      ,
+      {
+        "domanda": "Qual è il principio generale riguardante lo sfruttamento e il godimento dell'opera secondo la Legge sul Diritto d'Autore?",
+        "scelte": [
+          "Non è necessario il consenso dell'autore per lo sfruttamento e il godimento dell'opera",
+          "È necessario il consenso dell'autore per lo sfruttamento e il godimento dell'opera",
+          "L'autore può sfruttare e godere dell'opera solo se previsto dalla legge",
+          "L'autore non ha diritti su sfruttamento e godimento dell'opera"
+        ],
+        "corretta": 1,
+        "spiegazione": "Il principio generale secondo la Legge sul Diritto d'Autore è che è necessario il consenso dell'autore per lo sfruttamento e il godimento dell'opera."
+      }
+      ,
+      {
+        "domanda": "Quale delle seguenti affermazioni è vera riguardo alle eccezioni alla regola generale dello sfruttamento dell'opera secondo la Legge sul Diritto d'Autore?",
+        "scelte": [
+          "Non vi sono eccezioni alla regola generale",
+          "Le eccezioni alla regola generale sono ammesse solo se l'autore le autorizza",
+          "Le eccezioni alla regola generale sono ammesse solo in casi di concorrenza con i diritti di utilizzazione economica dell'autore",
+          "Vi sono eccezioni tassative alla regola generale, permettendo l'utilizzazione libera in determinati casi"
+        ],
+        "corretta": 3,
+        "spiegazione": "Secondo la Legge sul Diritto d'Autore, vi sono eccezioni tassative alla regola generale, permettendo l'utilizzazione libera in determinati casi."
+      }
+      ,
+      {
+        "domanda": "Chi può essere titolare di diritti connessi secondo la Legge sul Diritto d'Autore?",
+        "scelte": [
+          "Solo gli autori delle opere",
+          "Esclusivamente gli artisti, interpreti o esecutori",
+          "Gli autori delle opere e i loro editori",
+          "Artisti, interpreti o esecutori, produttori di supporti fonografici, produttori di opere cinematografiche o audiovisive, emittenti radiofoniche e televisive"
+        ],
+        "corretta": 3,
+        "spiegazione": "Secondo la Legge sul Diritto d'Autore, i titolari di diritti connessi includono artisti, interpreti o esecutori, produttori di supporti fonografici, produttori di opere cinematografiche o audiovisive, emittenti radiofoniche e televisive."
+      }
+      ,
+      {
+        "domanda": "In che modo è tutelato il software secondo la Legge sul Diritto d'Autore?",
+        "scelte": [
+          "Solo se il codice sorgente è originale",
+          "Solo se il software è registrato presso un'agenzia governativa",
+          "I programmi per elaboratore sono protetti in base alla disciplina sul diritto d'autore",
+          "Solo se il software è pubblicato sotto una licenza open source"
+        ],
+        "corretta": 2,
+        "spiegazione": "Secondo la Legge sul Diritto d'Autore, i programmi per elaboratore sono protetti in base alla disciplina sul diritto d'autore, purché siano originali e costituiscano risultato di creazione intellettuale dell'autore."
+      }
+      ,
+      {
+        "domanda": "Cosa non è protetto secondo la Legge sul Diritto d'Autore per quanto riguarda il software?",
+        "scelte": [
+          "Le idee e i principi alla base del software",
+          "La forma espressiva del software, inclusa la sua struttura e lo sviluppo delle istruzioni",
+          "Il codice sorgente del software",
+          "La registrazione del software presso un'agenzia governativa"
+        ],
+        "corretta": 0,
+        "spiegazione": "Secondo la Legge sul Diritto d'Autore, le idee e i principi alla base del software non sono protetti. Ciò che è tutelato è la forma espressiva del software, inclusa la sua struttura e lo sviluppo delle istruzioni."
+      }
+      ,
+      {
+        "domanda": "Chi è il titolare dei diritti morali sul software?",
+        "scelte": [
+          "L'autore",
+          "Le Pubbliche Amministrazioni",
+          "I dipendenti di una software house",
+          "Le aziende di software"
+        ],
+        "corretta": 0,
+        "spiegazione": "I diritti morali sul software spettano all'autore."
+      }
+      ,
+      {
+        "domanda": "Chi può essere il titolare dei diritti patrimoniali sul software?",
+        "scelte": [
+          "Solo l'autore",
+          "Solo le Pubbliche Amministrazioni",
+          "Solo i dipendenti di una software house",
+          "L'autore, altre entità come le Pubbliche Amministrazioni o i dipendenti di una software house"
+        ],
+        "corretta": 3,
+        "spiegazione": "I titolari dei diritti patrimoniali sul software possono essere l'autore, altre entità come le Pubbliche Amministrazioni o i dipendenti di una software house, a seconda dei casi."
+      }
+      ,
+      {
+        "domanda": "Chi è il titolare dei diritti patrimoniali sul software creato da un dipendente?",
+        "scelte": [
+          "L'autore del software",
+          "Sempre il datore di lavoro",
+          "Il datore di lavoro, salvo patto contrario",
+          "Il dipendente"
+        ],
+        "corretta": 2,
+        "spiegazione": "Il datore di lavoro è titolare del diritto esclusivo di utilizzazione economica sul software creato dal dipendente, salvo patto contrario, ma i diritti morali restano dell'autore, il dipendente, salvo diversamente stabilito."
+      }
+      ,
+      {
+        "domanda": "Quale delle seguenti affermazioni descrive un'eccezione ai diritti esclusivi sul software?",
+        "scelte": [
+          "È consentita la riproduzione e la modifica del software senza autorizzazione del titolare solo per motivi di svago personale.",
+          "La distribuzione del software può essere effettuata liberamente senza autorizzazione del titolare.",
+          "È consentita la riproduzione e la modifica del software senza autorizzazione del titolare se necessarie per l'uso del software, inclusa la correzione degli errori, salvo patto contrario."
+        ],
+        "corretta": 2,
+        "spiegazione": "L'eccezione ai diritti esclusivi sul software consente la riproduzione e la modifica del software senza autorizzazione del titolare solo se necessarie per l'uso del software, inclusa la correzione degli errori, salvo patto contrario."
+      }
+      ,
+      {
+        "domanda": "Qual è un esempio di eccezione ai diritti esclusivi sul software?",
+        "scelte": [
+          "La distribuzione del software senza autorizzazione del titolare.",
+          "L'uso del software per scopi commerciali senza pagare alcun compenso.",
+          "Chi ha diritto di usare il software può effettuare una copia di backup, se necessaria per l’uso del software, e questo non può essere vietato per contratto."
+        ],
+        "corretta": 2,
+        "spiegazione": "Un esempio di eccezione ai diritti esclusivi sul software è che chi ha diritto di usare il software può effettuare una copia di backup, se necessaria per l'uso del software, e questo non può essere vietato per contratto."
+      }
+      ,
+      {
+        "domanda": "Quali azioni può compiere chi ha diritto di usare il software senza l'autorizzazione del titolare?",
+        "scelte": [
+          "Possono essere effettuate solo le operazioni specificamente indicate nel contratto di licenza.",
+          "Possono essere compiute solo dopo aver ottenuto l'approvazione scritta del titolare.",
+          "Possono osservare, studiare e sottoporre a prova il funzionamento del software per determinare le idee e i principi su cui si basa, senza autorizzazione del titolare."
+        ],
+        "corretta": 2,
+        "spiegazione": "Chi ha diritto di usare il software può osservare, studiare e sottoporre a prova il funzionamento del software per determinare le idee e i principi su cui si basa, senza autorizzazione del titolare."
+      }
+      ,
+      {
+        "domanda": "Quale delle seguenti dichiarazioni descrive una delle eccezioni per l'interoperabilità del software?",
+        "scelte": [
+          "La riproduzione del codice e la sua traduzione sono sempre soggette all'autorizzazione del titolare, indipendentemente dalla necessità di interoperabilità.",
+          "Non è richiesta l'autorizzazione del titolare se la riproduzione del codice e la sua traduzione sono indispensabili per ottenere le informazioni necessarie per l'interoperabilità con altri software, e l'attività è compiuta dal licenziatario o da un soggetto autorizzato.",
+          "La riproduzione del codice è consentita solo se le informazioni sono facilmente e rapidamente accessibili, indipendentemente dalla necessità di interoperabilità."
+        ],
+        "corretta": 1,
+        "spiegazione": "Secondo le eccezioni per l'interoperabilità del software, non è richiesta l'autorizzazione del titolare se la riproduzione del codice e la sua traduzione sono indispensabili per ottenere le informazioni necessarie per l'interoperabilità con altri software, e l'attività è compiuta dal licenziatario o da un soggetto autorizzato."
+      }
+      ,
+      {
+        "domanda": "Qual è lo scopo principale della registrazione di un software presso il Pubblico Registro Software della SIAE?",
+        "scelte": [
+          "Ottenere la tutela legale contro possibili plagi o illecite utilizzazioni del software.",
+          "Fornire una prova documentale dell'esistenza del software e della titolarità dei diritti.",
+          "Assicurare la promozione e la commercializzazione del software sul mercato."
+        ],
+        "corretta": 1,
+        "spiegazione": "La registrazione di un software presso il Pubblico Registro Software della SIAE ha lo scopo principale di fornire una prova documentale dell'esistenza del software e della titolarità dei diritti."
+      }
+      ,
+      {
+        "domanda": "Quali informazioni relative al software vengono rese pubbliche con il deposito presso il Pubblico Registro Software della SIAE?",
+        "scelte": [
+          "Solo l'esistenza del software.",
+          "L'esistenza e il titolo del software, ma non il nome dell'autore.",
+          "L'esistenza e il titolo del software, il nome dell'autore, la data e il luogo di pubblicazione, il nome del titolare dei diritti di utilizzazione economica (se diverso dall'autore)."
+        ],
+        "corretta": 2,
+        "spiegazione": "Con il deposito presso il Pubblico Registro Software della SIAE vengono rese pubbliche l'esistenza e il titolo del software, il nome dell'autore, la data e il luogo di pubblicazione, il nome del titolare dei diritti di utilizzazione economica (se diverso dall'autore)."
+      }
+      ,
+      {
+        "domanda": "Quale delle seguenti affermazioni sul deposito del software presso il Pubblico Registro Software della SIAE è corretta?",
+        "scelte": [
+          "Il deposito fornisce automaticamente la tutela legale contro plagi o illecite utilizzazioni.",
+          "Il deposito ha validità illimitata e non richiede rinnovo.",
+          "Il deposito del software presso il Pubblico Registro Software della SIAE ha validità quinquennale."
+        ],
+        "corretta": 2,
+        "spiegazione": "Il deposito del software presso il Pubblico Registro Software della SIAE ha validità quinquennale e può essere rinnovato per la stessa durata. Inoltre, è necessario depositare una copia del software su disco ottico."
+      }
+      ,
+      {
+        "domanda": "Secondo la Convenzione sul brevetto europeo, cosa è necessario affinché un brevetto possa essere concesso?",
+        "scelte": [
+          "L'approvazione del Comitato europeo per i brevetti.",
+          "L'inclusione del software come parte dell'invenzione.",
+          "Che l'invenzione sia nuova, implichi un'attività inventiva e sia suscettibile di applicazione industriale."
+        ],
+        "corretta": 2,
+        "spiegazione": "Secondo la Convenzione sul brevetto europeo, un brevetto può essere concesso solo se l'invenzione è nuova, implica un'attività inventiva e se è suscettibile di applicazione industriale."
+      }
+      ,
+      {
+        "domanda": "Qual è la posizione della Convenzione sul brevetto europeo riguardo alla concessione di brevetti per software?",
+        "scelte": [
+          "I brevetti software sono concessi senza restrizioni.",
+          "I brevetti software sono espressamente esclusi; il software è tutelato dal diritto d'autore.",
+          "I brevetti software possono essere concessi solo per software open source."
+        ],
+        "corretta": 1,
+        "spiegazione": "La Convenzione sul brevetto europeo esclude espressamente la concessione di brevetti per software, indicando che il software è tutelato dal diritto d'autore."
+      }
+      ,
+      {
+        "domanda": "Quali entità possono concedere brevetti per invenzioni che utilizzano software?",
+        "scelte": [
+          "Solo l'Unione Europea attraverso l'Ufficio europeo dei brevetti.",
+          "Solo gli uffici nazionali dei paesi membri dell'Unione Europea.",
+          "L'Ufficio europeo dei brevetti (EPO) e gli uffici nazionali hanno concesso numerosi brevetti per invenzioni che utilizzano software."
+        ],
+        "corretta": 2,
+        "spiegazione": "L'Ufficio europeo dei brevetti (EPO) e gli uffici nazionali hanno concesso numerosi brevetti per invenzioni che utilizzano software, non solo l'UE."
+      }      
+]
+      
+      
+      
+      
+      
+  
